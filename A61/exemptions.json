@@ -1,0 +1,21 @@
+{
+	"category":"A61",
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"exeptions as allowed by compliance standard as set by a governmental body, standards body, or corporation being declared at the product level",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"exemptions",
+	"name":{
+		"defaultValue":"exemptions",
+		"i18nValue":{
+			"en_US":"exemptions",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

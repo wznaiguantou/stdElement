@@ -1,0 +1,21 @@
+{
+	"category":"A51",
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"sub-unit of a product or another (product) part\nA product part can be decomposed into other product parts.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"product_part",
+	"name":{
+		"defaultValue":"product part",
+		"i18nValue":{
+			"en_US":"product part",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

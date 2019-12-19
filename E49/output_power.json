@@ -1,0 +1,19 @@
+{
+	"category":"E49",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"output power of an electric-electronic or electromechanical component, as a variable",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"output_power",
+	"name":{
+		"defaultValue":"output power",
+		"i18nValue":{
+			"en_US":"output power",
+			"zh_CN":null
+		}
+	},
+	"unit":"W",
+	"version":"1.0"
+}

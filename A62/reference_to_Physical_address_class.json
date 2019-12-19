@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"relation to the specified class Physical address",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_to_Physical_address_class",
+	"name":{
+		"defaultValue":"reference to Physical address class",
+		"i18nValue":{
+			"en_US":"reference to Physical address class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,31 @@
+{
+	"category":"A52",
+	"dataDefinition":{
+		"enumDesc":{
+			"TT":{
+				"defaultValue":"two-terminal variable resistor",
+				"i18nValue":{}
+			},
+			"POT":{
+				"defaultValue":"potentiometer (3 or more terminals)",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the number of terminals identifying a variable resistor",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"number_of_terminals",
+	"name":{
+		"defaultValue":"number of terminals",
+		"i18nValue":{
+			"en_US":"number of terminals",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

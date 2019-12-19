@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"DC voltage that is supplied to drive the oscillator",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"supply_voltage",
+	"name":{
+		"defaultValue":"supply voltage",
+		"i18nValue":{
+			"en_US":"supply voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

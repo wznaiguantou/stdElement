@@ -1,0 +1,19 @@
+{
+	"category":"E09",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"capacitance that can be presented to the oscillator output",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"load_capacitance",
+	"name":{
+		"defaultValue":"load capacitance",
+		"i18nValue":{
+			"en_US":"load capacitance",
+			"zh_CN":null
+		}
+	},
+	"unit":"pF",
+	"version":"1.0"
+}

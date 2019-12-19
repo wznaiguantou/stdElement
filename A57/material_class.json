@@ -1,0 +1,21 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"material class information as defined in the IEC 62474 database\nIEC 62474:2012, 3.5 defines material class as \"defined classification of materials that are established in referenced IEC 62474 database for purposes of inventorying aspects of a product, such that no two classes contain the same materials\".",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"material_class",
+	"name":{
+		"defaultValue":"material class",
+		"i18nValue":{
+			"en_US":"material class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

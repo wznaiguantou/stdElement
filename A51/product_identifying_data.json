@@ -1,0 +1,21 @@
+{
+	"category":"A51",
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"designating information of product being declared\nIEC62474_DeveloperTable_X4.00_20140405:2014:  properties describing the product including mass",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"product_identifying_data",
+	"name":{
+		"defaultValue":"product identifying data",
+		"i18nValue":{
+			"en_US":"product identifying data",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

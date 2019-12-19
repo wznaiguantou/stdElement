@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"range of a time interval as variable",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"duration",
+	"name":{
+		"defaultValue":"duration",
+		"i18nValue":{
+			"en_US":"duration",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

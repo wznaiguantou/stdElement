@@ -1,0 +1,21 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"substance group information as defined in the IEC 62474 database\nIEC 62474:2012, 3.14 defines substance group as \"one or more substances, where in the case of multiple substances they share at least one chemical sub-structure, or chemical or physical property under a generic name\".",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"substance_group",
+	"name":{
+		"defaultValue":"substance group",
+		"i18nValue":{
+			"en_US":"substance group",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

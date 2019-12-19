@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"unique identifier of the exemption list that is being referenced\nUniqueID which includes an identity name and the authorizing body for the identity name",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"exemption_list_identifier",
+	"name":{
+		"defaultValue":"exemption list identifier",
+		"i18nValue":{
+			"en_US":"exemption list identifier",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

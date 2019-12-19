@@ -1,0 +1,35 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"RTII":{
+				"defaultValue":"sealed relays",
+				"i18nValue":{}
+			},
+			"RTI":{
+				"defaultValue":"sealed contacts",
+				"i18nValue":{}
+			},
+			"RT0":{
+				"defaultValue":"non-sealed contacts",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"IEC standard code of the sealing of a relay",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"sealing",
+	"name":{
+		"defaultValue":"sealing",
+		"i18nValue":{
+			"en_US":"sealing",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

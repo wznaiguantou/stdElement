@@ -1,0 +1,19 @@
+{
+	"category":"H02",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ambient temperature used as the basis for defining operational characteristics",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"reference_temperature",
+	"name":{
+		"defaultValue":"reference temperature",
+		"i18nValue":{
+			"en_US":"reference temperature",
+			"zh_CN":null
+		}
+	},
+	"unit":"°C",
+	"version":"1.0"
+}

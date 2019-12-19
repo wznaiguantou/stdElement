@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value as specified by level (minmax) of the direct drain current of a field-effect transistor at specified drain-source voltage and source short-circuited to the gate",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"drain_current_(dc)",
+	"name":{
+		"defaultValue":"drain current (dc)",
+		"i18nValue":{
+			"en_US":"drain current (dc)",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

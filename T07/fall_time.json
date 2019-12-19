@@ -1,0 +1,19 @@
+{
+	"category":"T07",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"time interval required for the falling edge of a square waveform to change between two defined levels",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"fall_time",
+	"name":{
+		"defaultValue":"fall time",
+		"i18nValue":{
+			"en_US":"fall time",
+			"zh_CN":null
+		}
+	},
+	"unit":"s",
+	"version":"1.0"
+}

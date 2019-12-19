@@ -1,0 +1,21 @@
+{
+	"category":null,
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"system of three orthogonal axes having its origin at a specified three-dimensional Cartesian point",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"axis2_placement3d",
+	"name":{
+		"defaultValue":"axis2_placement3d",
+		"i18nValue":{
+			"en_US":"axis2_placement3d",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

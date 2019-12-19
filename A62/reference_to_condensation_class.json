@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"relation to the specified class condensation",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_to_condensation_class",
+	"name":{
+		"defaultValue":"reference to condensation class",
+		"i18nValue":{
+			"en_US":"reference to condensation class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

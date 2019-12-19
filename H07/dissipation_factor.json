@@ -1,0 +1,19 @@
+{
+	"category":"H07",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"ratio of the power dissipation change to the resultant body temperature change of a thermistor at a specified ambient temperature",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"dissipation_factor",
+	"name":{
+		"defaultValue":"dissipation factor",
+		"i18nValue":{
+			"en_US":"dissipation factor",
+			"zh_CN":null
+		}
+	},
+	"unit":"W/K",
+	"version":"1.0"
+}

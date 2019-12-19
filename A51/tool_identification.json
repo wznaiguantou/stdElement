@@ -1,0 +1,21 @@
+{
+	"category":"A51",
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"unique tool name and its version number used for material declaration data exchange compliant to IEC 62474 requirements\nEXAMPLE: Authority=\"Xxyyzz Green Procurement Tool, Identity= Ver.2.01\".",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"tool_identification",
+	"name":{
+		"defaultValue":"tool identification",
+		"i18nValue":{
+			"en_US":"tool identification",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

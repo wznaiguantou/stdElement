@@ -1,0 +1,21 @@
+{
+	"category":"A61",
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"supplementary file added to the declaration",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"attachment",
+	"name":{
+		"defaultValue":"attachment",
+		"i18nValue":{
+			"en_US":"attachment",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

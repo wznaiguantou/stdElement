@@ -1,0 +1,19 @@
+{
+	"category":"G21",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum sound pressure level of a loudspeaker, relative to the reference sound pressure level at any frequency within the effective frequency range referred to a sinusoidal input power of 1 W and to a distance of 1 m on the reference axis",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"sensitivity",
+	"name":{
+		"defaultValue":"sensitivity",
+		"i18nValue":{
+			"en_US":"sensitivity",
+			"zh_CN":null
+		}
+	},
+	"unit":"dB",
+	"version":"1.0"
+}

@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"relation to the specified class Dated effectivity",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_to_Dated_effectivity_class",
+	"name":{
+		"defaultValue":"reference to Dated effectivity class",
+		"i18nValue":{
+			"en_US":"reference to Dated effectivity class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

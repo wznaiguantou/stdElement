@@ -1,0 +1,19 @@
+{
+	"category":"T01",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"Angle between viewing direction and the perpendicular to the plane of the liquid crystal display, as a variable",
+	"elementType":["MEASUREPOINT"],
+	"identifier":"viewing_angle",
+	"name":{
+		"defaultValue":"viewing angle",
+		"i18nValue":{
+			"en_US":"viewing angle",
+			"zh_CN":null
+		}
+	},
+	"unit":"°",
+	"version":"1.0"
+}

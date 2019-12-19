@@ -1,0 +1,21 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"material and its properties which is being reported for the product family, product, or product part\nIEC 62474:2012, 3.4 defines material as \"substance or mixture within a product or product part\".",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"material",
+	"name":{
+		"defaultValue":"material",
+		"i18nValue":{
+			"en_US":"material",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

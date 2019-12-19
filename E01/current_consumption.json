@@ -1,0 +1,19 @@
+{
+	"category":"E01",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the current that must be supplied to the oscillator to drive it",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"current_consumption",
+	"name":{
+		"defaultValue":"current consumption",
+		"i18nValue":{
+			"en_US":"current consumption",
+			"zh_CN":null
+		}
+	},
+	"unit":"A",
+	"version":"1.0"
+}

@@ -1,0 +1,39 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"PD4":{
+				"defaultValue":"pollution degree 4",
+				"i18nValue":{}
+			},
+			"PD1":{
+				"defaultValue":"pollution degree 1",
+				"i18nValue":{}
+			},
+			"PD3":{
+				"defaultValue":"pollution degree 3",
+				"i18nValue":{}
+			},
+			"PD2":{
+				"defaultValue":"pollution degree 2",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for a numeric level characterizing the specified maximum pollution of the micro-environment of a relay\nPollution degrees 1, 2, 3 and 4 are used.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"pollution_degree",
+	"name":{
+		"defaultValue":"pollution degree",
+		"i18nValue":{
+			"en_US":"pollution degree",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

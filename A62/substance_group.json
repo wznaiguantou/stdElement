@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"substance group information as defined in the IEC 62474 database\nCan be more than one substance group.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"substance_group",
+	"name":{
+		"defaultValue":"substance group",
+		"i18nValue":{
+			"en_US":"substance group",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

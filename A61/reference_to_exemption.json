@@ -1,0 +1,21 @@
+{
+	"category":"A61",
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"pointer to identifier and content of exemption\nIEC62474_DeveloperTable_X4.00_20140405:2014: identifies exemptions and provides a description of the exemption",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_to_exemption",
+	"name":{
+		"defaultValue":"reference to exemption",
+		"i18nValue":{
+			"en_US":"reference to exemption",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

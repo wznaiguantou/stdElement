@@ -1,0 +1,19 @@
+{
+	"category":null,
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"capacitance between the gate and emitter terminals with the collector terminal ac. short-circuited to the emitter terminal",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"input_capacitance",
+	"name":{
+		"defaultValue":"input capacitance",
+		"i18nValue":{
+			"en_US":"input capacitance",
+			"zh_CN":null
+		}
+	},
+	"unit":"F",
+	"version":"1.0"
+}

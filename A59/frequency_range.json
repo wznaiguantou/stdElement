@@ -1,0 +1,67 @@
+{
+	"category":"A59",
+	"dataDefinition":{
+		"enumDesc":{
+			"10-500":{
+				"defaultValue":"10Hz to 500Hz",
+				"i18nValue":{}
+			},
+			"1-100":{
+				"defaultValue":"1Hz to 100Hz",
+				"i18nValue":{}
+			},
+			"100-2000":{
+				"defaultValue":"100Hz to 2000Hz",
+				"i18nValue":{}
+			},
+			"10-5000":{
+				"defaultValue":"10Hz to 5000Hz",
+				"i18nValue":{}
+			},
+			"55-5000":{
+				"defaultValue":"55Hz to 5000Hz",
+				"i18nValue":{}
+			},
+			"10-2000":{
+				"defaultValue":"10Hz to 2000Hz",
+				"i18nValue":{}
+			},
+			"10-55":{
+				"defaultValue":"10Hz to 55Hz",
+				"i18nValue":{}
+			},
+			"55-2000":{
+				"defaultValue":"55Hz to 2000Hz",
+				"i18nValue":{}
+			},
+			"1-35":{
+				"defaultValue":"1Hz to 35Hz",
+				"i18nValue":{}
+			},
+			"55-500":{
+				"defaultValue":"55Hz to 500Hz",
+				"i18nValue":{}
+			},
+			"10-150":{
+				"defaultValue":"10Hz to 150Hz",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code for the range of sinusoidal vibration frequency to which the data for vibration resistance of relays is referred",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"frequency_range",
+	"name":{
+		"defaultValue":"frequency range",
+		"i18nValue":{
+			"en_US":"frequency range",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

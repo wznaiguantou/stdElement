@@ -1,0 +1,21 @@
+{
+	"category":null,
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"relation to the specified class electronic address",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"reference_to_class_electronic_address",
+	"name":{
+		"defaultValue":"reference to class electronic address",
+		"i18nValue":{
+			"en_US":"reference to class electronic address",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

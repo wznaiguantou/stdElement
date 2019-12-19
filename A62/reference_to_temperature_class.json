@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"relation to the specified class temperature",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_to_temperature_class",
+	"name":{
+		"defaultValue":"reference to temperature class",
+		"i18nValue":{
+			"en_US":"reference to temperature class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,35 @@
+{
+	"category":"A56",
+	"dataDefinition":{
+		"enumDesc":{
+			"RF":{
+				"defaultValue":"radio frequency",
+				"i18nValue":{}
+			},
+			"LF":{
+				"defaultValue":"low frequency",
+				"i18nValue":{}
+			},
+			"WB":{
+				"defaultValue":"wideband",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the frequency identifying an amplifier, signal cable or transistor\nWideband only to be used for amplifiers.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"frequency_application",
+	"name":{
+		"defaultValue":"frequency application",
+		"i18nValue":{
+			"en_US":"frequency application",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

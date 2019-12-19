@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"relation to the specified class vibration",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_to_vibration_class",
+	"name":{
+		"defaultValue":"reference to vibration class",
+		"i18nValue":{
+			"en_US":"reference to vibration class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

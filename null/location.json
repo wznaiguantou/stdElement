@@ -1,0 +1,21 @@
+{
+	"category":null,
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"geometric position of the reference point of an item to be located in a coordinate system",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"location",
+	"name":{
+		"defaultValue":"location",
+		"i18nValue":{
+			"en_US":"location",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

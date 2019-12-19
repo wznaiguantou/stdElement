@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"unique identifier that distinguishes one exemption from another\nThe identity is to be used in any case where there is a conflict between the identity and the description.||Since this identifier may not be unique across authorizing bodies it is joined with the UniqueID to assure uniqueness.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"exemption_identifier",
+	"name":{
+		"defaultValue":"exemption identifier",
+		"i18nValue":{
+			"en_US":"exemption identifier",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

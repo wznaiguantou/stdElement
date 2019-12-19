@@ -1,0 +1,19 @@
+{
+	"category":"A58",
+	"dataDefinition":null,
+	"dataType":"int",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"number of actual terminals on a minimally-packaged device\nThe figure given should be the actual number of terminals used for making connections. Terminal positions not used should not be counted.",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"number_of_terminals",
+	"name":{
+		"defaultValue":"number of terminals",
+		"i18nValue":{
+			"en_US":"number of terminals",
+			"zh_CN":null
+		}
+	},
+	"unit":"1",
+	"version":"1.0"
+}

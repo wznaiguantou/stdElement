@@ -1,0 +1,21 @@
+{
+	"category":"E33",
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"value of the resistance of a fixed linear resistor together with its tolerances at specified reference conditions",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"toleranced_resistance",
+	"name":{
+		"defaultValue":"toleranced resistance",
+		"i18nValue":{
+			"en_US":"toleranced resistance",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

@@ -1,0 +1,19 @@
+{
+	"category":"T03",
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"minimum and typical value of the allowed radius measured to the centre-line of the conductor when bending it into a planar curve\nApplying a smaller bending radius than the minimum value may result in damaging the conductor, affecting its function or shorten its lifetime\nThe minimum value applies to a single bending of a conductor and the typical value to the multiple bending of a conductor. The minimum bending radius is often implemented using a template.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"bending_radius",
+	"name":{
+		"defaultValue":"bending radius",
+		"i18nValue":{
+			"en_US":"bending radius",
+			"zh_CN":null
+		}
+	},
+	"unit":"m",
+	"version":"1.0"
+}

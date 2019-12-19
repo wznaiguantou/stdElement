@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"relation to the specified class Person identification",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_to_Person_identification_class",
+	"name":{
+		"defaultValue":"reference to Person identification class",
+		"i18nValue":{
+			"en_US":"reference to Person identification class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

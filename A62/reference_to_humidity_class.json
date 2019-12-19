@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"relation to the specified class humidity",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_to_humidity_class",
+	"name":{
+		"defaultValue":"reference to humidity class",
+		"i18nValue":{
+			"en_US":"reference to humidity class",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

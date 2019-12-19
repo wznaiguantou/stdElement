@@ -1,0 +1,19 @@
+{
+	"category":null,
+	"dataDefinition":null,
+	"dataType":"double",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"voltage applied to the power supply pin of a single power supply device to operate it",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"supply_voltage",
+	"name":{
+		"defaultValue":"supply voltage",
+		"i18nValue":{
+			"en_US":"supply voltage",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

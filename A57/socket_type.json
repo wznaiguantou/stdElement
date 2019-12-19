@@ -1,0 +1,63 @@
+{
+	"category":"A57",
+	"dataDefinition":{
+		"enumDesc":{
+			"FUSE":{
+				"defaultValue":"fuse-holder or socket",
+				"i18nValue":{}
+			},
+			"SIG":{
+				"defaultValue":"signal socket",
+				"i18nValue":{}
+			},
+			"TRA":{
+				"defaultValue":"transistor socket",
+				"i18nValue":{}
+			},
+			"TUBE":{
+				"defaultValue":"socket for tube",
+				"i18nValue":{}
+			},
+			"ANT":{
+				"defaultValue":"socket for antenna feeder",
+				"i18nValue":{}
+			},
+			"LIGHT":{
+				"defaultValue":"lighting socket",
+				"i18nValue":{}
+			},
+			"IC":{
+				"defaultValue":"socket for integrated circuit",
+				"i18nValue":{}
+			},
+			"PWR":{
+				"defaultValue":"power socket",
+				"i18nValue":{}
+			},
+			"PCB":{
+				"defaultValue":"socket for PCB",
+				"i18nValue":{}
+			},
+			"XTAL":{
+				"defaultValue":"socket for quartz crystal",
+				"i18nValue":{}
+			}
+		},
+		"enumType":"STRING"
+	},
+	"dataType":"enum",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"code of the type of socket",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"socket_type",
+	"name":{
+		"defaultValue":"socket type",
+		"i18nValue":{
+			"en_US":"socket type",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}

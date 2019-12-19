@@ -1,0 +1,19 @@
+{
+	"category":"E06",
+	"dataDefinition":null,
+	"dataType":"float",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"maximum limiting direct voltage between collector and emitter terminals of a bipolar transistor at specified voltage between base and emitter terminals",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"identifier":"collector-emitter_voltage_V_CE",
+	"name":{
+		"defaultValue":"collector-emitter voltage V_CE",
+		"i18nValue":{
+			"en_US":"collector-emitter voltage V_CE",
+			"zh_CN":null
+		}
+	},
+	"unit":"V",
+	"version":"1.0"
+}

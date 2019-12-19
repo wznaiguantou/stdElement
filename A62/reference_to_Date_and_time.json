@@ -1,0 +1,21 @@
+{
+	"category":"A62",
+	"dataDefinition":{
+		"items":null
+	},
+	"dataType":"struct",
+	"defaultValue":null,
+	"deprecated":false,
+	"description":"relation to the specified class Date and time",
+	"elementType":["ATTRIBUTE"],
+	"identifier":"reference_to_Date_and_time",
+	"name":{
+		"defaultValue":"reference to Date and time",
+		"i18nValue":{
+			"en_US":"reference to Date and time",
+			"zh_CN":null
+		}
+	},
+	"unit":null,
+	"version":"1.0"
+}
