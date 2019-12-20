@@ -1,10 +1,10 @@
 {
 	"category":"F03",
 	"dataDefinition":null,
-	"dataType":"int",
+	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum switching frequency  of the input current, caused by an actuator that causes a switch-over at the output side of an hybrid inductive proximity sensor",
+	"description":"value as specified by level (miNomax) of the frequency  of a power transformer",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"operating_frequency",
 	"name":{

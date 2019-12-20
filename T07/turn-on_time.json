@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax) of the time elapsing between the start of the input pulse (usually 10% of its maximum value) and the moment the corresponding output signal is at least 90% of its maximum value, of a bipolar transistor at reference conditions\n1.   t_on} = t_d} + t_r}.|2.   The reference conditions at specifying times for bipolar transistors are normally:|- supply voltage|- collector current|- base current|- reference temperature",
+	"description":"value of the time interval between the start of the input pulse (10% of its maximum value) and the moment when the corresponding output signal of a photocoupler is at least 90% of its maximum value, at specified conditions",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"turn-on_time",
 	"name":{

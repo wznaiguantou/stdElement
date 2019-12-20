@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"length as specified by level (miNomax) of a flange measured in the direction of the package length",
+	"description":"value as specified by level (miNomax) of the length of the flange of a component in the x-direction",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"flange_length",
 	"name":{

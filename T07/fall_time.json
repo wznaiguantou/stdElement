@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"time interval required for the falling edge of a square waveform to change between two defined levels",
+	"description":"time measured between the 90% value and the 10% value of the drain current swing of a field-effect transistor, at specified conditions",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"fall_time",
 	"name":{

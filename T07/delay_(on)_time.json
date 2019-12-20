@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax) of the time, measured between the 10% value of the input pulse which is switching-on the transistor, and the 10% value of the corresponding output pulse of a bipolar transistor at reference conditions\nThe reference conditions at specifying times for bipolar transistors are normally:| - supply voltage| - collector current| - base current| - reference temperature",
+	"description":"value as specified by level (minTypmax) of the time, measured between the 10% value of the gate-source voltage change and the 10% value of the drain current swing of a field-effect transistor at reference conditions\n1.  The internal generator resistance and gate-source resistance are assumed to be 50 ohm.| 2.  The reference conditions at specifying times for field-effect transistors are normally:| - drain-source voltage| - gate-source voltage| - drain current (dc)| - reference temperature",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"delay_(on)_time",
 	"name":{

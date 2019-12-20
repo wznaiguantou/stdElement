@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"distance as specified by level (miNomax) from a reference line to the centre of a terminal position measured in a direction parallel to the package width",
+	"description":"distance as specified by level (miNomax) from a line through the centres of two terminal positions to the centre of the mounting hole which is furthest from the line",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"terminal_reference_position",
 	"name":{

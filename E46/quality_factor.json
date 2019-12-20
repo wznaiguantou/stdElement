@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (miNomax) of the quality factor of a resonator at specified frequency",
+	"description":"value as specified by level (miNomax) of the quality factor of an inductive antenna or inductor at specified frequency\nFor measuring procedure see IEC 60492 (6) (1974).",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"quality_factor",
 	"name":{

@@ -1,7 +1,7 @@
 {
 	"category":"E43",
 	"dataDefinition":null,
-	"dataType":"double",
+	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
 	"description":"value as given by level (miNomax) of the phase angle of a complex electrical quantity",
@@ -14,6 +14,6 @@
 			"zh_CN":null
 		}
 	},
-	"unit":"rad",
+	"unit":"°",
 	"version":"1.0"
 }

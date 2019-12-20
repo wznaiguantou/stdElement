@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value of the output voltage of a diac in the on-state after the breakover voltage has been reached, at specified conditions",
+	"description":"nominal rms sinusoidal output voltage at total rotation angle of a variable power transformer",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"output_voltage",
 	"name":{

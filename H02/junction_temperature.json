@@ -4,8 +4,8 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum junction temperature of a transistor, diode, trigger device, optoelectronic device or IC",
-	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"description":"temperature of the active region in which the major part of the heat is generated of a transistor, diode, trigger device, optoelectronic device or IC as a variable",
+	"elementType":["MEASUREPOINT"],
 	"identifier":"junction_temperature",
 	"name":{
 		"defaultValue":"junction temperature",

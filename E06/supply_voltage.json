@@ -1,11 +1,11 @@
 {
 	"category":"E06",
 	"dataDefinition":null,
-	"dataType":"double",
+	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"DC voltage that is supplied to drive the oscillator",
-	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"description":"dc supply voltage applied to an optoelectronic device via an external circuit, as a variable",
+	"elementType":["MEASUREPOINT"],
 	"identifier":"supply_voltage",
 	"name":{
 		"defaultValue":"supply voltage",

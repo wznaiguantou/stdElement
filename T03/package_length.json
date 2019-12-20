@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"overall length as specified by level (miNomax) of a package excluding terminals and slugs",
+	"description":"major dimension as specified by level (miNomax) of the package, excluding terminals presented for mounting in the length direction, measured in a plane parallel to the seating plane\nIf terminals presented for mounting in the width direction extend beyond the ends of the package body the package length includes the width of such terminals\nIf terminals are present on one or two sides of the package only, they are deemed to extend in the width direction",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"package_length",
 	"name":{

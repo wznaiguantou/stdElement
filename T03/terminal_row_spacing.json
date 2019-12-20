@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"distance as specified by level (miNomax) between the centres of two parallel rows of terminals when mounted",
+	"description":"distance as specified by level (miNomax) between lines parallel to the package length and passing through the true centres of terminal positions, measured in a direction parallel to the package width\nFor surface-mount packages, this measurement refers to the centres of the lands on which the package is mounted",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"terminal_row_spacing",
 	"name":{

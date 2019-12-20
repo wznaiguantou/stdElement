@@ -4,8 +4,8 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"capacitance of a variable capacitance diode, as a variable\nThe specified diode capacitance has to be adjusted with the reverse voltage.",
-	"elementType":["MEASUREPOINT"],
+	"description":"value as specified by level (minTypmax) of the capacitance between the terminals of a diode or optoelectronic device at specified reverse voltage and frequency",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"diode_capacitance",
 	"name":{
 		"defaultValue":"diode capacitance",

@@ -2,16 +2,20 @@
 	"category":"A56",
 	"dataDefinition":{
 		"enumDesc":{
-			"RF":{
-				"defaultValue":"radio frequency",
+			"FULLR":{
+				"defaultValue":"full range",
 				"i18nValue":{}
 			},
-			"LF":{
-				"defaultValue":"low frequency",
+			"WOOF":{
+				"defaultValue":"woofer (low range)",
 				"i18nValue":{}
 			},
-			"WB":{
-				"defaultValue":"wideband",
+			"TWEET":{
+				"defaultValue":"tweeter (high range)",
+				"i18nValue":{}
+			},
+			"SQUAW":{
+				"defaultValue":"squawker (medium range)",
 				"i18nValue":{}
 			}
 		},
@@ -20,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the frequency identifying an amplifier, signal cable or transistor\nWideband only to be used for amplifiers.",
+	"description":"code indicating the application frequency range recommended for a moving conductor loudspeaker",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"frequency_application",
 	"name":{

@@ -1,11 +1,11 @@
 {
 	"category":"E06",
 	"dataDefinition":null,
-	"dataType":"float",
+	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"dc input voltage of an IC, as a variable",
-	"elementType":["MEASUREPOINT"],
+	"description":"value as specified by level (miNomax) of the rms sinusoidal input voltage of a power transformer\nIEC 60742 (2.11) (1983): |For polyphase supply, the line voltage is intended.",
+	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"input_voltage",
 	"name":{
 		"defaultValue":"input voltage",

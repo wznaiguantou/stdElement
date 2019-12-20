@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minmax) of the direct voltage, on grid 4 with respect to grid 1, for focusing of a monochrome display tube",
+	"description":"nominal direct voltage relative to the anode voltage, on grid 3 with respect to grid 1, for focusing of a colour display tube",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"focusing_voltage",
 	"name":{
@@ -14,6 +14,6 @@
 			"zh_CN":null
 		}
 	},
-	"unit":"V",
+	"unit":"%",
 	"version":"1.0"
 }

@@ -4,8 +4,8 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal frequency  of a delay line",
-	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"description":"frequency  of a sinusoidal input quantity (current, power, voltage, etc.) applied to an electric, electronic or electromechanical component, as a variable",
+	"elementType":["MEASUREPOINT"],
 	"identifier":"frequency",
 	"name":{
 		"defaultValue":"frequency",

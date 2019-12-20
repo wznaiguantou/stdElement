@@ -2,28 +2,48 @@
 	"category":"A51",
 	"dataDefinition":{
 		"enumDesc":{
-			"EARTH":{
-				"defaultValue":"earth contact",
+			"EBRAKE":{
+				"defaultValue":"*brake electromagnetic",
 				"i18nValue":{}
 			},
-			"COVER":{
-				"defaultValue":"cover",
+			"BRAKE":{
+				"defaultValue":"brake",
 				"i18nValue":{}
 			},
-			"SHIELD":{
-				"defaultValue":"shield",
+			"MBRAKE":{
+				"defaultValue":"*brake mechanical",
 				"i18nValue":{}
 			},
-			"LATCH":{
-				"defaultValue":"latch",
+			"TACHO":{
+				"defaultValue":"tachogenerator",
 				"i18nValue":{}
 			},
-			"HOUSE":{
-				"defaultValue":"house",
+			"RGEAR":{
+				"defaultValue":"*gearbox rotational",
 				"i18nValue":{}
 			},
-			"HANDLE":{
-				"defaultValue":"handle",
+			"PBRAKE":{
+				"defaultValue":"*brake permanent magnetic",
+				"i18nValue":{}
+			},
+			"LGEAR":{
+				"defaultValue":"*gearbox linear",
+				"i18nValue":{}
+			},
+			"GEAR":{
+				"defaultValue":"gearbox",
+				"i18nValue":{}
+			},
+			"SPARKS":{
+				"defaultValue":"spark suppressor",
+				"i18nValue":{}
+			},
+			"ENCOD":{
+				"defaultValue":"encoder",
+				"i18nValue":{}
+			},
+			"PINION":{
+				"defaultValue":"pinion",
 				"i18nValue":{}
 			}
 		},
@@ -32,7 +52,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of a component integrated with a connector",
+	"description":"code indicating a component integrated with a motor or relay",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"integrated_component",
 	"name":{

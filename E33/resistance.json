@@ -4,8 +4,8 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal value of the resistance of an electric component having a resistance property",
-	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"description":"resistance applied to the terminals of an electric-electronic component, as a variable",
+	"elementType":["MEASUREPOINT"],
 	"identifier":"resistance",
 	"name":{
 		"defaultValue":"resistance",

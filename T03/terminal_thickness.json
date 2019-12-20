@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"length as specified by level (miNomax) of the minor axis of a terminal with a rectangular cross-section\nThis dimension applies to that part of the terminal which is or may be used for connection to the circuit in which it is mounted",
+	"description":"nominal thickness of the terminals of an electric, electronic or electromechanical component",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"terminal_thickness",
 	"name":{

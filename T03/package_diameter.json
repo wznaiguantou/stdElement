@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"diameter as specified by level (miNomax) of a package, excluding terminals, measured in a plane parallel to the seating plane\nΦD_2} is usually smaller than ΦD_1}",
+	"description":"major diameter as specified by level (miNomax) of the package, excluding terminals, measured in a plane parallel to the seating plane",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"package_diameter",
 	"name":{

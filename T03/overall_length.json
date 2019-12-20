@@ -1,10 +1,10 @@
 {
 	"category":"T03",
 	"dataDefinition":null,
-	"dataType":"double",
+	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"overall length as specified by level (miNomax) of a package including terminals",
+	"description":"maximum overall length of a product",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"overall_length",
 	"name":{

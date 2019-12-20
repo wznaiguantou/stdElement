@@ -4,8 +4,8 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"range of a time interval as variable",
-	"elementType":["ATTRIBUTE","MEASUREPOINT"],
+	"description":"time during which an input quantity (current, voltage, etc.) is applied to a component, as a variable",
+	"elementType":["MEASUREPOINT"],
 	"identifier":"duration",
 	"name":{
 		"defaultValue":"duration",

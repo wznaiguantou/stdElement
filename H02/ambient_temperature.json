@@ -1,10 +1,10 @@
 {
 	"category":"H02",
 	"dataDefinition":null,
-	"dataType":"double",
+	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"temperature of the air or other media in the immediate vicinity of the apparatus or component",
+	"description":"temperature of the air or other media, in the immediate vicinity of the apparatus or component\nFor a heat-dissipating specimen in free air conditions, the ambient temperature is the temperature of the air at such distance from the specimen that the effect of the dissipation is negligible.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"ambient_temperature",
 	"name":{

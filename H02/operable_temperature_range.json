@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"range of ambient temperature delimited by minimum and maximum values within which the oscillator will continue to provide an output signal, though not necessarily within the specified tolerances, such as frequency, level and waveform",
+	"description":"range of temperature as measured on the enclosure surface by minimum and maximum values, within which the crystal unit can operate without incurring permanent damage to its function",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"operable_temperature_range",
 	"name":{

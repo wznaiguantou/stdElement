@@ -2,68 +2,36 @@
 	"category":"A91",
 	"dataDefinition":{
 		"enumDesc":{
-			"OR":{
-				"defaultValue":"orange",
+			"colourless":{
+				"defaultValue":"colourless-clear",
 				"i18nValue":{}
 			},
-			"BG":{
-				"defaultValue":"beige",
+			"yellow-clear":{
+				"defaultValue":"yellow-clear",
 				"i18nValue":{}
 			},
-			"GN":{
-				"defaultValue":"green",
+			"yellow-diff":{
+				"defaultValue":"yellow-diffused",
 				"i18nValue":{}
 			},
-			"BK":{
-				"defaultValue":"black",
+			"blue-diff":{
+				"defaultValue":"blue-diffused",
 				"i18nValue":{}
 			},
-			"BL":{
-				"defaultValue":"blue",
+			"red-diff":{
+				"defaultValue":"red-diffused",
 				"i18nValue":{}
 			},
-			"BN":{
-				"defaultValue":"brown",
+			"red-clear":{
+				"defaultValue":"red-clear",
 				"i18nValue":{}
 			},
-			"IV":{
-				"defaultValue":"ivory",
+			"green-clear":{
+				"defaultValue":"green-clear",
 				"i18nValue":{}
 			},
-			"GY":{
-				"defaultValue":"grey",
-				"i18nValue":{}
-			},
-			"RD":{
-				"defaultValue":"red",
-				"i18nValue":{}
-			},
-			"YL":{
-				"defaultValue":"yellow",
-				"i18nValue":{}
-			},
-			"NC":{
-				"defaultValue":"natural (no pigmentation)",
-				"i18nValue":{}
-			},
-			"BZ":{
-				"defaultValue":"bronze",
-				"i18nValue":{}
-			},
-			"TN":{
-				"defaultValue":"tan",
-				"i18nValue":{}
-			},
-			"PK":{
-				"defaultValue":"pink",
-				"i18nValue":{}
-			},
-			"WT":{
-				"defaultValue":"white",
-				"i18nValue":{}
-			},
-			"VT":{
-				"defaultValue":"violet",
+			"green-diff":{
+				"defaultValue":"green-diffused",
 				"i18nValue":{}
 			}
 		},
@@ -72,7 +40,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"UL code of the colour of a connector body",
+	"description":"Name of the colour of a LED or IRED package\nFor the materials used and the resulting colours in the emitting condition, see AAE563-005 and AAE564-005.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"package_colour",
 	"name":{

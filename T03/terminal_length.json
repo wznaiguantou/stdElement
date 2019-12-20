@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"length as specified by level (miNomax) of a terminal available for mounting measured from the seating plane\nThe symbol l is generally used for the length of terminals which are not rigid and not in fixed positions",
+	"description":"value as specified by level (miNomax) of the length of the terminals of an electric-electronic or electromechanical component extending below the seating plane",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"terminal_length",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal dc resistance per unit length of a conductive part of a conductor",
+	"description":"maximum resistance to direct current of a coil of a wirewound component\nExamples of wirewound components: |inductor, moving conductor loudspeaker, motor, relay, transformer.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"dc_resistance",
 	"name":{
@@ -14,6 +14,6 @@
 			"zh_CN":null
 		}
 	},
-	"unit":"Ω/m",
+	"unit":"Ω",
 	"version":"1.0"
 }

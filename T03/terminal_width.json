@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"width as specified by level (miNomax) of the metallized area of the terminal pad on a surface-mount package\nThis dimension applies to that part of the terminal which is or may be used for connection to the circuit in which it is mounted",
+	"description":"width as specified by level (miNomax) of a square terminal or the length of the major axis of a terminal with a rectangular cross-section\nThis dimension applies to that part of the terminal which is or may be used for connection to the circuit in which it is mounted",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"terminal_width",
 	"name":{

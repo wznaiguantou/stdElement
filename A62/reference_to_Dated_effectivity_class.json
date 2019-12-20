@@ -1,7 +1,62 @@
 {
 	"category":"A62",
 	"dataDefinition":{
-		"items":null
+		"items":[
+			{
+				"dataDefinition":null,
+				"dataType":"date",
+				"defaultValue":null,
+				"identifier":"effective_date",
+				"name":{
+					"defaultValue":"effective date",
+					"i18nValue":{
+						"en_US":"effective date",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":null,
+				"dataType":"date",
+				"defaultValue":null,
+				"identifier":"expiry_date",
+				"name":{
+					"defaultValue":"expiry date",
+					"i18nValue":{
+						"en_US":"expiry date",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			},
+			{
+				"dataDefinition":{
+					"enumDesc":{
+						"TOL":{
+							"defaultValue":"toleranced value",
+							"i18nValue":{}
+						},
+						"CPLX":{
+							"defaultValue":"complex number value",
+							"i18nValue":{}
+						}
+					},
+					"enumType":"STRING"
+				},
+				"dataType":"enum",
+				"defaultValue":null,
+				"identifier":"features",
+				"name":{
+					"defaultValue":"features",
+					"i18nValue":{
+						"en_US":"features",
+						"zh_CN":null
+					}
+				},
+				"unit":null
+			}
+		]
 	},
 	"dataType":"struct",
 	"defaultValue":null,

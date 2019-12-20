@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"time interval required for the rising edge of a square waveform to change between two defined levels",
+	"description":"time measured between the 10% value and the 90% value of the drain current swing of a field-effect transistor, at specified conditions",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"rise_time",
 	"name":{

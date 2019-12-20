@@ -1,10 +1,10 @@
 {
 	"category":"T03",
 	"dataDefinition":null,
-	"dataType":"float",
+	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"shortest distance along the surface of insulating material between two specified conductive parts of a relay",
+	"description":"minimum creepage distance between live and non-live parts of a power transformer or connector",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"creepage_distance",
 	"name":{

@@ -2,52 +2,20 @@
 	"category":"A56",
 	"dataDefinition":{
 		"enumDesc":{
-			"AUD":{
-				"defaultValue":"audio",
+			"AD":{
+				"defaultValue":"AD (analogue/digital)",
 				"i18nValue":{}
 			},
-			"VID":{
-				"defaultValue":"video",
+			"DIG":{
+				"defaultValue":"digital",
 				"i18nValue":{}
 			},
-			"COL":{
-				"defaultValue":"colour TV",
+			"ANA":{
+				"defaultValue":"analogue",
 				"i18nValue":{}
 			},
-			"TV":{
-				"defaultValue":"television (TV)",
-				"i18nValue":{}
-			},
-			"MCH":{
-				"defaultValue":"monochrome TV",
-				"i18nValue":{}
-			},
-			"DATA":{
-				"defaultValue":"digital data",
-				"i18nValue":{}
-			},
-			"LUM":{
-				"defaultValue":"colour TV, luminance",
-				"i18nValue":{}
-			},
-			"STE":{
-				"defaultValue":"stereo audio",
-				"i18nValue":{}
-			},
-			"SPE":{
-				"defaultValue":"speech",
-				"i18nValue":{}
-			},
-			"B/W":{
-				"defaultValue":"black and white TV",
-				"i18nValue":{}
-			},
-			"CHR":{
-				"defaultValue":"colour TV, chrominance",
-				"i18nValue":{}
-			},
-			"MON":{
-				"defaultValue":"monaural audio",
+			"PER":{
+				"defaultValue":"periodic/dc",
 				"i18nValue":{}
 			}
 		},
@@ -56,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of signal applied to an electric, electronic or electromechanical component",
+	"description":"code identifying a function on an IC according to the type of signal being treated",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"signal_type",
 	"name":{

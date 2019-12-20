@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum resistance between one terminal or several terminals connected together and the case or enclosure of a component at specified voltage",
+	"description":"minimum insulation resistance between terminals of a fixed capacitor, determined according to IEC 60384-1(4.5) (1984) at reference conditions\n1. The insulation resistance is measured after a voltage has been applied for 1 min +/- 5 s. The relationship between this voltage and the rated voltage (dc) is prescribed in IEC 60384-1 (Amd2)(4.5.2) (1987).|, voltage rating of capacitor................measuring voltage| U_R} or U_C} < 10 V.................................U_R} or U_C} +/-10%|10 V <= U_R} or U_C} < 100 V ..............10 +/- 1 V|100 V <= U_R} or U_C} < 500 V.............100 +/-15 V| 500 V <= U_R} or U_C}............................500 +/-50 V|| 2. AAE063-005 is prescribed by IEC for specific capacitor types. See also AAE069-005",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"insulation_resistance",
 	"name":{
