@@ -115,7 +115,6 @@
 11aead7acad89b5e5a45c477b6fdc4e2  ./A53/orientation.json
 11c1cda8fbe05212b8c32587c4681fa4  ./T07/reverse_recovery_time_I.json
 11c632ff968a97b2ffb78368f052d63f  ./Q56/number_of_turns.json
-11d8138c66e1c8d6d4a3e4c968699a28  ./version
 1215a2b1f07efd8f50ee0d6c5187689f  ./E44/impedance.json
 122d73bd247d3b5ae05352d96a692cfb  ./E06/dielectric_withstand_voltage.json
 1235c168b677edb8497116fb059281f0  ./A57/fibre_optic_component.json
@@ -695,6 +694,7 @@
 62ba51aa3f041d0059eb086112ae242d  ./T03/cone_height.json
 62c222e94078d419ee9edeca2bc5d01d  ./E06/focusing_voltage_limiting.json
 62c5350de0352ce17923e32b86906c86  ./E44/characteristic_impedance.json
+630756e6ee89b7b73bc5eabc69740b41  ./A57/condensation.json
 63a78825d1676f4339c3d4e1016d38d9  ./E44/load_impedance.json
 63ab0658e4f8a46df1ac1d98618f1b4a  ./A51/device_type_as_listed_in_waste_of_electrical_and_electronic_equipment_directive.json
 63fcee98ed98812bca4316f406465b55  ./E01/nominal_current.json
@@ -777,6 +777,7 @@
 6d8e4849f0cc1a8c9545dd0ea1111cf1  ./T07/recovery_time.json
 6d95bee30fbb500582496ae182736d89  ./E01/output_current.json
 6dc97f68f77261d32873922bec2e30d4  ./A31/end_of_spare_part_delivery.json
+6e11601fb5d98a9eb5dab9924c681bdf  ./version
 6e13bdbad607e7eb7436d20f7fee6f38  ./H02/temperature.json
 6e6fef98d61687bda6e657adc4641110  ./K02/sea_salt_concentration.json
 6e7ec995463b15eedd11036947474c1d  ./A57/soft_magnetic_material_grade.json
@@ -839,7 +840,6 @@
 75f9e0c4df34a03c3a749a92c170115b  ./X99/hysteresis_voltage.json
 760451937b75f114941868cd4b6ad43e  ./X99/memory_capacity_for_controller-integrated_memory.json
 760c736e46cf77f6786a936008e71638  ./T03/baffle_hole_length.json
-762488ec363c8155baa5b749449153e2  ./A57/condensation.json
 76cf1eafacaf5fe342ad0df4dcbe477c  ./A61/exemption_description.json
 7704930b9827b1fba7980f6bd77cd6d2  ./A62/reference_to_Dated_effectivity_class.json
 772e97a14493700b8f59013d721c9988  ./H02/mounting_base_temperature.json
@@ -1733,7 +1733,6 @@ ee3903919cc47a5bf842a6b2c9268a9c  ./E09/maximum_capacitance.json
 ee7f62b7dccc4952ec59521043b6bfae  ./T03/wave_height.json
 ee8b36b808edee509ccbf80ef2105c50  ./A57/linearity_of_a_fixed_resistor.json
 ee9e67c04f3e1f2a73596e281934e7c5  ./E01/non-rep_peak_on-state_current.json
-ef129f98738d4f2d9eaf44edec3e60c0  ./A62/reference_to_condensation_class.json
 ef29c62c6a5070b80e595fda7ab1c439  ./H02/ambient_outdoor_temperature.json
 ef3af0c24a3f66153d8e413ab2c3a4c7  ./J05/instruction_rate.json
 ef4dcc787f40dad193a30ecda6bea9bd  ./T03/expected_raise_of_mean_sea_level.json
