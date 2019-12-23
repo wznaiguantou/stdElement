@@ -1,6 +1,11 @@
 {
 	"category":"A57",
-	"dataDefinition":null,
+	"dataDefinition":{
+		"boolDesc":{
+			"true":"true",
+			"false":"false"
+		}
+	},
 	"dataType":"bool",
 	"defaultValue":null,
 	"deprecated":false,
