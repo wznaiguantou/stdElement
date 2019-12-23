@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8615d0d3-d372-4843-9f5d-99dbfbb918d9" name="Default Changelist" comment="initialize stdelement library">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A59/features.json" beforeDir="false" afterPath="$PROJECT_DIR$/A59/body_insulation_material.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VC2Vmy8Rip4DOSk6EM4bBGSuAX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8615d0d3-d372-4843-9f5d-99dbfbb918d9" name="Default Changelist" comment="" />
+      <created>1576742782287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576742782287</updated>
+      <workItem from="1576742784201" duration="25746000" />
+    </task>
+    <task id="LOCAL-00001" summary="initialize stdelement library">
+      <created>1576748174470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576748174470</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initialize stdelement library">
+      <created>1576749784598</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576749784598</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1. add DataDefinition to 23 struct elements&#10;2. delete 25 elements which DataDefinition is null">
+      <created>1576824802034</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576824802034</updated>
+    </task>
+    <task id="LOCAL-00004" summary="initialize stdelement library">
+      <created>1576827774048</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576827774048</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1. delete duplicated elements;&#10;2. delete special characters from element identifier and description.">
+      <created>1576837916103</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576837916103</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1. delete duplicated elements;&#10;2. delete special characters from element identifier and description.">
+      <created>1576838790955</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576838790955</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="1. add DataDefinition to 23 struct elements&#10;2. delete 25 elements which DataDefinition is null" />
+    <MESSAGE value="initialize stdelement library" />
+    <MESSAGE value="1. delete duplicated elements;&#10;2. delete special characters from element identifier and description." />
+    <option name="LAST_COMMIT_MESSAGE" value="1. delete duplicated elements;&#10;2. delete special characters from element identifier and description." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3800" y="552" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576747991816">
+      <screen x="2880" y="14" width="2880" height="1560" />
+    </state>
+    <state x="3800" y="552" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1020/2880.14.2880.1560@2880.14.2880.1560" timestamp="1576747991816" />
+    <state x="171" y="0" key="CommitChangelistDialog2" timestamp="1577075912235">
+      <screen x="0" y="0" width="1920" height="1020" />
+    </state>
+    <state x="171" y="0" key="CommitChangelistDialog2/0.0.1920.1020/2880.14.2880.1560@0.0.1920.1020" timestamp="1577075912235" />
+    <state x="3683" y="236" key="CommitChangelistDialog2/0.0.1920.1020/2880.14.2880.1560@2880.14.2880.1560" timestamp="1576749777521" />
+    <state x="535" y="0" key="CommitChangelistDialog2/0.0.1920.1020@0.0.1920.1020" timestamp="1576808850507" />
+    <state x="362" y="74" key="DiffContextDialog" timestamp="1577075908347">
+      <screen x="0" y="0" width="1920" height="1020" />
+    </state>
+    <state x="362" y="74" key="DiffContextDialog/0.0.1920.1020/2880.14.2880.1560@0.0.1920.1020" timestamp="1577075908347" />
+    <state x="362" y="74" key="DiffContextDialog/0.0.1920.1020@0.0.1920.1020" timestamp="1576808847434" />
+    <state x="3991" y="425" key="FileChooserDialogImpl" timestamp="1576748061798">
+      <screen x="2880" y="14" width="2880" height="1560" />
+    </state>
+    <state x="3991" y="425" key="FileChooserDialogImpl/0.0.1920.1020/2880.14.2880.1560@2880.14.2880.1560" timestamp="1576748061798" />
+    <state x="553" y="216" key="Vcs.Push.Dialog.v2" timestamp="1576839302921">
+      <screen x="0" y="0" width="1920" height="1020" />
+    </state>
+    <state x="553" y="216" key="Vcs.Push.Dialog.v2/0.0.1920.1020/2880.14.2880.1560@0.0.1920.1020" timestamp="1576839302921" />
+    <state x="3709" y="392" key="Vcs.Push.Dialog.v2/0.0.1920.1020/2880.14.2880.1560@2880.14.2880.1560" timestamp="1576749788936" />
+    <state x="4017" y="393" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1576747866675">
+      <screen x="2880" y="14" width="2880" height="1560" />
+    </state>
+    <state x="4017" y="393" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1020/2880.14.2880.1560@2880.14.2880.1560" timestamp="1576747866675" />
+    <state x="637" y="226" width="972" height="794" key="find.popup" timestamp="1577085122955">
+      <screen x="0" y="0" width="1920" height="1020" />
+    </state>
+    <state x="637" y="226" width="972" height="794" key="find.popup/0.0.1920.1020/2880.14.2880.1560@0.0.1920.1020" timestamp="1577085122955" />
+    <state x="3836" y="397" width="968" height="794" key="find.popup/0.0.1920.1020/2880.14.2880.1560@2880.14.2880.1560" timestamp="1576751307488" />
+    <state x="637" y="226" width="968" height="794" key="find.popup/0.0.1920.1020@0.0.1920.1020" timestamp="1576901093130" />
+    <state x="622" y="58" width="1009" height="962" key="search.everywhere.popup" timestamp="1576836848847">
+      <screen x="0" y="0" width="1920" height="1020" />
+    </state>
+    <state x="622" y="58" width="1009" height="962" key="search.everywhere.popup/0.0.1920.1020/2880.14.2880.1560@0.0.1920.1020" timestamp="1576836848847" />
+    <state x="3813" y="102" width="1009" height="1470" key="search.everywhere.popup/0.0.1920.1020/2880.14.2880.1560@2880.14.2880.1560" timestamp="1576751310980" />
+    <state x="622" y="58" width="1009" height="962" key="search.everywhere.popup/0.0.1920.1020@0.0.1920.1020" timestamp="1576809445929" />
+  </component>
+</project>

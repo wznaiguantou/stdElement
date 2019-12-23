@@ -1,17 +1,13 @@
 {
-	"category":"A59",
+	"category":"A52",
 	"dataDefinition":{
 		"enumDesc":{
-			"CER":{
-				"defaultValue":"ceramic",
+			"TOL":{
+				"defaultValue":"toleranced value",
 				"i18nValue":{}
 			},
-			"PLA":{
-				"defaultValue":"plastic",
-				"i18nValue":{}
-			},
-			"GLS":{
-				"defaultValue":"glass",
+			"CPLX":{
+				"defaultValue":"complex number value",
 				"i18nValue":{}
 			}
 		},
