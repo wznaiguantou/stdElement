@@ -431,6 +431,7 @@
 3ccea46d87e60c910ee5be28d3edd97a  ./E01/surge_current.json
 3cdac2250399e5b71c7ee90bc05b5568  ./A59/reparability_information_of_an_item.json
 3cedcd58823f2ac90af4d7419701aaf3  ./E01/limiting_short-term_current.json
+3cf918272ffa5de195752d73f3da3e5e  ./version
 3d024b6b01149f0510ca1a2239107e47  ./X99/line_regulation_voltage.json
 3d909c6755e90c45107b7003072698f1  ./T03/tag_hole_width.json
 3daa92dd68c575b5c5de26d938a2890b  ./E37/electric_conductivity_of_water.json
@@ -776,7 +777,6 @@
 6d8e4849f0cc1a8c9545dd0ea1111cf1  ./T07/recovery_time.json
 6d95bee30fbb500582496ae182736d89  ./E01/output_current.json
 6dc97f68f77261d32873922bec2e30d4  ./A31/end_of_spare_part_delivery.json
-6e11601fb5d98a9eb5dab9924c681bdf  ./version
 6e13bdbad607e7eb7436d20f7fee6f38  ./H02/temperature.json
 6e6fef98d61687bda6e657adc4641110  ./K02/sea_salt_concentration.json
 6e7ec995463b15eedd11036947474c1d  ./A57/soft_magnetic_material_grade.json
