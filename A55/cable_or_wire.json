@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code indicating the multiplicity of conductors of an insulated conductor",
+	"description":"code indicating the multiplicity of conductors of an insulated conductor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"cable_or_wire",
 	"name":{

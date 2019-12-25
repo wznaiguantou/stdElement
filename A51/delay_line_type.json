@@ -32,7 +32,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of a delay line",
+	"description":"code of the type of a delay line.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"delay_line_type",
 	"name":{

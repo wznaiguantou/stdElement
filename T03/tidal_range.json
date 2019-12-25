@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"difference in level between high\nwater and low water of a tide\nThe range is specific to a\nparticular tide if consecutive high and\nlow waters are used; otherwise, the\nrange can refer to extremes of high\nand low waters over any specified\nperiod of time.",
+	"description":"difference in level between high\nwater and low water of a tide.\nThe range is specific to a\nparticular tide if consecutive high and\nlow waters are used; otherwise, the\nrange can refer to extremes of high\nand low waters over any specified\nperiod of time.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"tidal_range",
 	"name":{

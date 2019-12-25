@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of polarity of a fixed electrolytic capacitor indicating whether it is designed for unidirectional or alternating/reversible voltages",
+	"description":"code of the type of polarity of a fixed electrolytic capacitor indicating whether it is designed for unidirectional or alternating/reversible voltages.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"polarity_type",
 	"name":{

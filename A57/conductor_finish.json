@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the finish material of a conductive part of a conductor",
+	"description":"code of the finish material of a conductive part of a conductor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"conductor_finish",
 	"name":{

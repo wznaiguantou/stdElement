@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the inductance level of a fixed resistor",
+	"description":"code of the inductance level of a fixed resistor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"inductance_level",
 	"name":{

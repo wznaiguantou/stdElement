@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum voltage between collector and emitter terminals of a bipolar transistor at open base terminal",
+	"description":"maximum voltage between collector and emitter terminals of a bipolar transistor at open base terminal.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"collector-emitter_voltage_V_CE",
 	"name":{

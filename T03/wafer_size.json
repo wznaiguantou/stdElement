@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"diameter of the wafer on which the die are fabricated\nSince this is only a nominal value for information purposes, inch dimensions should be converted at the rate of 25mm to one inch",
+	"description":"diameter of the wafer on which the die are fabricated.\nSince this is only a nominal value for information purposes, inch dimensions should be converted at the rate of 25mm to one inch.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"wafer_size",
 	"name":{

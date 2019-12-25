@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal rms ac or dc voltage across the heater terminals of an electron tube",
+	"description":"nominal rms ac or dc voltage across the heater terminals of an electron tube.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"heater_voltage",
 	"name":{

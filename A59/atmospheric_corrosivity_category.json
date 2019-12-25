@@ -32,7 +32,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"corrosivity categories for atmospheric environments in accordance with  ISO 12944-2",
+	"description":"corrosivity categories for atmospheric environments in accordance with  ISO 12944-2.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"atmospheric_corrosivity_category",
 	"name":{

@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number assigned by and used in the Chemical Abstracts Service (CAS) registry to identify a registered chemical substance",
+	"description":"number assigned by and used in the Chemical Abstracts Service (CAS) registry to identify a registered chemical substance.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"chemical_abstracts_service_number",
 	"name":{

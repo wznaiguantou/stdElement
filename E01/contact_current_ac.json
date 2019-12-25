@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum rms switching current of a switch or relay at resistive load",
+	"description":"maximum rms switching current of a switch or relay at resistive load.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"contact_current_ac",
 	"name":{

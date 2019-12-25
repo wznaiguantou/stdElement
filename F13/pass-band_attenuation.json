@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum pass-band attenuation of a band pass filter",
+	"description":"maximum pass-band attenuation of a band pass filter.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"pass-band_attenuation",
 	"name":{

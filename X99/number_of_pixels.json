@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of pixels that compose a screen",
+	"description":"number of pixels that compose a screen.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"number_of_pixels",
 	"name":{

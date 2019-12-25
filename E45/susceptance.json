@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"resistive or real part as given by level (miNomax) of the admittance of an electric component having an admittance property",
+	"description":"resistive or real part as given by level (miNomax) of the admittance of an electric component having an admittance property.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"susceptance",
 	"name":{

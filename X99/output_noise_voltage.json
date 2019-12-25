@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"alternating voltage included in the output voltage",
+	"description":"alternating voltage included in the output voltage.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"output_noise_voltage",
 	"name":{

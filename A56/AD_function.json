@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code identifying an analogue/digital signal function of an IC",
+	"description":"code identifying an analogue/digital signal function of an IC.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"AD_function",
 	"name":{

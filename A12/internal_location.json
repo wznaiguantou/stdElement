@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"organization-defined address for internal mail delivery",
+	"description":"organization-defined address for internal mail delivery.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"internal_location",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"acidity or basicity of the groundwater at a given location",
+	"description":"acidity or basicity of the groundwater at a given location.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"acidity_of_groundwater",
 	"name":{

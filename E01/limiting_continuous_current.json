@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum value of the current (rms if ac), which a previously closed contact circuit of a relay is capable of carrying at specified temperature",
+	"description":"maximum value of the current (rms if ac), which a previously closed contact circuit of a relay is capable of carrying at specified temperature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"limiting_continuous_current",
 	"name":{

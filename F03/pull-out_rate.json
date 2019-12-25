@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum switching rate which an unloaded stepping motor can follow without losing steps",
+	"description":"maximum switching rate which an unloaded stepping motor can follow without losing steps.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"pull-out_rate",
 	"name":{

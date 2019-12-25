@@ -36,7 +36,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"IEC code which identifies the preferred value series to which the resistance of a resistor or the capacitance of a capacitor belongs\nThe E192 series is composed of rounded values of the theoretical numbers 10**n/192 in which the exponent n is a whole positive or negative number. |The E96 series is derived from the E192 series by omitting alternate terms. |The E48 series is derived from the E96 series by omitting alternate terms. |The E24 series is composed of rounded values of the theoretical numbers 10**n/24 in which the exponent n is a whole positive or negative number.",
+	"description":"IEC code which identifies the preferred value series to which the resistance of a resistor or the capacitance of a capacitor belongs.\nThe E192 series is composed of rounded values of the theoretical numbers 10**n/192 in which the exponent n is a whole positive or negative number. |The E96 series is derived from the E192 series by omitting alternate terms. |The E48 series is derived from the E96 series by omitting alternate terms. |The E24 series is composed of rounded values of the theoretical numbers 10**n/24 in which the exponent n is a whole positive or negative number.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"E_series",
 	"name":{

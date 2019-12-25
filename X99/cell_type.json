@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"type of logical gate used in the IC",
+	"description":"type of logical gate used in the IC.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"cell_type",
 	"name":{

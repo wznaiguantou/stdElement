@@ -6,7 +6,7 @@
 	"dataType":"array",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"unique identifier of a document, standard,  or information used as reference for environmental health and safety aspects of a product",
+	"description":"unique identifier of a document, standard,  or information used as reference for environmental health and safety aspects of a product.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"environmental_health_and_safety_reference_document",
 	"name":{

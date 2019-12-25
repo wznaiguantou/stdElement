@@ -52,7 +52,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"UL code of the flammability of a connector",
+	"description":"UL code of the flammability of a connector.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"UL_flammability",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"direct voltage between the drain and gate of a field-effect transistor, as a variable",
+	"description":"direct voltage between the drain and gate of a field-effect transistor, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"drain-gate_voltage",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"mass of wind-driven snow raised from the surface of the earth",
+	"description":"mass of wind-driven snow raised from the surface of the earth.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"horizontal_mass_flux_of_snow",
 	"name":{

@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"abbreviated name of the type of semiconductor material forming the junctions of a bipolar transistor\nN-type:   Extrinsic semiconductor in which the conduction electron density exceeds the mobile hole density.| P-type:   Extrinsic semiconductor in which the mobile hole density exceeds the conduction electron density.",
+	"description":"abbreviated name of the type of semiconductor material forming the junctions of a bipolar transistor.\nN-type:   Extrinsic semiconductor in which the conduction electron density exceeds the mobile hole density.| P-type:   Extrinsic semiconductor in which the mobile hole density exceeds the conduction electron density.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"transistor_polarity",
 	"name":{

@@ -12,7 +12,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the application type of a NTC thermistor",
+	"description":"code of the application type of a NTC thermistor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"NTC_thermistor_type",
 	"name":{

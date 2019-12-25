@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of the methods used in arriving at the estimate of reliability, including the procedures that may be used to determine reliability estimates under other conditions than those for which the estimate was given",
+	"description":"description of the methods used in arriving at the estimate of reliability, including the procedures that may be used to determine reliability estimates under other conditions than those for which the estimate was given.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"reliability_calculation",
 	"name":{

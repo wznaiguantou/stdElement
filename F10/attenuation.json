@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal power attenuation of a pair of conductors of a cable at specified frequency",
+	"description":"nominal power attenuation of a pair of conductors of a cable at specified frequency.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"attenuation",
 	"name":{

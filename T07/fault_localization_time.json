@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"part of active corrective maintenance time taken to complete fault localization\nSee Figure 2 in the IEV 192-07-18:2015-02",
+	"description":"part of active corrective maintenance time taken to complete fault localization.\nSee Figure 2 in the IEV 192-07-18:2015-02.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"fault_localization_time",
 	"name":{

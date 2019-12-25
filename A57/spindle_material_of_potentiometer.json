@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the spindle material of a rotary potentiometer",
+	"description":"code of the spindle material of a rotary potentiometer.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"spindle_material_of_potentiometer",
 	"name":{

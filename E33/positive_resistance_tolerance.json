@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"positive value of the absolute tolerance on the nominal value of the resistance of an electric component where positive and negative tolerance values are unequal",
+	"description":"positive value of the absolute tolerance on the nominal value of the resistance of an electric component where positive and negative tolerance values are unequal.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"positive_resistance_tolerance",
 	"name":{

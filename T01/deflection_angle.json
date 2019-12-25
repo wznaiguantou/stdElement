@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal angle of deflection on the diagonal of the useful screen used to identify a display tube",
+	"description":"nominal angle of deflection on the diagonal of the useful screen used to identify a display tube.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"deflection_angle",
 	"name":{

@@ -36,7 +36,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the outer shape of the flange of a moving conductor loudspeaker",
+	"description":"code of the outer shape of the flange of a moving conductor loudspeaker.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"shape_of_flange",
 	"name":{

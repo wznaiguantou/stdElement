@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number indicating how many transistor devices exist in a package",
+	"description":"number indicating how many transistor devices exist in a package.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"number_of_transistors",
 	"name":{

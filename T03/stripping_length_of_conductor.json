@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minmax) of the stripping length which is needed to connect a conductor to an electric contact",
+	"description":"value as specified by level (minmax) of the stripping length which is needed to connect a conductor to an electric contact.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"stripping_length_of_conductor",
 	"name":{

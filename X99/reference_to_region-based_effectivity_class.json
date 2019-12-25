@@ -1027,7 +1027,7 @@
 	"dataType":"struct",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"relation to the specified class region-based effectivity\nallows to assign a validity of a warrenty variant to a country or region",
+	"description":"relation to the specified class region-based effectivity.\nallows to assign a validity of a warrenty variant to a country or region.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"reference_to_region-based_effectivity_class",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"output current range that satisfies the specified the electrical characteristics",
+	"description":"output current range that satisfies the specified the electrical characteristics.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"recommended_output_current",
 	"name":{

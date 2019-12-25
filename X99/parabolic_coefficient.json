@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"coefficient of the second order variable of the quadratic curve used for the approximation of the temperature frequency characteristic graph",
+	"description":"coefficient of the second order variable of the quadratic curve used for the approximation of the temperature frequency characteristic graph.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"parabolic_coefficient",
 	"name":{

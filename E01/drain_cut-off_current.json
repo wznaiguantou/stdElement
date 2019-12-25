@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum guaranteed drain cut-off current of a field-effect transistor at specified drain-source voltage, gate-source voltage and source-substrate voltage",
+	"description":"maximum guaranteed drain cut-off current of a field-effect transistor at specified drain-source voltage, gate-source voltage and source-substrate voltage.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"drain_cut-off_current",
 	"name":{

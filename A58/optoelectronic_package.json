@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the encapsulation of an optoelectronic device",
+	"description":"code of the encapsulation of an optoelectronic device.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"optoelectronic_package",
 	"name":{

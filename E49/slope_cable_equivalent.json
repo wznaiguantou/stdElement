@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax) of the difference in power gain of a wideband amplifier measured at specified frequencies (f_1 and f_2) of a frequency range, with an optimised cable equivalent impedance, at specified supply voltage and temperature of a temperature range",
+	"description":"value as specified by level (minTypmax) of the difference in power gain of a wideband amplifier measured at specified frequencies (f_1 and f_2) of a frequency range, with an optimised cable equivalent impedance, at specified supply voltage and temperature of a temperature range.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"slope_cable_equivalent",
 	"name":{

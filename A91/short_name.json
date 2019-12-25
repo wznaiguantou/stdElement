@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"short textual mnemonic description of the reporting object respectively the controlled object",
+	"description":"short textual mnemonic description of the reporting object respectively the controlled object.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"short_name",
 	"name":{

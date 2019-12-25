@@ -32,7 +32,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code identifying the terminal arrangement of a connector",
+	"description":"code identifying the terminal arrangement of a connector.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"terminal_arrangement",
 	"name":{

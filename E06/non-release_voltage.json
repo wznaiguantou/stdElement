@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum input voltage at which an energized relay does not release\nThis applies to the whole range of permissible ambient temperature",
+	"description":"minimum input voltage at which an energized relay does not release.\nThis applies to the whole range of permissible ambient temperature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"non-release_voltage",
 	"name":{

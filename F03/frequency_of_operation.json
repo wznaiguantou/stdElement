@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum number of cycles per unit of time at which a relay may operate",
+	"description":"maximum number of cycles per unit of time at which a relay may operate.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"frequency_of_operation",
 	"name":{

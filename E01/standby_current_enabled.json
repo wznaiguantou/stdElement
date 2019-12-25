@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum standby supply current of a digital combinatorial, sequential or interface IC with the output enabled",
+	"description":"maximum standby supply current of a digital combinatorial, sequential or interface IC with the output enabled.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"standby_current_enabled",
 	"name":{

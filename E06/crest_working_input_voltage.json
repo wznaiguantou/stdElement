@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum peak input voltage of a bridge rectifier\nExcluding all repetitive and non-repetitive transient voltages.",
+	"description":"maximum peak input voltage of a bridge rectifier.\nExcluding all repetitive and non-repetitive transient voltages.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"crest_working_input_voltage",
 	"name":{

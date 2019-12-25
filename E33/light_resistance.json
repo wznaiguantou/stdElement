@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minmax) of the light resistance of a light dependent resistor",
+	"description":"value as specified by level (minmax) of the light resistance of a light dependent resistor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"light_resistance",
 	"name":{

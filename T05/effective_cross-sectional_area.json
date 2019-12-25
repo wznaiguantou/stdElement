@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal effective cross-sectional area of a soft magnetic part\nThis is the cross-sectional area of a hypothetical equivalent toroidal core of the same material properties.",
+	"description":"nominal effective cross-sectional area of a soft magnetic part.\nThis is the cross-sectional area of a hypothetical equivalent toroidal core of the same material properties.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"effective_cross-sectional_area",
 	"name":{

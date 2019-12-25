@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax) of the ratio of the caloric power in the load of a bipolar power transistor to the total power supplied to the transistor at specified application, frequency, load power, collector current, collector-emitter voltage, and temperature of a temperature type\nFor CW operation the caloric power is equal to P_L. |For SSB operation the caloric power is equal to PEP/2. |The total power supplied to the transistor is V_C x I_C.",
+	"description":"value as specified by level (minTypmax) of the ratio of the caloric power in the load of a bipolar power transistor to the total power supplied to the transistor at specified application, frequency, load power, collector current, collector-emitter voltage, and temperature of a temperature type.\nFor CW operation the caloric power is equal to P_L. |For SSB operation the caloric power is equal to PEP/2. |The total power supplied to the transistor is V_C x I_C.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"efficiency",
 	"name":{

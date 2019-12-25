@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal distance between the sensitive elements of an infrared radiation photosensor",
+	"description":"nominal distance between the sensitive elements of an infrared radiation photosensor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"element_separation",
 	"name":{

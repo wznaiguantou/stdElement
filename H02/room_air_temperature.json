@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"the average of air temperatures measured at 1.1 m above finished floor level, positioned out of the main air current from any heating or cooling device inside a building or shelter\nUsage limited to single rooms for HVAC purpose",
+	"description":"the average of air temperatures measured at 1.1 m above finished floor level, positioned out of the main air current from any heating or cooling device inside a building or shelter.\nUsage limited to single rooms for HVAC purpose.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"room_air_temperature",
 	"name":{

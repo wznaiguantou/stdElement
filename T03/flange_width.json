@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"dimension as specified by level (miNomax) of a flange measured in the direction of the package width",
+	"description":"dimension as specified by level (miNomax) of a flange measured in the direction of the package width.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"flange_width",
 	"name":{

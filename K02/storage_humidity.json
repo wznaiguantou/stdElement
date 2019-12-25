@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minmax) of the storage ambient humidity relative to saturation humidity of a humidity sensor",
+	"description":"value as specified by level (minmax) of the storage ambient humidity relative to saturation humidity of a humidity sensor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"storage_humidity",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"kinetic energy of hail to which a component, building, etc., may be exposed",
+	"description":"kinetic energy of hail to which a component, building, etc., may be exposed.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"hail_impact_energy",
 	"name":{

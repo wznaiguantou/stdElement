@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of any limitations on the processes used in bonding the die device\nFor example, warnings should be given of active circuitry under any bond pad.",
+	"description":"description of any limitations on the processes used in bonding the die device.\nFor example, warnings should be given of active circuitry under any bond pad.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"process_limitations",
 	"name":{

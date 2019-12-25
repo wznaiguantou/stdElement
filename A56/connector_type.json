@@ -44,7 +44,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of a connector, according to its shape, application, mating part or the type of component to which it will be permanently attached",
+	"description":"code of the type of a connector, according to its shape, application, mating part or the type of component to which it will be permanently attached.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"connector_type",
 	"name":{

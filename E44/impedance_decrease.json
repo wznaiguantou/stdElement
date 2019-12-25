@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum decrease of the modulus of the impedance, of an inductor, relative to the modulus of impedance at frequency f_1, over a frequency range between specified frequencies (f_1 and f_2)\nApplies to wound six-hole beads.",
+	"description":"maximum decrease of the modulus of the impedance, of an inductor, relative to the modulus of impedance at frequency f_1, over a frequency range between specified frequencies (f_1 and f_2).\nApplies to wound six-hole beads.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"impedance_decrease",
 	"name":{

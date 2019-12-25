@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum value of the quotient of the change of input offset current of an operational amplifier over the operating temperature range and at the nominal supply voltage",
+	"description":"maximum value of the quotient of the change of input offset current of an operational amplifier over the operating temperature range and at the nominal supply voltage.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"temp_coef_input_offset_current",
 	"name":{

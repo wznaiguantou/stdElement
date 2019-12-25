@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of the marine fauna and flora types expected to occur and populating submarine installations",
+	"description":"description of the marine fauna and flora types expected to occur and populating submarine installations.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"expected_marine_growth",
 	"name":{

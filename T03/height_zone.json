@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"height as specified by level (miNomax) of a zone within which a flexible lead may be bent to emerge parallel to the seating plane",
+	"description":"height as specified by level (miNomax) of a zone within which a flexible lead may be bent to emerge parallel to the seating plane.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"height_zone",
 	"name":{

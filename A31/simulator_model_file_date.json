@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"date on which a simulator model file was created or released for use",
+	"description":"date on which a simulator model file was created or released for use.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"simulator_model_file_date",
 	"name":{

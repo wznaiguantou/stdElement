@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal distance of travel of the moving contact actuator of a slider potentiometer",
+	"description":"nominal distance of travel of the moving contact actuator of a slider potentiometer.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"slide_length",
 	"name":{

@@ -36,7 +36,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the preforming of leads to create a distance between the component and the seating-plane",
+	"description":"code of the preforming of leads to create a distance between the component and the seating-plane.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"preformed_lead",
 	"name":{

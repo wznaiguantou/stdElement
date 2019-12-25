@@ -72,7 +72,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of fibre optic component",
+	"description":"code of the type of fibre optic component.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"fibre_optic_component",
 	"name":{

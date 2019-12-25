@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax) of the power gain of a bipolar transistor, considered as a four-terminal network, conjugately matched at its output terminals, assuming the s_re (reverse transmission coefficient at common emitter configuration) is zero at specified collector-emitter voltage, collector current, frequency and temperature of a temperature type",
+	"description":"value as specified by level (minTypmax) of the power gain of a bipolar transistor, considered as a four-terminal network, conjugately matched at its output terminals, assuming the s_re (reverse transmission coefficient at common emitter configuration) is zero at specified collector-emitter voltage, collector current, frequency and temperature of a temperature type.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"unilateral_power_gain",
 	"name":{

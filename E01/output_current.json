@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum dc output current of a semiconductor inductive proximity sensor at specified supply voltage",
+	"description":"maximum dc output current of a semiconductor inductive proximity sensor at specified supply voltage.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"output_current",
 	"name":{

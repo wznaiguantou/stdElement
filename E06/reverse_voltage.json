@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"direct voltage applied to a diode or optoelectronic device in reverse direction, as a variable",
+	"description":"direct voltage applied to a diode or optoelectronic device in reverse direction, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"reverse_voltage",
 	"name":{

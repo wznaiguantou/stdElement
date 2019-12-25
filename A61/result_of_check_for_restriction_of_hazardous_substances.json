@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"result of check for the product's compliance with the rules of  restriction of hazardous substances",
+	"description":"result of check for the product's compliance with the rules of  restriction of hazardous substances.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"result_of_check_for_restriction_of_hazardous_substances",
 	"name":{

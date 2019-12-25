@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the application of an insulated wire",
+	"description":"code of the application of an insulated wire.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"wire_application",
 	"name":{

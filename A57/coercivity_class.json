@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the coercivity class of a magnetic part or magnetic material",
+	"description":"code of the coercivity class of a magnetic part or magnetic material.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"coercivity_class",
 	"name":{

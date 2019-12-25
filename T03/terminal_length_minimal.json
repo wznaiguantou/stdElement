@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum value of the length of the terminals of an electric-electronic or electromechanical component extending below the seating plane",
+	"description":"minimum value of the length of the terminals of an electric-electronic or electromechanical component extending below the seating plane.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"terminal_length_minimal",
 	"name":{

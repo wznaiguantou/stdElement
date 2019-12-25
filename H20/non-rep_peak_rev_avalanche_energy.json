@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum non-repetitive peak reverse avalanche mode pulse energy of a rectifier diode, at specified reverse current and maximum junction temperature prior to the application of the pulse and with inductive load switched off\nNOTE - E_RSM can also be calculated from P_RSM.",
+	"description":"maximum non-repetitive peak reverse avalanche mode pulse energy of a rectifier diode, at specified reverse current and maximum junction temperature prior to the application of the pulse and with inductive load switched off.\nNOTE - E_RSM can also be calculated from P_RSM.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"non-rep_peak_rev_avalanche_energy",
 	"name":{

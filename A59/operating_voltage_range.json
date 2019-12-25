@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code indicating the range of the input voltage over which a relay performs its prescribed function\nThis applies to the whole range of permissible ambient temperature",
+	"description":"code indicating the range of the input voltage over which a relay performs its prescribed function.\nThis applies to the whole range of permissible ambient temperature.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"operating_voltage_range",
 	"name":{

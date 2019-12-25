@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"finish applied to the surface of the substrate of a die opposite to that to which the connections are made",
+	"description":"finish applied to the surface of the substrate of a die opposite to that to which the connections are made.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"backside_finish",
 	"name":{

@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"porosity type of the anode in an electrolytic capacitor",
+	"description":"porosity type of the anode in an electrolytic capacitor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"anode_type",
 	"name":{

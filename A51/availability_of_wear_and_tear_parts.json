@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"time period for which the manufacturer provides an assured availability of original wear and tear parts for the specified object, starting with the date of purchase or delivery whatever is the latest\nFor spare parts see ADA133",
+	"description":"time period for which the manufacturer provides an assured availability of original wear and tear parts for the specified object, starting with the date of purchase or delivery whatever is the latest.\nFor spare parts see ADA133.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"availability_of_wear_and_tear_parts",
 	"name":{

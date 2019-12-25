@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal angle of the total rotation of the moving contact actuator of a rotary potentiometer or a variable power transformer",
+	"description":"nominal angle of the total rotation of the moving contact actuator of a rotary potentiometer or a variable power transformer.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"total_mechanical_rotation",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal resistance of a semiconductor temperature sensor at a specified sensor current at the reference temperature\nSome sensors are polarity-independent.",
+	"description":"nominal resistance of a semiconductor temperature sensor at a specified sensor current at the reference temperature.\nSome sensors are polarity-independent.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"reference_resistance",
 	"name":{

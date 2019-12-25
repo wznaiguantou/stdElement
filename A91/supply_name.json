@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"name given to a terminal for the supply of power to a device\nNames commonly used include Vcc, Vss, Vdd, GND, V+ and V-",
+	"description":"name given to a terminal for the supply of power to a device.\nNames commonly used include Vcc, Vss, Vdd, GND, V+ and V-.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"supply_name",
 	"name":{

@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code to indicate the availability of reliability information for a die device",
+	"description":"code to indicate the availability of reliability information for a die device.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"test_reliability_code",
 	"name":{

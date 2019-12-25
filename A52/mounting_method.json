@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the mounting method of an electric/electronic or electromechanical component",
+	"description":"code of the mounting method of an electric/electronic or electromechanical component.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"mounting_method",
 	"name":{

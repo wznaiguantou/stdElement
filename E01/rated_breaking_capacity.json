@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal prospective current that a fuse-link is capable of breaking",
+	"description":"nominal prospective current that a fuse-link is capable of breaking.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"rated_breaking_capacity",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum limiting rate of rise of on-state current after triggering with a specified gate current to a specified on-state current at a stated rate of rise of the gate current",
+	"description":"maximum limiting rate of rise of on-state current after triggering with a specified gate current to a specified on-state current at a stated rate of rise of the gate current.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"rate_of_rise_on-state_current",
 	"name":{

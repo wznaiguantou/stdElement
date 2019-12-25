@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"material used to cover the surface of the die for passivation",
+	"description":"material used to cover the surface of the die for passivation.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"passivation_material",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal angle of the beamwidth between the half value directions of the intensity of a photo-emitter or responsivity of a photosensor\nIntensity applies to photoemitters; responsivity, to photosensors.",
+	"description":"nominal angle of the beamwidth between the half value directions of the intensity of a photo-emitter or responsivity of a photosensor.\nIntensity applies to photoemitters; responsivity, to photosensors.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"beamwidth_between_50percent_values",
 	"name":{

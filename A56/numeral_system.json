@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the numeral system of a digital signal function of an IC",
+	"description":"code of the numeral system of a digital signal function of an IC.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"numeral_system",
 	"name":{

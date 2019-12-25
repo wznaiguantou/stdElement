@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the chargeability type of a battery",
+	"description":"code of the chargeability type of a battery.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"chargeability_type",
 	"name":{

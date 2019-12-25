@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"one or more characters used to identify a specific terminal of a component\nRules should be established how the identifying process should take place.",
+	"description":"one or more characters used to identify a specific terminal of a component.\nRules should be established how the identifying process should take place.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"terminal_identifier",
 	"name":{

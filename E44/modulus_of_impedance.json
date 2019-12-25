@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"modulus or absolute value as given by level (miNomax) of the impedance of an electric component having an impedance property",
+	"description":"modulus or absolute value as given by level (miNomax) of the impedance of an electric component having an impedance property.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"modulus_of_impedance",
 	"name":{

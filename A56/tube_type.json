@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the category to which an electron tube belongs",
+	"description":"code of the category to which an electron tube belongs.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"tube_type",
 	"name":{

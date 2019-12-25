@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal capacity of a battery",
+	"description":"nominal capacity of a battery.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"nominal_capacity",
 	"name":{

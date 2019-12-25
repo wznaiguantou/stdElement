@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"material used to coat or finish the conducting strips forming connections at the edge of a printed wiring circuit",
+	"description":"material used to coat or finish the conducting strips forming connections at the edge of a printed wiring circuit.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"connector_material",
 	"name":{

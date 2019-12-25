@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"difference between the input voltage and output voltage in a series regulator in order to satisfy the specified electrical characteristics",
+	"description":"difference between the input voltage and output voltage in a series regulator in order to satisfy the specified electrical characteristics.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"dropout_voltage",
 	"name":{

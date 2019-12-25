@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum time between the instant the energising quantity is applied and the instant when the relay resets\nA relay releases when it changes from its operate condition to its release condition.",
+	"description":"maximum time between the instant the energising quantity is applied and the instant when the relay resets.\nA relay releases when it changes from its operate condition to its release condition.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"release_time",
 	"name":{

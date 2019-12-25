@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"temperature of the air or other media, in the immediate vicinity of the object within a building or shelter\nExamples for  object include items such as components, devices or systems.",
+	"description":"temperature of the air or other media, in the immediate vicinity of the object within a building or shelter.\nExamples for  object include items such as components, devices or systems.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"ambient_indoor_temperature",
 	"name":{

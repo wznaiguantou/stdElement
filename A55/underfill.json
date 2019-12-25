@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"details of any requirements or recommendations for underfill between a bumped die or a minimally-packaged device and its mounting surface",
+	"description":"details of any requirements or recommendations for underfill between a bumped die or a minimally-packaged device and its mounting surface.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"underfill",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"ratio of the height of a layer of soil being converted into a frozen state to a specified unit time during a freezing process",
+	"description":"ratio of the height of a layer of soil being converted into a frozen state to a specified unit time during a freezing process.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"frost_formation_intensity",
 	"name":{

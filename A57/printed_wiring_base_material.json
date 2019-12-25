@@ -40,7 +40,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code for the type of base material used in a printed wiring laminate",
+	"description":"code for the type of base material used in a printed wiring laminate.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"printed_wiring_base_material",
 	"name":{

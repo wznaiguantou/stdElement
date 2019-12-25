@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"Speed of a rotational motor, as a variable",
+	"description":"Speed of a rotational motor, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"speed",
 	"name":{

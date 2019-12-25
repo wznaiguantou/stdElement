@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal lower frequency  of a signal transformer",
+	"description":"nominal lower frequency  of a signal transformer.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"lower_frequency",
 	"name":{

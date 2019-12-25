@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"layer thickness of frozen water on an object produced by nature or by industrial labour",
+	"description":"layer thickness of frozen water on an object produced by nature or by industrial labour.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"ice_coating",
 	"name":{

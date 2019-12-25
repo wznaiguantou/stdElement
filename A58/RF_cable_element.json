@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code indicating the type of basic elements of an RF cable",
+	"description":"code indicating the type of basic elements of an RF cable.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"RF_cable_element",
 	"name":{

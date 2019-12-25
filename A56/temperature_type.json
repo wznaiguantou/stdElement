@@ -32,7 +32,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"IEC code of the type of temperature indicating the specific part of a component, or its environment, to which it applies\nThis data element to be used in combination with AAE685-005.",
+	"description":"IEC code of the type of temperature indicating the specific part of a component, or its environment, to which it applies.\nThis data element to be used in combination with AAE685-005.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"temperature_type",
 	"name":{

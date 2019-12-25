@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"category of electrical and electronic equipment set out in Annex I or III [of directive 2012/19/EU], as appropriate",
+	"description":"category of electrical and electronic equipment set out in Annex I or III [of directive 2012/19/EU], as appropriate.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"device_type_as_listed_in_waste_of_electrical_and_electronic_equipment_directive",
 	"name":{

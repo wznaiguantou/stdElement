@@ -75,7 +75,7 @@
 	"dataType":"struct",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"axis having its origin at a specified three-dimensional Cartesian point",
+	"description":"axis having its origin at a specified three-dimensional Cartesian point.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"axis1_placement3d",
 	"name":{

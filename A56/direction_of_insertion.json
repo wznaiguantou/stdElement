@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code for the direction of insertion of a jack",
+	"description":"code for the direction of insertion of a jack.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"direction_of_insertion",
 	"name":{

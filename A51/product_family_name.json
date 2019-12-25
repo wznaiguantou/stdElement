@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"group of products each of which contains effectively identical substances or materials at identical concentration levels",
+	"description":"group of products each of which contains effectively identical substances or materials at identical concentration levels.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"product_family_name",
 	"name":{

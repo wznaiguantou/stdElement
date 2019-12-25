@@ -68,7 +68,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code for the resistance of a relay to ignition indicated by test procedure and severity",
+	"description":"code for the resistance of a relay to ignition indicated by test procedure and severity.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"flammability",
 	"name":{

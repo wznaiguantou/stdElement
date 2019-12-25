@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum dc resistivity of a magnetic material",
+	"description":"minimum dc resistivity of a magnetic material.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"resistivity",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"Number of steps/s of a rotational stepping motor, as a variable",
+	"description":"Number of steps/s of a rotational stepping motor, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"stepping_rate",
 	"name":{

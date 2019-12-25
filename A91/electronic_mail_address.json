@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"identification number of an electronic mail box in a domain at which electronic mail messages can be received",
+	"description":"identification number of an electronic mail box in a domain at which electronic mail messages can be received.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"electronic_mail_address",
 	"name":{

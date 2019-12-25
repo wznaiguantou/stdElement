@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"classification of the surroundings of a geographical location concerning the occurrence of species of plants, e.g. mould, fungus,  which may affect the performance and operation of an object installed, if no special measures are taken",
+	"description":"classification of the surroundings of a geographical location concerning the occurrence of species of plants, e.g. mould, fungus,  which may affect the performance and operation of an object installed, if no special measures are taken.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"flora",
 	"name":{

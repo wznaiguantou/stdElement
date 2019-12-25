@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"factor by which the rated voltage has to be multiplied to obtain the value of the test voltage to be applied to a device under test",
+	"description":"factor by which the rated voltage has to be multiplied to obtain the value of the test voltage to be applied to a device under test.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"test_voltage_coefficient",
 	"name":{

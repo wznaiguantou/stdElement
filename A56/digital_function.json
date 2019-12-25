@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code identifying a digital function of an IC",
+	"description":"code identifying a digital function of an IC.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"digital_function",
 	"name":{

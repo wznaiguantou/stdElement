@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value of the cathode-gate to cathode voltage that will trigger a tetrode thyristor, at specified conditons",
+	"description":"value of the cathode-gate to cathode voltage that will trigger a tetrode thyristor, at specified conditons.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"cathode-gate_trigger_voltage",
 	"name":{

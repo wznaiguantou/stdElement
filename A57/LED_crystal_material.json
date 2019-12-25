@@ -36,7 +36,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"abbreviated name of the crystal material of a photoemitter\nFor the resulting colours, see AAE564-005.",
+	"description":"abbreviated name of the crystal material of a photoemitter.\nFor the resulting colours, see AAE564-005.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"LED_crystal_material",
 	"name":{

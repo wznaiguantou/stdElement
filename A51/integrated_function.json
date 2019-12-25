@@ -36,7 +36,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of a component integrated with a switch",
+	"description":"code of a component integrated with a switch.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"integrated_function",
 	"name":{

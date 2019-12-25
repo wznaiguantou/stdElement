@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"standard deviation in a Normal (Laplace-Gauss) probability distribution",
+	"description":"standard deviation in a Normal (Laplace-Gauss) probability distribution.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"normal_standard_deviation",
 	"name":{

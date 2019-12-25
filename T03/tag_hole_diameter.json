@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"diameter as specified by level (miNomax) of the hole in a terminal lug or slug\nΦt_2 is normally smaller than Φt_1",
+	"description":"diameter as specified by level (miNomax) of the hole in a terminal lug or slug.\nΦt_2 is normally smaller than Φt_1.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"tag_hole_diameter",
 	"name":{

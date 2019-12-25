@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by the level (minTypmax) of the series resistance of a tuning variable capacitance diode at specified frequency and adjusted diode capacitance\nThe specified diode capacitance has to be adjusted with the reverse voltage.",
+	"description":"value as specified by the level (minTypmax) of the series resistance of a tuning variable capacitance diode at specified frequency and adjusted diode capacitance.\nThe specified diode capacitance has to be adjusted with the reverse voltage.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"diode_reverse_resistance",
 	"name":{

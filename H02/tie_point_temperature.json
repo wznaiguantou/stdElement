@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"temperature of the tie point of a voltage regulator diode, as a variable",
+	"description":"temperature of the tie point of a voltage regulator diode, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"tie_point_temperature",
 	"name":{

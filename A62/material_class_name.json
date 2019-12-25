@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"material class name as defined in the IEC 62474 database",
+	"description":"material class name as defined in the IEC 62474 database.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"material_class_name",
 	"name":{

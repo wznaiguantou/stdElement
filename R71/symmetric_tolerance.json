@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"percentage tolerance on the nominal value of a characteristic property where both positive and negative tolerance values are equal",
+	"description":"percentage tolerance on the nominal value of a characteristic property where both positive and negative tolerance values are equal.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"symmetric_tolerance",
 	"name":{

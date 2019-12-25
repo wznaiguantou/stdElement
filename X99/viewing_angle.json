@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"angle between viewing direction and the perpendicular to the plane of the display device\nUsually degree [deg] is used for the unit of measure.",
+	"description":"angle between viewing direction and the perpendicular to the plane of the display device.\nUsually degree [deg] is used for the unit of measure.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"viewing_angle",
 	"name":{

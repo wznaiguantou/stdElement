@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the voltage application(s) for which a fixed film capacitor is designed",
+	"description":"code of the voltage application(s) for which a fixed film capacitor is designed.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"voltage_application",
 	"name":{

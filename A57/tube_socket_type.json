@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of socket intended for use with vacuum tubes",
+	"description":"code of the type of socket intended for use with vacuum tubes.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"tube_socket_type",
 	"name":{

@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the screening of a transformer",
+	"description":"code of the screening of a transformer.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"screening",
 	"name":{

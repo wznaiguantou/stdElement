@@ -56,7 +56,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"IEC code of the colour of the insulation layer of an insulated wire",
+	"description":"IEC code of the colour of the insulation layer of an insulated wire.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"colour_code",
 	"name":{

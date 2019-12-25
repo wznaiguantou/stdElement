@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"resistance that must be connected to the output of the LVDS oscillator to ensure generation of a square wave",
+	"description":"resistance that must be connected to the output of the LVDS oscillator to ensure generation of a square wave.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"LVDS_load_condition",
 	"name":{

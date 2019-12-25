@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of material of the armature of a motor",
+	"description":"code of the type of material of the armature of a motor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"armature_material",
 	"name":{

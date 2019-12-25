@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of the shape and size of all terminals on a minimally-packaged device\nThe type of terminals on the device shall be stated and the following information shall be given:|a)~for ball- or column-grid arrays, the height of the terminals perpendicular to the die surface. In addition, the tolerance on the height of the terminals, their shapes and dimensions parallel to the die surface should also be given. Where appropriate, a drawing or diagram of the terminals should also be supplied as a document or in electronic form using a suitable graphics format.|b)~for non-leaded packages, the dimensions of the effective footprint area on the mounting surface shall be given.",
+	"description":"description of the shape and size of all terminals on a minimally-packaged device.\nThe type of terminals on the device shall be stated and the following information shall be given:|a)~for ball- or column-grid arrays, the height of the terminals perpendicular to the die surface. In addition, the tolerance on the height of the terminals, their shapes and dimensions parallel to the die surface should also be given. Where appropriate, a drawing or diagram of the terminals should also be supplied as a document or in electronic form using a suitable graphics format.|b)~for non-leaded packages, the dimensions of the effective footprint area on the mounting surface shall be given.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"terminal_shape_and_size",
 	"name":{

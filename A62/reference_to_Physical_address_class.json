@@ -177,7 +177,7 @@
 	"dataType":"struct",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"relation to the specified class Physical address",
+	"description":"relation to the specified class Physical address.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"reference_to_Physical_address_class",
 	"name":{

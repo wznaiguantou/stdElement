@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum value of the voltage proof an EM component is designed for",
+	"description":"maximum value of the voltage proof an EM component is designed for.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"voltage_proof",
 	"name":{

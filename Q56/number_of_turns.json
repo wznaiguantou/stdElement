@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal value of the number of turns required to cover the full electrical range of a multi-turn rotary potentiometer",
+	"description":"nominal value of the number of turns required to cover the full electrical range of a multi-turn rotary potentiometer.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"number_of_turns",
 	"name":{

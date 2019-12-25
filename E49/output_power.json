@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal rf output power of a bipolar transistor at specified collector-emitter voltage, frequency and heatsink temperature",
+	"description":"nominal rf output power of a bipolar transistor at specified collector-emitter voltage, frequency and heatsink temperature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"output_power",
 	"name":{

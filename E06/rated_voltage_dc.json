@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum direct voltage which may be applied continuously to a capacitor at any operating ambient temperature below the rated temperature",
+	"description":"maximum direct voltage which may be applied continuously to a capacitor at any operating ambient temperature below the rated temperature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"rated_voltage_dc",
 	"name":{

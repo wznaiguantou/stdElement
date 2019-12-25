@@ -40,7 +40,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code indicating the placement of the terminals of an electric-electronic or electromechanical component",
+	"description":"code indicating the placement of the terminals of an electric-electronic or electromechanical component.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"terminal_placement",
 	"name":{

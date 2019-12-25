@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"concentration of sea-salt aerosols in the atmosphere",
+	"description":"concentration of sea-salt aerosols in the atmosphere.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"sea_salt_concentration",
 	"name":{

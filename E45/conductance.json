@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"reactive or imaginary part as given by level (miNomax) of the admittance of an electric component having an admittance property",
+	"description":"reactive or imaginary part as given by level (miNomax) of the admittance of an electric component having an admittance property.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"conductance",
 	"name":{

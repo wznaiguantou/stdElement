@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"average value  in a Normal (Laplace-Gauss) probability distribution",
+	"description":"average value  in a Normal (Laplace-Gauss) probability distribution.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"normal_average_value",
 	"name":{

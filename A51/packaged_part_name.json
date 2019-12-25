@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"manufacturer's type number or part name for a packaged part equivalent to the die device",
+	"description":"manufacturer's type number or part name for a packaged part equivalent to the die device.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"packaged_part_name",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum repetitive peak reverse voltage across a diode or reverse blocking thyristor",
+	"description":"maximum repetitive peak reverse voltage across a diode or reverse blocking thyristor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"repetitive_peak_reverse_voltage",
 	"name":{

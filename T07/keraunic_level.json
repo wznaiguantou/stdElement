@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of thunderstorm days per year\nnormally measured in days per year in industrial applications",
+	"description":"number of thunderstorm days per year.\nnormally measured in days per year in industrial applications.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"keraunic_level",
 	"name":{

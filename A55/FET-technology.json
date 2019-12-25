@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the technology of a field-effect transistor",
+	"description":"code of the technology of a field-effect transistor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"FET-technology",
 	"name":{

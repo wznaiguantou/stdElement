@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"diameter as specified by level (miNomax) of the circumscribed circle containing the terminal\nThe terminal need not have a circular cross-section",
+	"description":"diameter as specified by level (miNomax) of the circumscribed circle containing the terminal.\nThe terminal need not have a circular cross-section.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"terminal_diameter",
 	"name":{

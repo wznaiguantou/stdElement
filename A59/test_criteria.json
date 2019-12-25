@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code for the criteria for evaluation of resistance of relays to shock and vibration\nThe criterion 'cont-open' covers both of the other criteria, the criterion 'cont-close' covers the criterion 'damage'",
+	"description":"code for the criteria for evaluation of resistance of relays to shock and vibration.\nThe criterion 'cont-open' covers both of the other criteria, the criterion 'cont-close' covers the criterion 'damage'.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"test_criteria",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum limiting rms on-state current flowing from the anode to the cathode in a thyristor or triac",
+	"description":"maximum limiting rms on-state current flowing from the anode to the cathode in a thyristor or triac.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"rms_on-state_current",
 	"name":{

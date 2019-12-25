@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"alphanumerical number given by the manufacturer to a a group or class of objects  that share particular qualities or features and are part of a larger group",
+	"description":"alphanumerical number given by the manufacturer to a a group or class of objects  that share particular qualities or features and are part of a larger group.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"type_number",
 	"name":{

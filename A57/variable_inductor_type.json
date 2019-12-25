@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of a variable inductor",
+	"description":"code of the type of a variable inductor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"variable_inductor_type",
 	"name":{

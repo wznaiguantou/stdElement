@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"product code of a backlight used with a liquid crystal display module",
+	"description":"product code of a backlight used with a liquid crystal display module.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"backlight",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal dc resistance per unit length of a conductive part of a conductor",
+	"description":"nominal dc resistance per unit length of a conductive part of a conductor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"dc_resistance",
 	"name":{

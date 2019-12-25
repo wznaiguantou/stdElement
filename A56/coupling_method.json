@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the coupling method identifying a differential amplifier",
+	"description":"code of the coupling method identifying a differential amplifier.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"coupling_method",
 	"name":{

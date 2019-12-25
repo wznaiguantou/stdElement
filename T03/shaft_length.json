@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (miNomax) of the length of the shaft of a switch having rotary action measured from the tip of the shaft to the mounting surface",
+	"description":"value as specified by level (miNomax) of the length of the shaft of a switch having rotary action measured from the tip of the shaft to the mounting surface.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"shaft_length",
 	"name":{

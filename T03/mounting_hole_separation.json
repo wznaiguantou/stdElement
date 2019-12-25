@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"distance as specified by level (miNomax) between the centres of two mounting holes",
+	"description":"distance as specified by level (miNomax) between the centres of two mounting holes.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"mounting_hole_separation",
 	"name":{

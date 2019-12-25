@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"mark that indicates whether the terminals of one function or one component may be exchanged\nRules should be established for the identification of permutable terminals.",
+	"description":"mark that indicates whether the terminals of one function or one component may be exchanged.\nRules should be established for the identification of permutable terminals.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"permutability_indicator",
 	"name":{

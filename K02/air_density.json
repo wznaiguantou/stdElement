@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"mass per unit volume of air",
+	"description":"mass per unit volume of air.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"air_density",
 	"name":{

@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the application of a transformer or cable",
+	"description":"code of the application of a transformer or cable.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"power_or_signal",
 	"name":{

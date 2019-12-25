@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of a feature class containing values with tolerances",
+	"description":"code of a feature class containing values with tolerances.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"toleranced_values",
 	"name":{

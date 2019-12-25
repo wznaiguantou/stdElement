@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"Irradiance applied to a photosensor as a variable",
+	"description":"Irradiance applied to a photosensor as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"irradiance",
 	"name":{

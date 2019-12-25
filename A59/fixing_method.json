@@ -36,7 +36,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code identifying the method of fixing a component to its counterpart",
+	"description":"code identifying the method of fixing a component to its counterpart.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"fixing_method",
 	"name":{

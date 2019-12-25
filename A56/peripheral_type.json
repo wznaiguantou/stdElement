@@ -32,7 +32,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the peripheral type of a microcontroller",
+	"description":"code of the peripheral type of a microcontroller.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"peripheral_type",
 	"name":{

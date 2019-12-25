@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal width of a fiducial measured in a direction parallel to the y-axis",
+	"description":"nominal width of a fiducial measured in a direction parallel to the y-axis.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"fiducial_height",
 	"name":{

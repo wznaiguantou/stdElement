@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"designation of the thread of a stud used for mounting the package",
+	"description":"designation of the thread of a stud used for mounting the package.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"stud_thread",
 	"name":{

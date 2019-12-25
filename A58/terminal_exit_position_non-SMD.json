@@ -52,7 +52,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code indicating the exit position of the terminals of electric/electronic or electromechanical components",
+	"description":"code indicating the exit position of the terminals of electric/electronic or electromechanical components.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"terminal_exit_position_non-SMD",
 	"name":{

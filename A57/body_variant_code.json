@@ -52,7 +52,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the name which identifies a particular variant of the shape of the body on a package",
+	"description":"code of the name which identifies a particular variant of the shape of the body on a package.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"body_variant_code",
 	"name":{

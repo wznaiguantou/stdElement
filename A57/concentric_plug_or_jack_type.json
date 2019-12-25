@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of concentric plug or jack",
+	"description":"code of the type of concentric plug or jack.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"concentric_plug_or_jack_type",
 	"name":{

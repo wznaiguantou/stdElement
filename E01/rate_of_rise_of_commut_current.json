@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"rate of rise of the commutating current of a triac, as a variable",
+	"description":"rate of rise of the commutating current of a triac, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"rate_of_rise_of_commut_current",
 	"name":{

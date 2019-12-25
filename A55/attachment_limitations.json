@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of any limitations on the methods or processes used for attaching the die device\nFor example, any areas on the chip where it is not allowed to apply ultrasonic power or pressure",
+	"description":"description of any limitations on the methods or processes used for attaching the die device.\nFor example, any areas on the chip where it is not allowed to apply ultrasonic power or pressure.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"attachment_limitations",
 	"name":{

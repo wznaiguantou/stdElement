@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of primary coils of a power transformer or relay",
+	"description":"number of primary coils of a power transformer or relay.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"number_of_primary_coils",
 	"name":{

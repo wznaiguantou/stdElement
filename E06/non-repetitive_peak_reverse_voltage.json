@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum non-repetitive peak reverse voltage of a rectifier diode or signal diode\nNOTE - The repetitive voltage is usually a function of the circuit and increases the power dissipation of the device. A non-repetitive transient voltage is usually due to an external cause and it is assumed that its effect has completely disappeared before the next transient arrives.",
+	"description":"maximum non-repetitive peak reverse voltage of a rectifier diode or signal diode.\nNOTE - The repetitive voltage is usually a function of the circuit and increases the power dissipation of the device. A non-repetitive transient voltage is usually due to an external cause and it is assumed that its effect has completely disappeared before the next transient arrives.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"non-repetitive_peak_reverse_voltage",
 	"name":{

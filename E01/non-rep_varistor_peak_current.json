@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum limiting non-repetitive value of a pulse current through a varistor, with specified virtual front time and virtual time to half-value",
+	"description":"maximum limiting non-repetitive value of a pulse current through a varistor, with specified virtual front time and virtual time to half-value.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"non-rep_varistor_peak_current",
 	"name":{

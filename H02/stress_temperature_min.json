@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum temperature applied to a component during cycle stress\nSee AAF277-002 for the maximum stress temperature.",
+	"description":"minimum temperature applied to a component during cycle stress.\nSee AAF277-002 for the maximum stress temperature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"stress_temperature_min",
 	"name":{

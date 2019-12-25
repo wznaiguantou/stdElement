@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"consumed current at which, by application of an external control voltage, the output is disabled while the oscillation of the crystal is maintained for the device",
+	"description":"consumed current at which, by application of an external control voltage, the output is disabled while the oscillation of the crystal is maintained for the device.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"disable_current",
 	"name":{

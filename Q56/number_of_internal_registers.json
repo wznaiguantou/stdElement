@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of internal registers of a microcontroller or microprocessor",
+	"description":"number of internal registers of a microcontroller or microprocessor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"number_of_internal_registers",
 	"name":{

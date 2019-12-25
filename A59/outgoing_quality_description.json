@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of the tests and procedures used to verify the outgoing quality of a component",
+	"description":"description of the tests and procedures used to verify the outgoing quality of a component.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"outgoing_quality_description",
 	"name":{

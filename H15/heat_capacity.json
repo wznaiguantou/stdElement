@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal heat capacity of a PTC resistor or piezoelectric device",
+	"description":"nominal heat capacity of a PTC resistor or piezoelectric device.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"heat_capacity",
 	"name":{

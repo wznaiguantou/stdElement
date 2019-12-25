@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"ratio of the alternating voltage appearing in the output to the alternating input voltage at specified amplitude and frequency",
+	"description":"ratio of the alternating voltage appearing in the output to the alternating input voltage at specified amplitude and frequency.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"ripple_rejection",
 	"name":{

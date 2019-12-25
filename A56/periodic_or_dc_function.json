@@ -72,7 +72,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code identifying a periodic or dc function of an IC",
+	"description":"code identifying a periodic or dc function of an IC.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"periodic_or_dc_function",
 	"name":{

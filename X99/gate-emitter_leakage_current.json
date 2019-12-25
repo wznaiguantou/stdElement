@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"leakage current into the gate terminal at a specified gate-emitter voltage with the collector terminal short-circuited to the emitter terminal",
+	"description":"leakage current into the gate terminal at a specified gate-emitter voltage with the collector terminal short-circuited to the emitter terminal.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"gate-emitter_leakage_current",
 	"name":{

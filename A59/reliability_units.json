@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"units in which the reliability estimate of a component is given\nTypical units may be Failures In Time (FIT)",
+	"description":"units in which the reliability estimate of a component is given.\nTypical units may be Failures In Time (FIT).",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"reliability_units",
 	"name":{

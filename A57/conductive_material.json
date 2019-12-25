@@ -44,7 +44,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the material of a conductive part of a conductor",
+	"description":"code of the material of a conductive part of a conductor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"conductive_material",
 	"name":{

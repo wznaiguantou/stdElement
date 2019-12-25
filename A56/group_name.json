@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"name given to a group of terminals or terminal groups for an integrated circuit or die device to distinguish it from all other groups for that device\nFor definition of terminal groups, see AAD171",
+	"description":"name given to a group of terminals or terminal groups for an integrated circuit or die device to distinguish it from all other groups for that device.\nFor definition of terminal groups, see AAD171.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"group_name",
 	"name":{

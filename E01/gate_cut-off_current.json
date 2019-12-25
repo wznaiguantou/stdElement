@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax) of the reverse gate current of a field-effect transistor with the drain short-circuited to the source and at specified gate-source voltage and temperature of a temperature type",
+	"description":"value as specified by level (minTypmax) of the reverse gate current of a field-effect transistor with the drain short-circuited to the source and at specified gate-source voltage and temperature of a temperature type.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"gate_cut-off_current",
 	"name":{

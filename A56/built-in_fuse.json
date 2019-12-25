@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"indication (Y or N) as to whether a solid tantalum capacitor contains a built-in fuse",
+	"description":"indication (Y or N) as to whether a solid tantalum capacitor contains a built-in fuse.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"built-in_fuse",
 	"name":{

@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"name given to the signal appearing at the terminal of a device",
+	"description":"name given to the signal appearing at the terminal of a device.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"signal_name",
 	"name":{

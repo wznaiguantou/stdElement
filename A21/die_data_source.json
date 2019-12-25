@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"organisation that supplied the data on the die device, where different from the original manufacturer",
+	"description":"organisation that supplied the data on the die device, where different from the original manufacturer.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"die_data_source",
 	"name":{

@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the physical dependency to which a non-linear fixed resistor belongs",
+	"description":"code of the physical dependency to which a non-linear fixed resistor belongs.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"resistance_dependency",
 	"name":{

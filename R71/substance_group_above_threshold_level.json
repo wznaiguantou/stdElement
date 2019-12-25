@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value stating substance group contained in product is above or below stated threshold",
+	"description":"value stating substance group contained in product is above or below stated threshold.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"substance_group_above_threshold_level",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum time for which the maximum temperature may be applied to a die device during assembly",
+	"description":"maximum time for which the maximum temperature may be applied to a die device during assembly.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"maximum_temperature_time",
 	"name":{

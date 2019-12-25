@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal density of a material",
+	"description":"nominal density of a material.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"density",
 	"name":{

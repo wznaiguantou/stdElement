@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code indicating the material type of the channel(s) of a field-effect transistor",
+	"description":"code indicating the material type of the channel(s) of a field-effect transistor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"channel_type",
 	"name":{

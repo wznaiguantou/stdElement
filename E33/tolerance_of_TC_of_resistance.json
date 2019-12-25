@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal tolerance on temperature coefficient of resistance for a resistor used for temperature sensing",
+	"description":"nominal tolerance on temperature coefficient of resistance for a resistor used for temperature sensing.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"tolerance_of_TC_of_resistance",
 	"name":{

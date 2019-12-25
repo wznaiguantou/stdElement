@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal gross number of whole and viable die in a single reticule on a wafer",
+	"description":"nominal gross number of whole and viable die in a single reticule on a wafer.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"reticule_gross_die_count",
 	"name":{

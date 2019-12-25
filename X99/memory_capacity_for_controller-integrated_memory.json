@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum amount of data that can be stored in the device expresssed in the conventional unit of data retrieval and storage for a data controller\nThe data are usually retrieved or stored by data controller in a multiple of bytes.",
+	"description":"maximum amount of data that can be stored in the device expresssed in the conventional unit of data retrieval and storage for a data controller.\nThe data are usually retrieved or stored by data controller in a multiple of bytes.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"memory_capacity_for_controller-integrated_memory",
 	"name":{

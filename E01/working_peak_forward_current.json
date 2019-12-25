@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum working peak forward current of an efficiency diode",
+	"description":"maximum working peak forward current of an efficiency diode.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"working_peak_forward_current",
 	"name":{

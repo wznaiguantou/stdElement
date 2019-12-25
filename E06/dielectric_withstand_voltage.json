@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum value of the dielectric withstand voltage an EM component is designed for",
+	"description":"maximum value of the dielectric withstand voltage an EM component is designed for.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"dielectric_withstand_voltage",
 	"name":{

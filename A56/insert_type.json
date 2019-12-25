@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of the type of connector insert",
+	"description":"description of the type of connector insert.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"insert_type",
 	"name":{

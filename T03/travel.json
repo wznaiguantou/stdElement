@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum travel of a linear motor",
+	"description":"maximum travel of a linear motor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"travel",
 	"name":{

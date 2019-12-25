@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal ambient free air temperature applied to a component during high temperature life test",
+	"description":"nominal ambient free air temperature applied to a component during high temperature life test.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"stress_ambient_temperature",
 	"name":{

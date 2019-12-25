@@ -36,7 +36,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the finish material of the terminal of an EM component",
+	"description":"code of the finish material of the terminal of an EM component.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"terminal_finish",
 	"name":{

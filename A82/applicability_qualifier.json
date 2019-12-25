@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"qualifier that waives or restricts the applicability of a property for local or temporal reasons",
+	"description":"qualifier that waives or restricts the applicability of a property for local or temporal reasons.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"applicability_qualifier",
 	"name":{

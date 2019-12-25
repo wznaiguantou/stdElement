@@ -40,7 +40,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the colour of the light emitted by a LED or IRED\nFor the relevant emitting material, see AAE563-005.",
+	"description":"code of the colour of the light emitted by a LED or IRED.\nFor the relevant emitting material, see AAE563-005.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"LED_light_colour",
 	"name":{

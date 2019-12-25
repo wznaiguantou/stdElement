@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code based on the IEC 60191 code to identify the die\nThe code has the form A-XBCC-Dnn/mmm, where |A is a shape class code |X is a code for the encapsulation material |B is a terminal position code |CC is the body style code|D is the terminal shape code |nn is the number of terminals |mmm is a sequence number to distiguish uniquely dies whose codes would otherwise be identical.",
+	"description":"code based on the IEC 60191 code to identify the die.\nThe code has the form A-XBCC-Dnn/mmm, where |A is a shape class code |X is a code for the encapsulation material |B is a terminal position code |CC is the body style code|D is the terminal shape code |nn is the number of terminals |mmm is a sequence number to distiguish uniquely dies whose codes would otherwise be identical.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"die_identifier",
 	"name":{

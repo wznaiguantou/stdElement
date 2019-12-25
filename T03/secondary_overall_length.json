@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"shorter overall length as specified by level (miNomax) of a package measured from a reference plane excluding terminals but including slugs\nG_2 is shorter than G_1",
+	"description":"shorter overall length as specified by level (miNomax) of a package measured from a reference plane excluding terminals but including slugs.\nG_2 is shorter than G_1.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"secondary_overall_length",
 	"name":{

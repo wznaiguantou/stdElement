@@ -129,7 +129,7 @@
 	"dataType":"struct",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"relation to the specified class Person identification",
+	"description":"relation to the specified class Person identification.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"reference_to_Person_identification_class",
 	"name":{

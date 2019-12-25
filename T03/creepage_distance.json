@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"shortest distance along the surface of insulating material between two specified conductive parts of a relay",
+	"description":"shortest distance along the surface of insulating material between two specified conductive parts of a relay.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"creepage_distance",
 	"name":{

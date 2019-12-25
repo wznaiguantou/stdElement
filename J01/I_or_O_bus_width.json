@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"width of the address bus of a microcontroller or microprocessor, to supply an address for I/O purposes",
+	"description":"width of the address bus of a microcontroller or microprocessor, to supply an address for I/O purposes.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"I_or_O_bus_width",
 	"name":{

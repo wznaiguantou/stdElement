@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (miNomax) of the length of the (air) gap in the magnetic circuit of a soft magnetic part",
+	"description":"value as specified by level (miNomax) of the length of the (air) gap in the magnetic circuit of a soft magnetic part.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"air_gap_length",
 	"name":{

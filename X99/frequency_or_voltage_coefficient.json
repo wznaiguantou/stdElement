@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"fractional change in output frequency resulting from an incremental change in supply voltage, other parameters remaining unchanged",
+	"description":"fractional change in output frequency resulting from an incremental change in supply voltage, other parameters remaining unchanged.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"frequency_or_voltage_coefficient",
 	"name":{

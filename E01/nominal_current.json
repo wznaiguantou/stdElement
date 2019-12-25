@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal current of a lamp at specified frequency and at the nominal voltage",
+	"description":"nominal current of a lamp at specified frequency and at the nominal voltage.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"nominal_current",
 	"name":{

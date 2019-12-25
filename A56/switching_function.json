@@ -84,7 +84,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the switching function of the contact assembly of a relay or switch\nNot all values apply to switches.",
+	"description":"code of the switching function of the contact assembly of a relay or switch.\nNot all values apply to switches.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"switching_function",
 	"name":{

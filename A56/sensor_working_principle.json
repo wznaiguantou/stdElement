@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the principle of working of a sensor",
+	"description":"code of the principle of working of a sensor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"sensor_working_principle",
 	"name":{

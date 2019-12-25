@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax), of the flux density remaining in a magnetised hard magnetic material when, in the absence of a self-demagnetising field, the magnetic field strength is brought to zero",
+	"description":"value as specified by level (minTypmax), of the flux density remaining in a magnetised hard magnetic material when, in the absence of a self-demagnetising field, the magnetic field strength is brought to zero.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"remanent_flux_density",
 	"name":{

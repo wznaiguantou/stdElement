@@ -32,7 +32,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code for the basic temperature specification for tests applied to a die or wafer",
+	"description":"code for the basic temperature specification for tests applied to a die or wafer.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"temperature_specification",
 	"name":{

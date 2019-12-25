@@ -4,7 +4,7 @@
 	"dataType":"date",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"date representing a particular calendar day by its calendar year, its calendar month and its ordinal number within its calendar month, based on the Gregorian calender\nThe representation of a value assigned to a calendar date shall be the complete representation according to ISO 8601 using the extended format: YYYY-MM-DD",
+	"description":"date representing a particular calendar day by its calendar year, its calendar month and its ordinal number within its calendar month, based on the Gregorian calender.\nThe representation of a value assigned to a calendar date shall be the complete representation according to ISO 8601 using the extended format: YYYY-MM-DD.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"calendar_date",
 	"name":{

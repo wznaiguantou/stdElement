@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"resistivity of a typical sample of soil at a given location",
+	"description":"resistivity of a typical sample of soil at a given location.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"electric_resistivity_of_soil",
 	"name":{

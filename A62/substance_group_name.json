@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"substance group name as defined in the IEC 62474 database",
+	"description":"substance group name as defined in the IEC 62474 database.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"substance_group_name",
 	"name":{

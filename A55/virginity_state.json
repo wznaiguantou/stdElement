@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code identifying the logic state of the outputs of a virgin (unprogrammed) or erased EPROM",
+	"description":"code identifying the logic state of the outputs of a virgin (unprogrammed) or erased EPROM.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"virginity_state",
 	"name":{

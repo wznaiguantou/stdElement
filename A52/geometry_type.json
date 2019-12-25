@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of geometry possessed by an electric-electronic component",
+	"description":"code of the type of geometry possessed by an electric-electronic component.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"geometry_type",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal value of the summation of the quotients of the elements of the magnetic path length over the corresponding cross-sectional areas of a soft magnetic part",
+	"description":"nominal value of the summation of the quotients of the elements of the magnetic path length over the corresponding cross-sectional areas of a soft magnetic part.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"core_factor_C_1",
 	"name":{

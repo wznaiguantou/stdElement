@@ -4,7 +4,7 @@
 	"dataType":"date",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"no spare parts  available beyond this date",
+	"description":"no spare parts  available beyond this date.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"end_of_spare_part_delivery",
 	"name":{

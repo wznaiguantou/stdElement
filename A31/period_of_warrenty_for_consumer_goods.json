@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"period of time for which a manufacturer or its representative is contractually committed to fulfill his warranty premises for consumer goods at intended use",
+	"description":"period of time for which a manufacturer or its representative is contractually committed to fulfill his warranty premises for consumer goods at intended use.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"period_of_warrenty_for_consumer_goods",
 	"name":{

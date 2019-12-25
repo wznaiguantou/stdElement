@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"availability experienced under actual conditions of operation and maintenance\nOperational availability is determined considering down time due to failures and associated delays, but excluding external causes.",
+	"description":"availability experienced under actual conditions of operation and maintenance.\nOperational availability is determined considering down time due to failures and associated delays, but excluding external causes.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"operational_availability",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (miNomax) of the resistance of a fixed linear resistor or variable resistor\nThe symbol R_ac is used for potentiometers. The value of R_ac is measured between the end terminals of potentiometers and between the end positions of two-terminal resistors.",
+	"description":"value as specified by level (miNomax) of the resistance of a fixed linear resistor or variable resistor.\nThe symbol R_ac is used for potentiometers. The value of R_ac is measured between the end terminals of potentiometers and between the end positions of two-terminal resistors.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"resistance",
 	"name":{

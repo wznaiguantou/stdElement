@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal rotor moment of inertia of a rotational motor",
+	"description":"nominal rotor moment of inertia of a rotational motor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"rotor_inertia",
 	"name":{

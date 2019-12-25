@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"specified way of viewing an object",
+	"description":"specified way of viewing an object.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"aspect",
 	"name":{

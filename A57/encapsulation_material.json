@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"material used to form an external case or coating on an electric component to protect it from the environment",
+	"description":"material used to form an external case or coating on an electric component to protect it from the environment.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"encapsulation_material",
 	"name":{

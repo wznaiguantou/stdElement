@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum voltage of a secondary battery during charge with a constant current of 0.1 times the value of the nominal capacity",
+	"description":"maximum voltage of a secondary battery during charge with a constant current of 0.1 times the value of the nominal capacity.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"voltage_during_charge",
 	"name":{

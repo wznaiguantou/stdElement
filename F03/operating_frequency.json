@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum switching frequency  of the input current, caused by an actuator that causes a switch-over at the output side of an hybrid inductive proximity sensor",
+	"description":"maximum switching frequency  of the input current, caused by an actuator that causes a switch-over at the output side of an hybrid inductive proximity sensor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"operating_frequency",
 	"name":{

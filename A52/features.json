@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of a main feature class",
+	"description":"code of a main feature class.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"features",
 	"name":{

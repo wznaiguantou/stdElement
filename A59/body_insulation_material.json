@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the material of a connector",
+	"description":"code of the material of a connector.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"body_insulation_material",
 	"name":{

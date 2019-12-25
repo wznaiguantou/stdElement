@@ -116,7 +116,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the category to which an electric-electronic component belongs",
+	"description":"code of the category to which an electric-electronic component belongs.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"category_EE_component",
 	"name":{

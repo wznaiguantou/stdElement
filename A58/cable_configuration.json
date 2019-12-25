@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the configuration of a cable",
+	"description":"code of the configuration of a cable.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"cable_configuration",
 	"name":{

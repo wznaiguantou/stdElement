@@ -64,7 +64,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"level of solar ultra-violet radiation at the earth’s surface",
+	"description":"level of solar ultra-violet radiation at the earth’s surface.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"UV-index",
 	"name":{

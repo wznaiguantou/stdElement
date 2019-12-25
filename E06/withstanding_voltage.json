@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum value of the ac voltage that may be applied across the electrodes of a gas-filled spark gap without causing breakdown",
+	"description":"maximum value of the ac voltage that may be applied across the electrodes of a gas-filled spark gap without causing breakdown.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"withstanding_voltage",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal length of the step-and-repeat dimensions of a reticule containing die on a wafer in the x direction\nA reticule will normally contain more than one die which will have their own step-and-repeat dimensions within it",
+	"description":"nominal length of the step-and-repeat dimensions of a reticule containing die on a wafer in the x direction.\nA reticule will normally contain more than one die which will have their own step-and-repeat dimensions within it.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"reticule_step_size_x",
 	"name":{

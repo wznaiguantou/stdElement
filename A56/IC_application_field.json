@@ -144,7 +144,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code identifying the equipment in which an application oriented IC is used",
+	"description":"code identifying the equipment in which an application oriented IC is used.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"IC_application_field",
 	"name":{

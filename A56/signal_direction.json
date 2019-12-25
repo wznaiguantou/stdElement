@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the direction of signal flow at a terminal",
+	"description":"code of the direction of signal flow at a terminal.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"signal_direction",
 	"name":{

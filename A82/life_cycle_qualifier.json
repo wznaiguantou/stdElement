@@ -40,7 +40,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"qualifier that specifies a product lifecycle stage or phase in which the assigned value is applicable\n1 The value list is used in the energy transmission and distribution sector for the period of operation of an item., 2 A qualifier with a different value list of another technical domain may be registered with the same name but with a different identifier , 3 The current value list may be expanded in future versions of the reference dictionary. , 4 The current value list may be expanded on the fly when there is an agreement among the exchange partners",
+	"description":"qualifier that specifies a product lifecycle stage or phase in which the assigned value is applicable.\n1 The value list is used in the energy transmission and distribution sector for the period of operation of an item., 2 A qualifier with a different value list of another technical domain may be registered with the same name but with a different identifier , 3 The current value list may be expanded in future versions of the reference dictionary. , 4 The current value list may be expanded on the fly when there is an agreement among the exchange partners.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"life_cycle_qualifier",
 	"name":{

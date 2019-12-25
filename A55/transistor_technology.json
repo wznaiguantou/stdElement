@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the technology to which a transistor belongs",
+	"description":"code of the technology to which a transistor belongs.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"transistor_technology",
 	"name":{

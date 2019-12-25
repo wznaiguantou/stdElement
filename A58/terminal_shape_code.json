@@ -88,7 +88,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"suffix to the IEC 60191-4 code which identifies the form or shape of the terminals\nIf more than one terminal is used, the code to be used shall be that for the terminal which carries the principal current",
+	"description":"suffix to the IEC 60191-4 code which identifies the form or shape of the terminals.\nIf more than one terminal is used, the code to be used shall be that for the terminal which carries the principal current.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"terminal_shape_code",
 	"name":{

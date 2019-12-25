@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal phase difference of the output signal to the input signal of a delay line",
+	"description":"nominal phase difference of the output signal to the input signal of a delay line.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"phase_relation",
 	"name":{

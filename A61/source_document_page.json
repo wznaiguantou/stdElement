@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of the page in the source document on which the dimension set is given",
+	"description":"number of the page in the source document on which the dimension set is given.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"source_document_page",
 	"name":{

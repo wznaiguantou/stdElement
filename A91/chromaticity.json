@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the chromaticity type of a display tube",
+	"description":"code of the chromaticity type of a display tube.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"chromaticity",
 	"name":{

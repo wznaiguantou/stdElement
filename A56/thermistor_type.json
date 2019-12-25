@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the sign of the temperature coefficient belonging to a thermistor",
+	"description":"code of the sign of the temperature coefficient belonging to a thermistor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"thermistor_type",
 	"name":{

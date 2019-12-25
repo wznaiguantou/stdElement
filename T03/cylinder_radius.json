@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value of the radius of a cylinder",
+	"description":"value of the radius of a cylinder.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"cylinder_radius",
 	"name":{

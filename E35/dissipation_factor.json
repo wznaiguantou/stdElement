@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minmax) of the power required to raise the temperature of a thermistor in a state of equilibrium by 1K\nThe dissipation factor is calculated by dividing the power dissipated in the thermistor by the resulting temperature rise",
+	"description":"value as specified by level (minmax) of the power required to raise the temperature of a thermistor in a state of equilibrium by 1K.\nThe dissipation factor is calculated by dividing the power dissipated in the thermistor by the resulting temperature rise.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"dissipation_factor",
 	"name":{

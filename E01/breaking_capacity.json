@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum value of the current (rms if ac) which an output circuit of a relay is capable of breaking at specified contact voltage and ambient temperature",
+	"description":"maximum value of the current (rms if ac) which an output circuit of a relay is capable of breaking at specified contact voltage and ambient temperature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"breaking_capacity",
 	"name":{

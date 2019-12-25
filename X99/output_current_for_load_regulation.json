@@ -6,7 +6,7 @@
 	"dataType":"array",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"range of load current for load regulation measurement, at the two ends of which the output voltage is measured\nThe first item is to record the minimum load current value and the second is to record the maximum load current value used in the load regulation measurements.",
+	"description":"range of load current for load regulation measurement, at the two ends of which the output voltage is measured.\nThe first item is to record the minimum load current value and the second is to record the maximum load current value used in the load regulation measurements.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"output_current_for_load_regulation",
 	"name":{

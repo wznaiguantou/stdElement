@@ -32,7 +32,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"IEC code of the flammability of a connector\nFH = Flame Horizontal FV = Flame Vertical",
+	"description":"IEC code of the flammability of a connector.\nFH = Flame Horizontal FV = Flame Vertical.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"IEC_flammability",
 	"name":{

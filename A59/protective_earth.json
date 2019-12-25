@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code indicating a component having or having not a contact for protective earth",
+	"description":"code indicating a component having or having not a contact for protective earth.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"protective_earth",
 	"name":{

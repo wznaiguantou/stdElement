@@ -32,7 +32,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code indicating the mounting means provided by a component",
+	"description":"code indicating the mounting means provided by a component.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"mounting_means",
 	"name":{

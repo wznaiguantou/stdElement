@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"difference of voltage between the threshold values at input pin that change the output voltage state",
+	"description":"difference of voltage between the threshold values at input pin that change the output voltage state.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"hysteresis_voltage",
 	"name":{

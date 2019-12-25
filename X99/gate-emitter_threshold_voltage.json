@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"gate-emitter voltage at which the collector current is at specified low (absolute) value",
+	"description":"gate-emitter voltage at which the collector current is at specified low (absolute) value.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"gate-emitter_threshold_voltage",
 	"name":{

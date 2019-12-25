@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (miNomax) of the resistance of a thermistor at an ambient temperature of 25 Cel",
+	"description":"value as specified by level (miNomax) of the resistance of a thermistor at an ambient temperature of 25 Cel.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"resistance_at_25_Cel",
 	"name":{

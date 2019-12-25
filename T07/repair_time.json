@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"part of active corrective maintenance time taken to complete repair action\nSee Figure 2 in the IEV 192-07-19:2015-02",
+	"description":"part of active corrective maintenance time taken to complete repair action.\nSee Figure 2 in the IEV 192-07-19:2015-02.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"repair_time",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of sections of a capacitive antenna\nApplies to extendible antennas.",
+	"description":"number of sections of a capacitive antenna.\nApplies to extendible antennas.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"number_of_sections",
 	"name":{

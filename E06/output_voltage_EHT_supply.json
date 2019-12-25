@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum output voltage at the EHT output of a voltage multiplier",
+	"description":"maximum output voltage at the EHT output of a voltage multiplier.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"output_voltage_EHT_supply",
 	"name":{

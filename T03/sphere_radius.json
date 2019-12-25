@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value of the length of the radius of a sphere",
+	"description":"value of the length of the radius of a sphere.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"sphere_radius",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal capacitance of a capacitive humidity sensor at reference conditions\nReference conditions are: |T_amb = 25 Cel |RH_amb = 43 % |frequency = 100 kHz",
+	"description":"nominal capacitance of a capacitive humidity sensor at reference conditions.\nReference conditions are: |T_amb = 25 Cel |RH_amb = 43 % |frequency = 100 kHz.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"reference_capacitance",
 	"name":{

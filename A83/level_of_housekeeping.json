@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"classification of frequency and effectivity of cleaning from dust  reducing risks of fire and explosions in accordance with IEC 60079-10-2, Annex C",
+	"description":"classification of frequency and effectivity of cleaning from dust  reducing risks of fire and explosions in accordance with IEC 60079-10-2, Annex C.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"level_of_housekeeping",
 	"name":{

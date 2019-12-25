@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of the physical form of the die including information on solder bumps and lead frame where applicable",
+	"description":"description of the physical form of the die including information on solder bumps and lead frame where applicable.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"die_description",
 	"name":{

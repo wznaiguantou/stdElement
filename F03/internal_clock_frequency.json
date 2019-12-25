@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minmax) of the internal clock frequency  of a microcontroller or microprocessor in a temperature range between specified temperatures T_1 and T_2)",
+	"description":"value as specified by level (minmax) of the internal clock frequency  of a microcontroller or microprocessor in a temperature range between specified temperatures T_1 and T_2).",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"internal_clock_frequency",
 	"name":{

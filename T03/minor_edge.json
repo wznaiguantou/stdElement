@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (miNomax) of the length of the edge of the square top plane of a right angular truncated pyramid",
+	"description":"value as specified by level (miNomax) of the length of the edge of the square top plane of a right angular truncated pyramid.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"minor_edge",
 	"name":{

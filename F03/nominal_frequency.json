@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"frequency used to identify the quartz crystal device",
+	"description":"frequency used to identify the quartz crystal device.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"nominal_frequency",
 	"name":{

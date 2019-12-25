@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the actuating quantity of a switch",
+	"description":"code of the actuating quantity of a switch.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"actuating_quantity",
 	"name":{

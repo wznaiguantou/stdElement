@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of technology of a diode",
+	"description":"code of the type of technology of a diode.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"diode_technology",
 	"name":{

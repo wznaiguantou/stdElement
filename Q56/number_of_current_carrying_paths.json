@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"amount of electric conducting routes of an object carrying the current, contributing to thermal losses in type and  routine tests\n1 Under type and routine tests all current paths are considered to contribute to the power loss of the considered object.\r\n\r\n2 Several current pathes may occurr in different product types, e.g. 3-phase transformer, a power relay, contactor which may be only partially used in operation. Less current paths used in operation reduce power loss.",
+	"description":"amount of electric conducting routes of an object carrying the current, contributing to thermal losses in type and  routine tests.\n1 Under type and routine tests all current paths are considered to contribute to the power loss of the considered object.\r\n\r\n2 Several current pathes may occurr in different product types, e.g. 3-phase transformer, a power relay, contactor which may be only partially used in operation. Less current paths used in operation reduce power loss.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"number_of_current_carrying_paths",
 	"name":{

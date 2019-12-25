@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum limiting ac voltage that may be applied to a resistor",
+	"description":"maximum limiting ac voltage that may be applied to a resistor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"limiting_element_voltage_ac",
 	"name":{

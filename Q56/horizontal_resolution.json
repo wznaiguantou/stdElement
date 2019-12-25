@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum number of displayable pixels on the screen of a colour display tube in the horizontal direction",
+	"description":"minimum number of displayable pixels on the screen of a colour display tube in the horizontal direction.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"horizontal_resolution",
 	"name":{

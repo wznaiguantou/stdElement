@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal pitch of the holes of an electric/electronic or electromechanical component parallel to the x coordinate",
+	"description":"nominal pitch of the holes of an electric/electronic or electromechanical component parallel to the x coordinate.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"hole_pitch",
 	"name":{

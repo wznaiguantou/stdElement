@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of a PTC thermistor identifying its application",
+	"description":"code of a PTC thermistor identifying its application.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"PTC_application",
 	"name":{

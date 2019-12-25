@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"range of the variance of output frequency controlled by applying an external voltage",
+	"description":"range of the variance of output frequency controlled by applying an external voltage.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"frequency_control_range",
 	"name":{

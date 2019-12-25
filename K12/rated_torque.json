@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal torque of a rotational motor",
+	"description":"nominal torque of a rotational motor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"rated_torque",
 	"name":{

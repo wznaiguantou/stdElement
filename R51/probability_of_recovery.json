@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"probability of performing as required within a specified time interval, under given conditions",
+	"description":"probability of performing as required within a specified time interval, under given conditions.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"probability_of_recovery",
 	"name":{

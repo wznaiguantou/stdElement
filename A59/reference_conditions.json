@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of the reference conditions applied to a component as a variable\nReference conditions may be used when a number of characteristics are specified at a common set of conditions.",
+	"description":"description of the reference conditions applied to a component as a variable.\nReference conditions may be used when a number of characteristics are specified at a common set of conditions.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"reference_conditions",
 	"name":{

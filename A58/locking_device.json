@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the locking device of a connector",
+	"description":"code of the locking device of a connector.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"locking_device",
 	"name":{

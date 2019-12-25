@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of mechanical adjustability identifying an inductor",
+	"description":"code of the type of mechanical adjustability identifying an inductor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"adjustability_type",
 	"name":{

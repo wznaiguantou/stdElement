@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"qualifier that specifies the type of data capturing or generation for the provided value",
+	"description":"qualifier that specifies the type of data capturing or generation for the provided value.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"value_origin_qualifier",
 	"name":{

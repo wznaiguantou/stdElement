@@ -64,7 +64,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code denoting the layout and construction of a liquid crystal display",
+	"description":"code denoting the layout and construction of a liquid crystal display.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"display_construction",
 	"name":{

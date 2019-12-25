@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code identifying the instruction set architecture of a microprocessor",
+	"description":"code identifying the instruction set architecture of a microprocessor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"instruction_set_architecture",
 	"name":{

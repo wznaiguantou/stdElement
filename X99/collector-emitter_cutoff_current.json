@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"collector current at a specific collector-emitter voltage below the breakdown region and gate off-state",
+	"description":"collector current at a specific collector-emitter voltage below the breakdown region and gate off-state.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"collector-emitter_cutoff_current",
 	"name":{

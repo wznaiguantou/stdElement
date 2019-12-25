@@ -32,7 +32,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of a component integrated with a connector",
+	"description":"code of a component integrated with a connector.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"integrated_component",
 	"name":{

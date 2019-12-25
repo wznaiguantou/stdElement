@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"angle between the plane of the reference meridian and the plane through the polar axis and the normal to the spheroid",
+	"description":"angle between the plane of the reference meridian and the plane through the polar axis and the normal to the spheroid.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"geographic_longitude",
 	"name":{

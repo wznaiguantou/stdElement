@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal peak-to-peak current to deflect the spot on the screen of a display tube assembly from edge to edge vertically, at nominal anode voltage",
+	"description":"nominal peak-to-peak current to deflect the spot on the screen of a display tube assembly from edge to edge vertically, at nominal anode voltage.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"field_deflection_current",
 	"name":{

@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code indicating whether a power supply is fixed or variable",
+	"description":"code indicating whether a power supply is fixed or variable.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"supply_variability",
 	"name":{

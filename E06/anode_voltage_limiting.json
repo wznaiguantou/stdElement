@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum limiting direct voltage on the anode of a display tube",
+	"description":"maximum limiting direct voltage on the anode of a display tube.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"anode_voltage_limiting",
 	"name":{

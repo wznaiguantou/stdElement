@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"surface temperature of the surrounding sea water",
+	"description":"surface temperature of the surrounding sea water.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"sea_surface_temperature",
 	"name":{

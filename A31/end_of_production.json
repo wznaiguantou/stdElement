@@ -4,7 +4,7 @@
 	"dataType":"date",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"point of time when instances of a product are no longer produced",
+	"description":"point of time when instances of a product are no longer produced.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"end_of_production",
 	"name":{

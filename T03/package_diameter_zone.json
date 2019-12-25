@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"diameter as specified by level (miNomax) of a zone which includes the package diameter, package irregularities and the uncontrolled part of any terminals which are presented for mounting radially",
+	"description":"diameter as specified by level (miNomax) of a zone which includes the package diameter, package irregularities and the uncontrolled part of any terminals which are presented for mounting radially.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"package_diameter_zone",
 	"name":{

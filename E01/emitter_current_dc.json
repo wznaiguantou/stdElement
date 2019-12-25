@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"direct emitter current of a bipolar transistor, as a variable",
+	"description":"direct emitter current of a bipolar transistor, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"emitter_current_dc",
 	"name":{

@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code indicating the synchronism of an ac motor",
+	"description":"code indicating the synchronism of an ac motor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"ac_motor_synchronism",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal radius of the screen of a display tube at screen centre",
+	"description":"nominal radius of the screen of a display tube at screen centre.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"screen_curvature_radius",
 	"name":{

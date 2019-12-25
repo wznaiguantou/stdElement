@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax) of the limiting value of the amplitude permeability of a soft magnetic material when the magnetic field strength tends to zero",
+	"description":"value as specified by level (minTypmax) of the limiting value of the amplitude permeability of a soft magnetic material when the magnetic field strength tends to zero.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"initial_permeability",
 	"name":{

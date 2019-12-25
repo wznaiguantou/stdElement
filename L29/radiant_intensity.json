@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax) of the radiant intensity of an infrared emitting diode at specified forward current and temperature of a temperature type",
+	"description":"value as specified by level (minTypmax) of the radiant intensity of an infrared emitting diode at specified forward current and temperature of a temperature type.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"radiant_intensity",
 	"name":{

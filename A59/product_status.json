@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of the status of the component within that product's life cycle\nThe description should include information on the maturity of the production processes and any information on impending changes to production processes or cessation of production",
+	"description":"description of the status of the component within that product's life cycle.\nThe description should include information on the maturity of the production processes and any information on impending changes to production processes or cessation of production.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"product_status",
 	"name":{

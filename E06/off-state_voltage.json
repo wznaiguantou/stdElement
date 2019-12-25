@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum limiting continuous voltage between the thyristor or triac anode and cathode in the off state, excluding repetitive and non-repetitive voltages",
+	"description":"maximum limiting continuous voltage between the thyristor or triac anode and cathode in the off state, excluding repetitive and non-repetitive voltages.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"off-state_voltage",
 	"name":{

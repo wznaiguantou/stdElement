@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value of the peak envelope power of a bipolar transistor or wideband amplifier in SSB mode of operation, measured according to the two-signal method, as a variable",
+	"description":"value of the peak envelope power of a bipolar transistor or wideband amplifier in SSB mode of operation, measured according to the two-signal method, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"peak_envelope_power",
 	"name":{

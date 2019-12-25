@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of the processes used in attaching the bumps to a die device",
+	"description":"description of the processes used in attaching the bumps to a die device.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"bump_attachment_method",
 	"name":{

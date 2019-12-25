@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minmax) of the hysteresis of the switching distance of an inductive proximity sensor at specified supply voltage and ambient temperature",
+	"description":"value as specified by level (minmax) of the hysteresis of the switching distance of an inductive proximity sensor at specified supply voltage and ambient temperature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"hysteresis_in_switching_distance",
 	"name":{

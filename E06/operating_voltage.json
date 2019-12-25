@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"peak-to-peak value of the ac square wave voltage applied to a liquid crystal display, as a variable",
+	"description":"peak-to-peak value of the ac square wave voltage applied to a liquid crystal display, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"operating_voltage",
 	"name":{

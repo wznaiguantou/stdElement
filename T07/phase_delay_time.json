@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal phase delay time of a delay line\nThe phase delay time is the ratio of the total phase delay through the network, in cycles, to the frequency in Hz.",
+	"description":"nominal phase delay time of a delay line.\nThe phase delay time is the ratio of the total phase delay through the network, in cycles, to the frequency in Hz.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"phase_delay_time",
 	"name":{

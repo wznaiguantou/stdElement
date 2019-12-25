@@ -9,7 +9,7 @@
 	"dataType":"bool",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"physical process by which a vapour becomes a liquid or solid occurring due to ambient conditions",
+	"description":"physical process by which a vapour becomes a liquid or solid occurring due to ambient conditions.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"condensation",
 	"name":{

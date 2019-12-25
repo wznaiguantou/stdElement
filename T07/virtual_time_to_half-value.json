@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"virtual time to half-value t_2 of an impulse current applied to a stabiliser diode, as a variable",
+	"description":"virtual time to half-value t_2 of an impulse current applied to a stabiliser diode, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"virtual_time_to_half-value",
 	"name":{

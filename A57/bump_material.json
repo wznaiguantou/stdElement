@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"material used to form the bumps on a bumped die",
+	"description":"material used to form the bumps on a bumped die.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"bump_material",
 	"name":{

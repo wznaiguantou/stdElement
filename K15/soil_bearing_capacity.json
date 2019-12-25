@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"load per unit area which can be safely supported by the ground",
+	"description":"load per unit area which can be safely supported by the ground.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"soil_bearing_capacity",
 	"name":{

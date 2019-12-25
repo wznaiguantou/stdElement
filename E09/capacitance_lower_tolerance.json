@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"lower tolerance of the rated capacitance of a fixed capacitor",
+	"description":"lower tolerance of the rated capacitance of a fixed capacitor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"capacitance_lower_tolerance",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal diameter of the pitch circle of the terminals of an electric, electronic or electromechanical component",
+	"description":"nominal diameter of the pitch circle of the terminals of an electric, electronic or electromechanical component.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"pitch_circle_diameter",
 	"name":{

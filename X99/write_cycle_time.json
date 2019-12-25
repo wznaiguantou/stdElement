@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum cycle time of the write enable signal",
+	"description":"minimum cycle time of the write enable signal.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"write_cycle_time",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum limiting direct voltage between source and substrate of a field-effect transistor",
+	"description":"maximum limiting direct voltage between source and substrate of a field-effect transistor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"source-substrate_voltage_limit",
 	"name":{

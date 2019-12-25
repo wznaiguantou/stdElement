@@ -32,7 +32,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code indicating the encapsulation technology which has been applied in an electric, electronic or electromechanical component",
+	"description":"code indicating the encapsulation technology which has been applied in an electric, electronic or electromechanical component.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"encapsulation_technology",
 	"name":{

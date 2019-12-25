@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"pattern of terminals on a grid array\nThe terminal pattern is expressed as a sequence of 1s and 0s to represent the presence or absence respectively of terminals on a regular rectangular array.",
+	"description":"pattern of terminals on a grid array.\nThe terminal pattern is expressed as a sequence of 1s and 0s to represent the presence or absence respectively of terminals on a regular rectangular array.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"terminal_pattern",
 	"name":{

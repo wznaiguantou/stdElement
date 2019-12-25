@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"ten times the logarithm to the base 10 of the ratio of the square of the sound pressure to the square of the\nreference sound pressure [p_0 = 20  μPa ]\nthe frequency weighting or the width of the frequency band used, and the time weighting (S, F or I, see IEC 61672-1) should be indicated",
+	"description":"ten times the logarithm to the base 10 of the ratio of the square of the sound pressure to the square of the\nreference sound pressure [p_0 = 20  μPa ].\nthe frequency weighting or the width of the frequency band used, and the time weighting (S, F or I, see IEC 61672-1) should be indicated.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"sound_pressure_level",
 	"name":{

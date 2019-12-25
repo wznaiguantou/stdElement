@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of switch included with a power socket",
+	"description":"code of the type of switch included with a power socket.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"switch_type",
 	"name":{

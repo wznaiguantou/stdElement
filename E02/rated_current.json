@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum continuous rms current per contact of a connector, all contacts loaded, at specified ambient temperature",
+	"description":"maximum continuous rms current per contact of a connector, all contacts loaded, at specified ambient temperature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"rated_current",
 	"name":{

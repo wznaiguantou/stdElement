@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"variation in the output voltage when the ambient temperature is varied",
+	"description":"variation in the output voltage when the ambient temperature is varied.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"temperature_coefficient_of_output_voltage",
 	"name":{

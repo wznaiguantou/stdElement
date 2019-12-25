@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"angular distance between the plane of the equator and a normal to the spheroid",
+	"description":"angular distance between the plane of the equator and a normal to the spheroid.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"geographic_latitude",
 	"name":{

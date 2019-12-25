@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"ratio of the motion of the tidal current driven by astronomical tides to a specified unit time and measured during a given period of time",
+	"description":"ratio of the motion of the tidal current driven by astronomical tides to a specified unit time and measured during a given period of time.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"tidal_current_speed",
 	"name":{

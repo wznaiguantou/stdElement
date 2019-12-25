@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum projected width of the useful screen measured along the horizontal axis of a display device\nUsually metre [m] is used for the unit of measure.",
+	"description":"minimum projected width of the useful screen measured along the horizontal axis of a display device.\nUsually metre [m] is used for the unit of measure.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"effective_horizontal_display_size",
 	"name":{

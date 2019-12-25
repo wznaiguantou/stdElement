@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum torque that a rotational stepping motor can develop when starting at a given stepping rate without losing steps",
+	"description":"maximum torque that a rotational stepping motor can develop when starting at a given stepping rate without losing steps.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"pull-in_torque",
 	"name":{

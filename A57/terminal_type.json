@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of terminal",
+	"description":"code of the type of terminal.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"terminal_type",
 	"name":{

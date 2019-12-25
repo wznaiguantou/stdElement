@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the angle between terminal and contact of a connector",
+	"description":"code of the angle between terminal and contact of a connector.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"terminal-to-contact_angle",
 	"name":{

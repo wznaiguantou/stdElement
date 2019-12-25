@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"geografical area within a country",
+	"description":"geografical area within a country.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"country_subdivision",
 	"name":{

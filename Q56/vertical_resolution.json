@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of visible horizontal lines of a display tube\nMeasured with the shrinking raster method at screen centre.",
+	"description":"number of visible horizontal lines of a display tube.\nMeasured with the shrinking raster method at screen centre.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"vertical_resolution",
 	"name":{

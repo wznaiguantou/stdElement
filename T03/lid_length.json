@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"length as specified by level (miNomax) of a lid on the top of a package which encloses a cavity below",
+	"description":"length as specified by level (miNomax) of a lid on the top of a package which encloses a cavity below.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"lid_length",
 	"name":{

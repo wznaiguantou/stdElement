@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of additional screening, including burn-in, that has been applied to a component before delivery",
+	"description":"description of additional screening, including burn-in, that has been applied to a component before delivery.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"additional_screening",
 	"name":{

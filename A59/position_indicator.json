@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the indicator, if any, on a relay which shows the position of the armature and the contact condition (operate or release condition)",
+	"description":"code of the indicator, if any, on a relay which shows the position of the armature and the contact condition (operate or release condition).",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"position_indicator",
 	"name":{

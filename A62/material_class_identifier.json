@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"material class ID as defined in the IEC 62474 database\nIf there is an inconistency between id and name, the id takes precedence.",
+	"description":"material class ID as defined in the IEC 62474 database.\nIf there is an inconistency between id and name, the id takes precedence.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"material_class_identifier",
 	"name":{

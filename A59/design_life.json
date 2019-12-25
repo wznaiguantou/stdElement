@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"duration for which  specified performance characteristics of an item are granted by the manufacturer",
+	"description":"duration for which  specified performance characteristics of an item are granted by the manufacturer.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"design_life",
 	"name":{

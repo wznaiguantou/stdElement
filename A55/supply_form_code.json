@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"mnemonic code for the form in which the die is supplied either in wafer form or as individual dice",
+	"description":"mnemonic code for the form in which the die is supplied either in wafer form or as individual dice.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"supply_form_code",
 	"name":{

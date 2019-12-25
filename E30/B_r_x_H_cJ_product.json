@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax), of the product of remanent flux density B_r and coercivity H_cJ of a hard magnetic material",
+	"description":"value as specified by level (minTypmax), of the product of remanent flux density B_r and coercivity H_cJ of a hard magnetic material.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"B_r_x_H_cJ_product",
 	"name":{

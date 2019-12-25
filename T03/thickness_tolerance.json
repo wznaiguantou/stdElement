@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"tolerance on the thickness of a die or wafer",
+	"description":"tolerance on the thickness of a die or wafer.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"thickness_tolerance",
 	"name":{

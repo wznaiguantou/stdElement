@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"ratio of the air pressure to a specified period of time",
+	"description":"ratio of the air pressure to a specified period of time.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"change_rate_of_atmospheric_pressure",
 	"name":{

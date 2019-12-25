@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"average value of the instantaneous failure rate over a given time interval (t1, t2) \r\n\r\nλ¯(t1, t2)=1t2−t1∫  t2  t1λ(t) dt\r\nλ¯(t1, t2)=1t2−t1∫  t1  t2λ(t) dt\nTerms 'mean' or 'average' are used as synonyms  to the arithmetic mean",
+	"description":"average value of the instantaneous failure rate over a given time interval (t1, t2) \r\n\r\nλ¯(t1, t2)=1t2−t1∫  t2  t1λ(t) dt\r\nλ¯(t1, t2)=1t2−t1∫  t1  t2λ(t) dt.\nTerms 'mean' or 'average' are used as synonyms  to the arithmetic mean.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"mean_failure_rate",
 	"name":{

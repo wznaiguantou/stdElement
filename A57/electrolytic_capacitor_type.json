@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of electrolytic capacitor",
+	"description":"code of the type of electrolytic capacitor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"electrolytic_capacitor_type",
 	"name":{

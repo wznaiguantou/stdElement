@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code identifying the instruction set of an IC microcontroller or microprocessor",
+	"description":"code identifying the instruction set of an IC microcontroller or microprocessor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"instruction_set",
 	"name":{

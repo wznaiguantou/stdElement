@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"identification number assigned to an object\nThe terms product number, item number, part number, article number and product identifying number are sometimes used as synonyms to object number. Objects with the same identification number are supposed to have the same form, fit and function and hence being interchangeable.",
+	"description":"identification number assigned to an object.\nThe terms product number, item number, part number, article number and product identifying number are sometimes used as synonyms to object number. Objects with the same identification number are supposed to have the same form, fit and function and hence being interchangeable.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"object_number",
 	"name":{

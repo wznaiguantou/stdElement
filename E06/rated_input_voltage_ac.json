@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal rms alternating voltage at the terminals of an ac motor\nFor polyphase supply, the line voltage is intended.",
+	"description":"nominal rms alternating voltage at the terminals of an ac motor.\nFor polyphase supply, the line voltage is intended.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"rated_input_voltage_ac",
 	"name":{

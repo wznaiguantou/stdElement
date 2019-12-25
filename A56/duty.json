@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code which specifies the kind of duty cycle of relay operation",
+	"description":"code which specifies the kind of duty cycle of relay operation.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"duty",
 	"name":{

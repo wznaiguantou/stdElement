@@ -40,7 +40,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the resistive material of a fixed linear or a variable resistor\nFor potentiometers, the term cermet is used instead of metal glaze. |Cermet is an acronym for ceramic and metal. With this type, the resistive element is a metal glaze compound deposited on a ceramic substrate.",
+	"description":"code of the resistive material of a fixed linear or a variable resistor.\nFor potentiometers, the term cermet is used instead of metal glaze. |Cermet is an acronym for ceramic and metal. With this type, the resistive element is a metal glaze compound deposited on a ceramic substrate.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"resistive_material",
 	"name":{

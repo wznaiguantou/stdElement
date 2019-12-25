@@ -40,7 +40,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of dielectric material of a fixed capacitor",
+	"description":"code of the type of dielectric material of a fixed capacitor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"dielectric_material_type",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal radiant output power of a laser photoemitter at specified wavelength and case temperature",
+	"description":"nominal radiant output power of a laser photoemitter at specified wavelength and case temperature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"radiant_output_power",
 	"name":{

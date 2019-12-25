@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"peak magnetic flux density applied to a magnetic material, as a variable",
+	"description":"peak magnetic flux density applied to a magnetic material, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"peak_flux_density",
 	"name":{

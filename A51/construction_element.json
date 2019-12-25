@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"name given to that part of a system, assembly, sub-assembly or component whose material make-up is to be declared in a materials declaration list",
+	"description":"name given to that part of a system, assembly, sub-assembly or component whose material make-up is to be declared in a materials declaration list.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"construction_element",
 	"name":{

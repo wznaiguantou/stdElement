@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum time between the instant the energising power is applied and the instant the relay completes the specified function",
+	"description":"maximum time between the instant the energising power is applied and the instant the relay completes the specified function.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"operate_time",
 	"name":{

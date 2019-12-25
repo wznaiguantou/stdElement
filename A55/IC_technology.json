@@ -80,7 +80,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code indicating the semiconductor technology of an IC",
+	"description":"code indicating the semiconductor technology of an IC.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"IC_technology",
 	"name":{

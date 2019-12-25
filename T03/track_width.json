@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum width of a conductive track on a printed wiring circuit",
+	"description":"minimum width of a conductive track on a printed wiring circuit.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"track_width",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"distance as specified by level (miNomax) from the seating plane to the underside of the terminals where they emerge from the package",
+	"description":"distance as specified by level (miNomax) from the seating plane to the underside of the terminals where they emerge from the package.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"terminal_emergence_height",
 	"name":{

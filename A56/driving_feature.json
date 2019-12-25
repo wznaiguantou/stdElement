@@ -48,7 +48,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the driving feature of a component\nFor electric-electronic components the values hexagon, crossed recessed and slotted are valid.",
+	"description":"code of the driving feature of a component.\nFor electric-electronic components the values hexagon, crossed recessed and slotted are valid.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"driving_feature",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (miNomax) of the resonance frequency  of an inductor",
+	"description":"value as specified by level (miNomax) of the resonance frequency  of an inductor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"resonance_frequency",
 	"name":{

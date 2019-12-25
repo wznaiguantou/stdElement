@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum value of the dc current equal to the difference in the currents in the two input terminals of an operational amplifier to attain zero output voltage at reference conditions",
+	"description":"maximum value of the dc current equal to the difference in the currents in the two input terminals of an operational amplifier to attain zero output voltage at reference conditions.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"input_offset_current",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum average output current of a bridge rectifier at specified maximum mounting base temperature",
+	"description":"maximum average output current of a bridge rectifier at specified maximum mounting base temperature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"average_output_current",
 	"name":{

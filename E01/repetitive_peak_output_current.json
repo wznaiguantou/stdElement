@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum repetitive peak output current of a bridge rectifier",
+	"description":"maximum repetitive peak output current of a bridge rectifier.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"repetitive_peak_output_current",
 	"name":{

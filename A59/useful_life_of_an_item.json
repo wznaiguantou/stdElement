@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"time interval, from first use until user requirements are no longer met, due to economics of operation and maintenance, or obsolescence\n“First use” excludes testing activities prior to hand-over of the item to the end-user.",
+	"description":"time interval, from first use until user requirements are no longer met, due to economics of operation and maintenance, or obsolescence.\n“First use” excludes testing activities prior to hand-over of the item to the end-user.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"useful_life_of_an_item",
 	"name":{

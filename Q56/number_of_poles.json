@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of electrically separate conductive paths that are controlled by a switch",
+	"description":"number of electrically separate conductive paths that are controlled by a switch.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"number_of_poles",
 	"name":{

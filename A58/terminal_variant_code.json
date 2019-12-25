@@ -104,7 +104,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the name which identifies a particular variant of the shape of the terminals on a package",
+	"description":"code of the name which identifies a particular variant of the shape of the terminals on a package.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"terminal_variant_code",
 	"name":{

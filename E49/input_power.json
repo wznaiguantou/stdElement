@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal electric power supplied to a motor",
+	"description":"nominal electric power supplied to a motor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"input_power",
 	"name":{

@@ -36,7 +36,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code specifying the thermal resistance type of an electric/electronic component\nThis data element is to be used in combination with AAE688.",
+	"description":"code specifying the thermal resistance type of an electric/electronic component.\nThis data element is to be used in combination with AAE688.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"thermal_resistance_type",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal length of that part of a contact of a connector that is intended to make contact with the mating part\nTerminating end outside the connector housing.",
+	"description":"nominal length of that part of a contact of a connector that is intended to make contact with the mating part.\nTerminating end outside the connector housing.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"contact_length_under_housing",
 	"name":{

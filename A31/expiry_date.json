@@ -4,7 +4,7 @@
 	"dataType":"date",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"date after which the status of the administered item will cease to be in force",
+	"description":"date after which the status of the administered item will cease to be in force.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"expiry_date",
 	"name":{

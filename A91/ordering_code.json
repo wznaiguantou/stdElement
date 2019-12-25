@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code as required by a component manufacturer or supplier to identify the component when placing an order\nThe order code may or may not be identical to to the type number. In some cases, it may consist of the type number supplemented by additional information such as value, rating, speed etc.",
+	"description":"code as required by a component manufacturer or supplier to identify the component when placing an order.\nThe order code may or may not be identical to to the type number. In some cases, it may consist of the type number supplemented by additional information such as value, rating, speed etc.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"ordering_code",
 	"name":{

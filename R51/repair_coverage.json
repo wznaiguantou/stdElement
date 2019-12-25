@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"proportion of detected faults that can be successfully corrected",
+	"description":"proportion of detected faults that can be successfully corrected.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"repair_coverage",
 	"name":{

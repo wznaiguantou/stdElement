@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"textual description of the shape of the bumps forming the terminals on a die device",
+	"description":"textual description of the shape of the bumps forming the terminals on a die device.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"bump_shape",
 	"name":{

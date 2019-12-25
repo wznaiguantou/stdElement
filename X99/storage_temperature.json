@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"permissible temperature range at which the device may be stored without any voltage being applied",
+	"description":"permissible temperature range at which the device may be stored without any voltage being applied.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"storage_temperature",
 	"name":{

@@ -36,7 +36,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code for the type of a dielectric material",
+	"description":"code for the type of a dielectric material.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"dielectric_material",
 	"name":{

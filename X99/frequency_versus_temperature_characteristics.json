@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"deviation from the frequency at the reference temperature, over the operating temperature range, while other conditions are kept constant",
+	"description":"deviation from the frequency at the reference temperature, over the operating temperature range, while other conditions are kept constant.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"frequency_versus_temperature_characteristics",
 	"name":{

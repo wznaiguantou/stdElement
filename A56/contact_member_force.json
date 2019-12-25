@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the kind of force applied to the contact member of a relay",
+	"description":"code of the kind of force applied to the contact member of a relay.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"contact_member_force",
 	"name":{

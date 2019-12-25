@@ -4,7 +4,7 @@
 	"dataType":"date",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"upper limit of the time interval during which the performance characteristics of an object stored under specified conditions can be assured",
+	"description":"upper limit of the time interval during which the performance characteristics of an object stored under specified conditions can be assured.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"date_of_expiry",
 	"name":{

@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the grade of soft magnetic material according to the manufacturer\nThe material grade code may be used to refer to the magnetic characteristics of a soft magnetic part.",
+	"description":"code of the grade of soft magnetic material according to the manufacturer.\nThe material grade code may be used to refer to the magnetic characteristics of a soft magnetic part.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"soft_magnetic_material_grade",
 	"name":{

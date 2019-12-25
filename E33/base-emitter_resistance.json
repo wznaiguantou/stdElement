@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"resistance connected between base and emitter terminals of a bipolar transistor, as a variable",
+	"description":"resistance connected between base and emitter terminals of a bipolar transistor, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"base-emitter_resistance",
 	"name":{

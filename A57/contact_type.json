@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of connector contact",
+	"description":"code of the type of connector contact.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"contact_type",
 	"name":{

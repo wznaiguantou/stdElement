@@ -97,7 +97,7 @@
 	"dataType":"struct",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"relation to the specified class Postal address",
+	"description":"relation to the specified class Postal address.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"reference_to_Postal_address_class",
 	"name":{

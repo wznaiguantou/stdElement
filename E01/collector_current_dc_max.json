@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum direct collector current of a bipolar transistor or optoelectronic device",
+	"description":"maximum direct collector current of a bipolar transistor or optoelectronic device.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"collector_current_dc_max",
 	"name":{

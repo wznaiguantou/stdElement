@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the application of a rectifier diode",
+	"description":"code of the application of a rectifier diode.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"rectifier_diode_application",
 	"name":{

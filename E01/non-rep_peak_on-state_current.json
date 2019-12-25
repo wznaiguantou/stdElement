@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum limiting non-repetitive peak on-state current in a thyristor or triac, at specified duration and mounting-base temperature",
+	"description":"maximum limiting non-repetitive peak on-state current in a thyristor or triac, at specified duration and mounting-base temperature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"non-rep_peak_on-state_current",
 	"name":{

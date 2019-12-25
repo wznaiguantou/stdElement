@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"range of frequencies  applied to a electric/ electronic or electromechanical component, as a variable\nSee also AAE963-005 AND AAE964-005",
+	"description":"range of frequencies  applied to a electric/ electronic or electromechanical component, as a variable.\nSee also AAE963-005 AND AAE964-005.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"bandwidth",
 	"name":{

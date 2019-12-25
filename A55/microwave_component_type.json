@@ -64,7 +64,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code for the type of microwave component",
+	"description":"code for the type of microwave component.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"microwave_component_type",
 	"name":{

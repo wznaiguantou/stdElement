@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"indication of the required package type used\nFor package types of dangerous goods see UNECE Regulations on the transport of dangerous goods, 18th Ed. 2013, Part 3 and Part 4.|\r\nFor non hazardous goods see ISO/IEC Guide 41:2003, Packaging -- Recommendations for addressing consumer needs",
+	"description":"indication of the required package type used.\nFor package types of dangerous goods see UNECE Regulations on the transport of dangerous goods, 18th Ed. 2013, Part 3 and Part 4.|\r\nFor non hazardous goods see ISO/IEC Guide 41:2003, Packaging -- Recommendations for addressing consumer needs.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"packing_group",
 	"name":{

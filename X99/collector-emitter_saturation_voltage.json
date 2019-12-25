@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"collector-emitter voltage above which the collector current is essentially independent of the gate-emitter voltage, at specified collector current",
+	"description":"collector-emitter voltage above which the collector current is essentially independent of the gate-emitter voltage, at specified collector current.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"collector-emitter_saturation_voltage",
 	"name":{

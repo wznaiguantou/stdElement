@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum ratio of the photocurrent to the incident radiant power of a photosensor at specified wavelength, reverse voltage and ambient temperature",
+	"description":"minimum ratio of the photocurrent to the incident radiant power of a photosensor at specified wavelength, reverse voltage and ambient temperature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"spectral_sensitivity",
 	"name":{

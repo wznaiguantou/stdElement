@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of connector intended for use with PC boards",
+	"description":"code of the type of connector intended for use with PC boards.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"PCB_connector_type",
 	"name":{

@@ -40,7 +40,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code giving the sensitivity of moisture ingress for a packaged integrated circuit or am minimally-packaged die device",
+	"description":"code giving the sensitivity of moisture ingress for a packaged integrated circuit or am minimally-packaged die device.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"moisture_sensitivity_level",
 	"name":{

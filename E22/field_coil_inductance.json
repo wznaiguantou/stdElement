@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal inductance of the field deflection coils of a deflection unit, connected in series\nIf connected in parallel the inductance is 4 times lower.",
+	"description":"nominal inductance of the field deflection coils of a deflection unit, connected in series.\nIf connected in parallel the inductance is 4 times lower.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"field_coil_inductance",
 	"name":{

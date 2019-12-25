@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal output current of a power transformer, at nominal input voltage and nominal frequency\nFor variable power transformers, the nominal output current is valid over the whole range.",
+	"description":"nominal output current of a power transformer, at nominal input voltage and nominal frequency.\nFor variable power transformers, the nominal output current is valid over the whole range.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"nominal_output_current",
 	"name":{

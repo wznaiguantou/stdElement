@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum continuous sinusoidal rms output current in the most favourable brush position of a variable power transformer at nominal input voltage and nominal frequency",
+	"description":"maximum continuous sinusoidal rms output current in the most favourable brush position of a variable power transformer at nominal input voltage and nominal frequency.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"maximum_output_current",
 	"name":{

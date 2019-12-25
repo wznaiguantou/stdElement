@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"conditions under which a reliability estimate for a component was made\nThe conditions quoted would normally cover such issues as the application and the environmental conditions, including temperature",
+	"description":"conditions under which a reliability estimate for a component was made.\nThe conditions quoted would normally cover such issues as the application and the environmental conditions, including temperature.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"reliability_conditions",
 	"name":{

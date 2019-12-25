@@ -88,7 +88,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"actual quantity of potential terminal positions which are occupied",
+	"description":"actual quantity of potential terminal positions which are occupied.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"actual_quantity_of_termination",
 	"name":{

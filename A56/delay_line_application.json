@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the recommended application of a delay line",
+	"description":"code of the recommended application of a delay line.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"delay_line_application",
 	"name":{

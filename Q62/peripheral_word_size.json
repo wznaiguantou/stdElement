@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of bits applicable to a peripheral on a microcontroller of a specified peripheral type",
+	"description":"number of bits applicable to a peripheral on a microcontroller of a specified peripheral type.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"peripheral_word_size",
 	"name":{

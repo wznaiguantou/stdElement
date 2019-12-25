@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"level of voltage that generates a reset signal",
+	"description":"level of voltage that generates a reset signal.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"detection_voltage",
 	"name":{

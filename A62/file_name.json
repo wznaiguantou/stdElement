@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"complete name of attached file",
+	"description":"complete name of attached file.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"file_name",
 	"name":{

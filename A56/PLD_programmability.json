@@ -32,7 +32,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code identifying the programmability of a PLD",
+	"description":"code identifying the programmability of a PLD.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"PLD_programmability",
 	"name":{

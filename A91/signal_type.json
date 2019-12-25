@@ -48,7 +48,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of signal associated with a terminal\nThe value shows whether the signal is analogue or digital, or whether connection to the terminal provides a supply or non-logic function etc.",
+	"description":"code of the type of signal associated with a terminal.\nThe value shows whether the signal is analogue or digital, or whether connection to the terminal provides a supply or non-logic function etc.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"signal_type",
 	"name":{

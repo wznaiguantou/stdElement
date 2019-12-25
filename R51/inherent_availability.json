@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"availability provided by the design under ideal conditions of operation and maintenance\nDelays associated with maintenance, such as logistic and administrative delays, are excluded.",
+	"description":"availability provided by the design under ideal conditions of operation and maintenance.\nDelays associated with maintenance, such as logistic and administrative delays, are excluded.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"inherent_availability",
 	"name":{

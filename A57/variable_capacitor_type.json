@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of variable capacitor",
+	"description":"code of the type of variable capacitor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"variable_capacitor_type",
 	"name":{

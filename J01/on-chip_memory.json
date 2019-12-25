@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of words specifying the size of an on-chip memory function of a microcontroller, of a specified storage type",
+	"description":"number of words specifying the size of an on-chip memory function of a microcontroller, of a specified storage type.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"on-chip_memory",
 	"name":{

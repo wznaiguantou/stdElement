@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of different pad shapes on a die to which different pad geometry names have been allocated",
+	"description":"number of different pad shapes on a die to which different pad geometry names have been allocated.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"pad_geometry_count",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"concentration of flammable gas, vapour or mist in air, above which an explosive gas atmosphere will not be formed",
+	"description":"concentration of flammable gas, vapour or mist in air, above which an explosive gas atmosphere will not be formed.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"upper_explosive_gas_limit",
 	"name":{

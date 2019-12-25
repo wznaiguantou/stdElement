@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the trajectory of motion of the armature of a motor",
+	"description":"code of the trajectory of motion of the armature of a motor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"trajectory_of_motion",
 	"name":{

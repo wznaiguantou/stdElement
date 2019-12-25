@@ -75,7 +75,7 @@
 	"dataType":"struct",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"mass of the substance  within a product, product part or material",
+	"description":"mass of the substance  within a product, product part or material.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"substance_mass",
 	"name":{

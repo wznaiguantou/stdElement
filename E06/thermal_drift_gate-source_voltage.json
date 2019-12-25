@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum absolute value of the thermal drift of the gate-source voltage difference of a dual field-effect transistor at specified drain-gate voltage, drain current and ambient temperature",
+	"description":"maximum absolute value of the thermal drift of the gate-source voltage difference of a dual field-effect transistor at specified drain-gate voltage, drain current and ambient temperature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"thermal_drift_gate-source_voltage",
 	"name":{

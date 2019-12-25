@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"power being consumed by or dissipated within an electric component, as a variable",
+	"description":"power being consumed by or dissipated within an electric component, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"power_consumption",
 	"name":{

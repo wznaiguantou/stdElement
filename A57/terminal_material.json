@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the terminal material of an electric-electronic or electromechanical component",
+	"description":"code of the terminal material of an electric-electronic or electromechanical component.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"terminal_material",
 	"name":{

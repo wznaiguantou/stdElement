@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum peak alternating inrush current of a degaussing PTC thermistor at specified ac voltage and ambient temperature",
+	"description":"minimum peak alternating inrush current of a degaussing PTC thermistor at specified ac voltage and ambient temperature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"PTC_peak_inrush_current",
 	"name":{

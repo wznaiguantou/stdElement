@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"product-specific information which is relevant to electrical testing by the user\nExamples of such information include special test strategies or voltage stress to achieve quality goals",
+	"description":"product-specific information which is relevant to electrical testing by the user.\nExamples of such information include special test strategies or voltage stress to achieve quality goals.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"additional_test_requirements",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"lower category (ambient) temperature of a component",
+	"description":"lower category (ambient) temperature of a component.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"lower_category_temperature",
 	"name":{

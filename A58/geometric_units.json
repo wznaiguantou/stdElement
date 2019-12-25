@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code identifying the units in which die dimensions are given\nTo comply with IEC 61360, the units should be given in metres (m) and these will be the default units",
+	"description":"code identifying the units in which die dimensions are given.\nTo comply with IEC 61360, the units should be given in metres (m) and these will be the default units.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"geometric_units",
 	"name":{

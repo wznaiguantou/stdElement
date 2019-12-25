@@ -129,7 +129,7 @@
 	"dataType":"struct",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"relation to the specified class electronic address",
+	"description":"relation to the specified class electronic address.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"reference_to_class_electronic_address",
 	"name":{

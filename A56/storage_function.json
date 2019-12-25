@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code identifying the storage function of a digital IC",
+	"description":"code identifying the storage function of a digital IC.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"storage_function",
 	"name":{

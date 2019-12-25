@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax) of the magnetic field strength applied to a hard magnetic material, necessary to bring the polarisation from saturation to zero by a monotonically changing field",
+	"description":"value as specified by level (minTypmax) of the magnetic field strength applied to a hard magnetic material, necessary to bring the polarisation from saturation to zero by a monotonically changing field.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"coercivity_H_cJ",
 	"name":{

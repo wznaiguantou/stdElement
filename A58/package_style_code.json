@@ -92,7 +92,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"IEC 60191-4 code which identifies the general physical form of the package",
+	"description":"IEC 60191-4 code which identifies the general physical form of the package.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"package_style_code",
 	"name":{

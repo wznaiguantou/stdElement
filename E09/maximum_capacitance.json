@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (miNomax) of the maximum capacitance obtainable by moving the actuating device of a variable capacitor",
+	"description":"value as specified by level (miNomax) of the maximum capacitance obtainable by moving the actuating device of a variable capacitor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"maximum_capacitance",
 	"name":{

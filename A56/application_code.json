@@ -44,7 +44,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"Pro Electron/EIcode indicating the primary application of a display tube\nIn the Pro Electron type designation code, the application code corresponds with the first (letter) symbol and shall consist of a single letter.",
+	"description":"Pro Electron/EIcode indicating the primary application of a display tube.\nIn the Pro Electron type designation code, the application code corresponds with the first (letter) symbol and shall consist of a single letter.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"application_code",
 	"name":{

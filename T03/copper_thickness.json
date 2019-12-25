@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal thickness of the copper cladding on a printed-wiring laminate",
+	"description":"nominal thickness of the copper cladding on a printed-wiring laminate.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"copper_thickness",
 	"name":{

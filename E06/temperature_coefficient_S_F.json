@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum temperature coefficient of a stabistor at specified forward current and forward voltage",
+	"description":"maximum temperature coefficient of a stabistor at specified forward current and forward voltage.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"temperature_coefficient_S_F",
 	"name":{

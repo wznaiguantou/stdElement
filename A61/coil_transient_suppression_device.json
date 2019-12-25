@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of a device connected to the coil of a relay in order to limit the voltage transients to a prescribed value",
+	"description":"code of a device connected to the coil of a relay in order to limit the voltage transients to a prescribed value.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"coil_transient_suppression_device",
 	"name":{

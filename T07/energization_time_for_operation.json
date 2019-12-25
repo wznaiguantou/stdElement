@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum duration of the input voltage of a relay required to ensure that the relay operates",
+	"description":"minimum duration of the input voltage of a relay required to ensure that the relay operates.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"energization_time_for_operation",
 	"name":{

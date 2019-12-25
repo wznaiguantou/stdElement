@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum value of the dc voltage, required to be applied between the input terminals of an operational amplifier, to cause zero output voltage at reference conditions",
+	"description":"maximum value of the dc voltage, required to be applied between the input terminals of an operational amplifier, to cause zero output voltage at reference conditions.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"input_offset_voltage",
 	"name":{

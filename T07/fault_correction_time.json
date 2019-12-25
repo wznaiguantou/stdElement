@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"part of active corrective maintenance time taken to perform fault correction",
+	"description":"part of active corrective maintenance time taken to perform fault correction.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"fault_correction_time",
 	"name":{

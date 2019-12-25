@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the supply current type for which a motor has been designed",
+	"description":"code of the supply current type for which a motor has been designed.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"supply_current_type",
 	"name":{

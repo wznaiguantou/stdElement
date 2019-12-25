@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of socket intended for use in power applications",
+	"description":"code of the type of socket intended for use in power applications.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"power_socket_type",
 	"name":{

@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of the type of connector accessory",
+	"description":"description of the type of connector accessory.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"accessory_type",
 	"name":{

@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"IEC code of the resistance law of a potentiometer\nThe relationship of the measured resistance value between terminations a and b or of the output ratio U_ab/U_ac to the mechanical position of the moving contact.",
+	"description":"IEC code of the resistance law of a potentiometer.\nThe relationship of the measured resistance value between terminations a and b or of the output ratio U_ab/U_ac to the mechanical position of the moving contact.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"resistance_law_IEC",
 	"name":{

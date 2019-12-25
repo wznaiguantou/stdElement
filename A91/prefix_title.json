@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"single word or group of words, which specify a person's social or professional standing and appear before his or her name",
+	"description":"single word or group of words, which specify a person's social or professional standing and appear before his or her name.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"prefix_title",
 	"name":{

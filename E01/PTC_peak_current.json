@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum peak alternating current of a degaussing PTC thermistor, at specified ac voltage, ambient temperature, and duration after switch-on of the ac voltage",
+	"description":"maximum peak alternating current of a degaussing PTC thermistor, at specified ac voltage, ambient temperature, and duration after switch-on of the ac voltage.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"PTC_peak_current",
 	"name":{

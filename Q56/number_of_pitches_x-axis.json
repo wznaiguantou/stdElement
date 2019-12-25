@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of pitches between the terminals of an electric/electronic or electromechanical component parallel to the x-coordinate",
+	"description":"number of pitches between the terminals of an electric/electronic or electromechanical component parallel to the x-coordinate.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"number_of_pitches_x-axis",
 	"name":{

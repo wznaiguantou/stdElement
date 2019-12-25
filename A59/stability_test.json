@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of stability test to which a component is submitted",
+	"description":"code of the type of stability test to which a component is submitted.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"stability_test",
 	"name":{

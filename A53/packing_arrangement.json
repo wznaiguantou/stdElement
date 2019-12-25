@@ -32,7 +32,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the arrangement of products in the first level packing",
+	"description":"code of the arrangement of products in the first level packing.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"packing_arrangement",
 	"name":{

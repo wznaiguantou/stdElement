@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"result of check for the product's compliance with the rules of  usage of  substances of very high concern",
+	"description":"result of check for the product's compliance with the rules of  usage of  substances of very high concern.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"result_of_check_for_substances_of_very_high_concern",
 	"name":{

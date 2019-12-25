@@ -44,7 +44,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the actuator of a mechanical switch",
+	"description":"code of the actuator of a mechanical switch.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"switch_actuation",
 	"name":{

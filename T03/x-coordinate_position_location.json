@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (miNomax) of the length of the x-coordinate of the location of a point on the symmetry-axis of a constructive solid geometry primitive",
+	"description":"value as specified by level (miNomax) of the length of the x-coordinate of the location of a point on the symmetry-axis of a constructive solid geometry primitive.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"x-coordinate_position_location",
 	"name":{

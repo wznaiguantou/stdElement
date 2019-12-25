@@ -4,7 +4,7 @@
 	"dataType":"date",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"date when the status of the administered item will come into force",
+	"description":"date when the status of the administered item will come into force.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"effective_date",
 	"name":{

@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of the procedures used in the test and evaluation of a die",
+	"description":"description of the procedures used in the test and evaluation of a die.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"test_procedure_description",
 	"name":{

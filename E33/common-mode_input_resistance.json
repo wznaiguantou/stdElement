@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum resistance between the inputs in parallel and the electrical reference point of a differential amplifier at reference conditions",
+	"description":"minimum resistance between the inputs in parallel and the electrical reference point of a differential amplifier at reference conditions.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"common-mode_input_resistance",
 	"name":{

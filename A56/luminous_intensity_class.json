@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of a luminous-intensity class of a LED",
+	"description":"code of a luminous-intensity class of a LED.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"luminous_intensity_class",
 	"name":{

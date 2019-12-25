@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the shape of a conductive part of a conductor",
+	"description":"code of the shape of a conductive part of a conductor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"conductor_shape",
 	"name":{

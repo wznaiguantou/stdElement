@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"three-dimensional space associated with a geometrical object due to installation, protection, operation, service and maintenance reasons\n- It encloses completely the net space of the geometrical object.||\r\n - The gross space is defined as space normally not possible to be occupied by other geometrical objects.",
+	"description":"three-dimensional space associated with a geometrical object due to installation, protection, operation, service and maintenance reasons.\n- It encloses completely the net space of the geometrical object.||\r\n - The gross space is defined as space normally not possible to be occupied by other geometrical objects.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"gross_space",
 	"name":{

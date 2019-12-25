@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"recommended nominal length of the baffle hole of a moving conductor loudspeaker",
+	"description":"recommended nominal length of the baffle hole of a moving conductor loudspeaker.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"baffle_hole_length",
 	"name":{

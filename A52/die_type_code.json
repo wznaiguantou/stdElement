@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"mnemonic code for the physical form in which the die or wafer is supplied\nIf the die or wafer is in its original form, then the code is BARE or DUAL. Die with codes BUMP or LEAD have been post-processed to add the solder bumps or metal lead frame respectively.",
+	"description":"mnemonic code for the physical form in which the die or wafer is supplied.\nIf the die or wafer is in its original form, then the code is BARE or DUAL. Die with codes BUMP or LEAD have been post-processed to add the solder bumps or metal lead frame respectively.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"die_type_code",
 	"name":{

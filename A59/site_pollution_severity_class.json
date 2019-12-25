@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"classification of polluted ambience of a location due to the contamination severity in accordance with IEC 60815-1\nbased on the given value the use of a minimum nominal specific creepage distance  for bushings is recommended",
+	"description":"classification of polluted ambience of a location due to the contamination severity in accordance with IEC 60815-1.\nbased on the given value the use of a minimum nominal specific creepage distance  for bushings is recommended.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"site_pollution_severity_class",
 	"name":{

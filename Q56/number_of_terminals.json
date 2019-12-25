@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of electrical terminals of an electric/ electronic or electromechanical component",
+	"description":"number of electrical terminals of an electric/ electronic or electromechanical component.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"number_of_terminals",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (miNomax) of the minimum value of the range of values of inductance of a variable inductor at specified frequency",
+	"description":"value as specified by level (miNomax) of the minimum value of the range of values of inductance of a variable inductor at specified frequency.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"minimum_inductance",
 	"name":{

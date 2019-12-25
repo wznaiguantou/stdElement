@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"ratio of the output voltage to the input voltage under the specified conditions",
+	"description":"ratio of the output voltage to the input voltage under the specified conditions.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"voltage_gain",
 	"name":{

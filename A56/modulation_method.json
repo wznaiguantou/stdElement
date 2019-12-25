@@ -104,7 +104,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"IEC standard abbreviation of the type of modulation for the application of an electric-electronic component",
+	"description":"IEC standard abbreviation of the type of modulation for the application of an electric-electronic component.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"modulation_method",
 	"name":{

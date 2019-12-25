@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the means by which polarisation of a connector is achieved\nPolarisation is a shape feature on connectors to prevent incorrect mating.",
+	"description":"code of the means by which polarisation of a connector is achieved.\nPolarisation is a shape feature on connectors to prevent incorrect mating.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"polarisation",
 	"name":{

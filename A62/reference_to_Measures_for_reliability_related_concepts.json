@@ -215,7 +215,7 @@
 	"dataType":"struct",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"relation to the specified class Measures for reliability related concepts",
+	"description":"relation to the specified class Measures for reliability related concepts.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"reference_to_Measures_for_reliability_related_concepts",
 	"name":{

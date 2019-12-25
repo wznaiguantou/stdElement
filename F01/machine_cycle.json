@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of internal clock periods in which a microcontroller or microprocessor carries out a memory read or write operation",
+	"description":"number of internal clock periods in which a microcontroller or microprocessor carries out a memory read or write operation.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"machine_cycle",
 	"name":{

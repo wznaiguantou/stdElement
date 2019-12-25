@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of mechanical  transactions of an item ranging from one defined status in a different one, induced by an external control information.\nExample of item type:  valve, relay,  switch, …",
+	"description":"number of mechanical  transactions of an item ranging from one defined status in a different one, induced by an external control information.\nExample of item type:  valve, relay,  switch, ….",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"number_of_operation_transactions",
 	"name":{

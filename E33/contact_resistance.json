@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum resistance of a mated set of contacts of a connector, relay or switch\nMeasuring procedure according IEC 60255-7(23) (1991)",
+	"description":"maximum resistance of a mated set of contacts of a connector, relay or switch.\nMeasuring procedure according IEC 60255-7(23) (1991).",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"contact_resistance",
 	"name":{

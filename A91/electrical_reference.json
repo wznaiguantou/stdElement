@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"reference to a definition of a power supply or logic signal connection\nThe value to be assigned must be a name which has been given to a signal definition in a power, digital or analogue connection table",
+	"description":"reference to a definition of a power supply or logic signal connection.\nThe value to be assigned must be a name which has been given to a signal definition in a power, digital or analogue connection table.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"electrical_reference",
 	"name":{

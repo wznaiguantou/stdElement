@@ -32,7 +32,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"coded classification of the strength of a tornado based on the caused damage\nMostly used in North- and Central-America",
+	"description":"coded classification of the strength of a tornado based on the caused damage.\nMostly used in North- and Central-America.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"enhanced_Fujita_scale",
 	"name":{

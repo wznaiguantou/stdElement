@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"statement of the manufacturer whether the item is repairable or not; if repairable, recommendation provided by whom",
+	"description":"statement of the manufacturer whether the item is repairable or not; if repairable, recommendation provided by whom.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"reparability_information_of_an_item",
 	"name":{

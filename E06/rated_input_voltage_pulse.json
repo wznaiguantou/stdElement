@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal pulse voltage at the terminals of a stepping motor",
+	"description":"nominal pulse voltage at the terminals of a stepping motor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"rated_input_voltage_pulse",
 	"name":{

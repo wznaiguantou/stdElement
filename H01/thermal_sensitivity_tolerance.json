@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal tolerance on the thermal sensitivity index identifying a NTC thermistor\nUsed only in cases of equal positive and negative tolerance values.",
+	"description":"nominal tolerance on the thermal sensitivity index identifying a NTC thermistor.\nUsed only in cases of equal positive and negative tolerance values.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"thermal_sensitivity_tolerance",
 	"name":{

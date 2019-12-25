@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value of the overtone multiple of the fundamental harmonic resonance in a whole number",
+	"description":"value of the overtone multiple of the fundamental harmonic resonance in a whole number.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"overtone_order",
 	"name":{

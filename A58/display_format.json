@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"Name of the display format for which the deflection unit of a monitor display tube is designed",
+	"description":"Name of the display format for which the deflection unit of a monitor display tube is designed.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"display_format",
 	"name":{

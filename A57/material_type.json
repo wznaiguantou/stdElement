@@ -32,7 +32,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of material",
+	"description":"code of the type of material.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"material_type",
 	"name":{

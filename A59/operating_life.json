@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of operating cycles for which a switch is designed to undergo during its life",
+	"description":"number of operating cycles for which a switch is designed to undergo during its life.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"operating_life",
 	"name":{

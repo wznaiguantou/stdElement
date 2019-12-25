@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"manufacturer's type number code of a transistor with reverse polarity, complementary to the transistor under consideration\nNPN (N-channel) equivalent of a PNP (P-channel) transistor and vice versa.",
+	"description":"manufacturer's type number code of a transistor with reverse polarity, complementary to the transistor under consideration.\nNPN (N-channel) equivalent of a PNP (P-channel) transistor and vice versa.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"complementary_type",
 	"name":{

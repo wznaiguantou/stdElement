@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal length of the step-and-repeat dimensions of die on a wafer in the x direction",
+	"description":"nominal length of the step-and-repeat dimensions of die on a wafer in the x direction.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"die_step_size_y",
 	"name":{

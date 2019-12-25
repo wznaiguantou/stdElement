@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"material used to form the leads on a die with attached lead frame",
+	"description":"material used to form the leads on a die with attached lead frame.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"lead-frame_material",
 	"name":{

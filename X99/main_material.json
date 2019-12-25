@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"die material of which the semiconductor device is constructed\nTypical materials are Si, Ge, SiC, GaAs.",
+	"description":"die material of which the semiconductor device is constructed.\nTypical materials are Si, Ge, SiC, GaAs.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"main_material",
 	"name":{

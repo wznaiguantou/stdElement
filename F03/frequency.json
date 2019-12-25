@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal frequency  of a delay line",
+	"description":"nominal frequency  of a delay line.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"frequency",
 	"name":{

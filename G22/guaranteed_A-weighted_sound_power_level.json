@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum sound power level determined in accordance with the requirements including the uncertainties due to production, variation and measurement procedures and where the manufacturer, or his authorized representative, confirms that according to the technical instruments applied and referred to in the technical documentation is not exceeded.\nThe value shall be reported to the nearest whole number",
+	"description":"maximum sound power level determined in accordance with the requirements including the uncertainties due to production, variation and measurement procedures and where the manufacturer, or his authorized representative, confirms that according to the technical instruments applied and referred to in the technical documentation is not exceeded.\nThe value shall be reported to the nearest whole number.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"guaranteed_A-weighted_sound_power_level",
 	"name":{

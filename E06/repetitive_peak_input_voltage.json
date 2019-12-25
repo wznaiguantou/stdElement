@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum repetitive peak input voltage of a bridge rectifier or voltage multiplier",
+	"description":"maximum repetitive peak input voltage of a bridge rectifier or voltage multiplier.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"repetitive_peak_input_voltage",
 	"name":{

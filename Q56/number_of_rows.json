@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of contact rows of a connector\nThe rows used to arrange the total number of contacts in a rectangle or trapezium form.",
+	"description":"number of contact rows of a connector.\nThe rows used to arrange the total number of contacts in a rectangle or trapezium form.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"number_of_rows",
 	"name":{

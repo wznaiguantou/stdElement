@@ -32,7 +32,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the basic aspect of the shape of an electric/electronic or electromechanical component",
+	"description":"code of the basic aspect of the shape of an electric/electronic or electromechanical component.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"basic_aspect",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"part of active maintenance time taken to complete function checkout",
+	"description":"part of active maintenance time taken to complete function checkout.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"function_checkout_time",
 	"name":{

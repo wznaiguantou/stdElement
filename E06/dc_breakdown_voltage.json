@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal value of the voltage at which a discharge occurs between the electrodes of a spark gap as the voltage is gradually increased\nThe dc breakdown voltage is measured with a rate of voltage increase between 100V/s and 500V/s",
+	"description":"nominal value of the voltage at which a discharge occurs between the electrodes of a spark gap as the voltage is gradually increased.\nThe dc breakdown voltage is measured with a rate of voltage increase between 100V/s and 500V/s.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"dc_breakdown_voltage",
 	"name":{

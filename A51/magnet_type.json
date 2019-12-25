@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the magnet type of the iron armature of a motor",
+	"description":"code of the magnet type of the iron armature of a motor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"magnet_type",
 	"name":{

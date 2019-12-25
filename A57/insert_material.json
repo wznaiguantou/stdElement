@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of the type of material of which a connector insert is made",
+	"description":"description of the type of material of which a connector insert is made.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"insert_material",
 	"name":{

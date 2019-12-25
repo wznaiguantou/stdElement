@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"designation of a city used in conjunction with a postal address",
+	"description":"designation of a city used in conjunction with a postal address.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"postal_name",
 	"name":{

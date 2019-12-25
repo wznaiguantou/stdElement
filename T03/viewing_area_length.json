@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (miNomax) of the length of the viewing area of a liquid crystal display module\nThe length is measured in the horizontal direction.",
+	"description":"value as specified by level (miNomax) of the length of the viewing area of a liquid crystal display module.\nThe length is measured in the horizontal direction.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"viewing_area_length",
 	"name":{

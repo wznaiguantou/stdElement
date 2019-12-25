@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"voltage that can be applied to the cathode terminal",
+	"description":"voltage that can be applied to the cathode terminal.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"recommended_cathode_voltage",
 	"name":{

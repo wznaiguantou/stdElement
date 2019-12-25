@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"uniform resource locator constituting the reference to a resource providing information about a substance‘s identification, its characteristics, usage, associated risks and safety advices according to environmental health and safety regulation",
+	"description":"uniform resource locator constituting the reference to a resource providing information about a substance‘s identification, its characteristics, usage, associated risks and safety advices according to environmental health and safety regulation.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"URL_for_environmental_health_and_safety_information",
 	"name":{

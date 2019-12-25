@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal force of a linear motor",
+	"description":"nominal force of a linear motor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"rated_force",
 	"name":{

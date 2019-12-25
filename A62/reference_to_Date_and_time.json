@@ -61,7 +61,7 @@
 	"dataType":"struct",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"relation to the specified class Date and time",
+	"description":"relation to the specified class Date and time.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"reference_to_Date_and_time",
 	"name":{

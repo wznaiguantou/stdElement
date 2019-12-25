@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax) of the capacitance measured between collector and base terminals of a bipolar transistor in common-emitter configuration, at specified collector current, collector-emitter voltage, and frequency",
+	"description":"value as specified by level (minTypmax) of the capacitance measured between collector and base terminals of a bipolar transistor in common-emitter configuration, at specified collector current, collector-emitter voltage, and frequency.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"feedback_capacitance",
 	"name":{

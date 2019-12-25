@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal angle between adjacent step positions of a stepping motor or a mechanical rotary switch",
+	"description":"nominal angle between adjacent step positions of a stepping motor or a mechanical rotary switch.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"step_angle",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"width of a printed wiring circuit as given by level (miNomax)",
+	"description":"width of a printed wiring circuit as given by level (miNomax).",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"circuit_width",
 	"name":{

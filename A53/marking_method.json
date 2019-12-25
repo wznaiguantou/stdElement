@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the marking method on the packing of products",
+	"description":"code of the marking method on the packing of products.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"marking_method",
 	"name":{

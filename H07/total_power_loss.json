@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum total power loss of a soft magnetic part at specified frequency, ambient temperature and peak flux density\nThe total loss may include: eddy current loss, hysteresis loss, rotational hysteresis loss, residual loss, gyromagnetic resonance loss.",
+	"description":"maximum total power loss of a soft magnetic part at specified frequency, ambient temperature and peak flux density.\nThe total loss may include: eddy current loss, hysteresis loss, rotational hysteresis loss, residual loss, gyromagnetic resonance loss.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"total_power_loss",
 	"name":{

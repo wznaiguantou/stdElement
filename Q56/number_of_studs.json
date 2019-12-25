@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of studs on an electric/electronic or electromechanical component designed for fastening",
+	"description":"number of studs on an electric/electronic or electromechanical component designed for fastening.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"number_of_studs",
 	"name":{

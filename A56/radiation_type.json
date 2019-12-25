@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of optical radiation to which a photosensor responds",
+	"description":"code of the type of optical radiation to which a photosensor responds.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"radiation_type",
 	"name":{

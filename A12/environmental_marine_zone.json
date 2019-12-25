@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"classification of maritime zones depending on their horizontal layer from atmosphere to subsoil\nCorrosion is not uniform over the structure’s surface. Pitting corrosion rates are generally higher than the uniform rates.",
+	"description":"classification of maritime zones depending on their horizontal layer from atmosphere to subsoil.\nCorrosion is not uniform over the structure’s surface. Pitting corrosion rates are generally higher than the uniform rates.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"environmental_marine_zone",
 	"name":{

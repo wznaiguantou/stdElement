@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum projected height of the useful screen measured along the vertical axis of a display tube",
+	"description":"minimum projected height of the useful screen measured along the vertical axis of a display tube.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"useful_screen_vertical",
 	"name":{

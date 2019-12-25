@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the signal handling type of a transistor",
+	"description":"code of the signal handling type of a transistor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"signal_handling_type",
 	"name":{

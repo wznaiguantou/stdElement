@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"expectation of the down time\nTerm 'mean'  is used as synonym  to the term arithmetic mean",
+	"description":"expectation of the down time.\nTerm 'mean'  is used as synonym  to the term arithmetic mean.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"mean_down_time",
 	"name":{

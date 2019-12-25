@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax) of the frequency  at which the small-signal current gain has decreased to unity when the output is short-circuited at specified collector current and collector-emitter voltage",
+	"description":"value as specified by level (minTypmax) of the frequency  at which the small-signal current gain has decreased to unity when the output is short-circuited at specified collector current and collector-emitter voltage.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"transition_frequency",
 	"name":{

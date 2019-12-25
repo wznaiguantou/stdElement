@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minmax) of the direct voltage at the breakover point of a diac, which is where the differential resistance is zero and the principal voltage has reached a maximum value, at specified rate of rise of off-state voltage",
+	"description":"value as specified by level (minmax) of the direct voltage at the breakover point of a diac, which is where the differential resistance is zero and the principal voltage has reached a maximum value, at specified rate of rise of off-state voltage.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"breakover_voltage",
 	"name":{

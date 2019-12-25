@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the adjustability class of a variable capacitor or potentiometer",
+	"description":"code of the adjustability class of a variable capacitor or potentiometer.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"adjustability_class",
 	"name":{

@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"structure of a resistor intended for high-power applications",
+	"description":"structure of a resistor intended for high-power applications.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"structure",
 	"name":{

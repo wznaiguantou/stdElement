@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"direct voltage between the collector and emitter terminals of a bipolar transistor, as a variable",
+	"description":"direct voltage between the collector and emitter terminals of a bipolar transistor, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"collector-emitter_voltage",
 	"name":{

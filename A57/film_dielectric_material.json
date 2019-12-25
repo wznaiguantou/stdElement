@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"ISO standard code of plastics, used to identify the dielectric material of a fixed film capacitor",
+	"description":"ISO standard code of plastics, used to identify the dielectric material of a fixed film capacitor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"film_dielectric_material",
 	"name":{

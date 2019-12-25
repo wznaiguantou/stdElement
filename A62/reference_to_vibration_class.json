@@ -33,7 +33,7 @@
 	"dataType":"struct",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"relation to the specified class vibration",
+	"description":"relation to the specified class vibration.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"reference_to_vibration_class",
 	"name":{

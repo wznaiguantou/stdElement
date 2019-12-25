@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"electronic signature associated to a specified person",
+	"description":"electronic signature associated to a specified person.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"digital_signature",
 	"name":{

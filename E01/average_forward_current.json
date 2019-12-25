@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum average forward current of a rectifier diode or signal diode at specified temperature of a temperature type",
+	"description":"maximum average forward current of a rectifier diode or signal diode at specified temperature of a temperature type.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"average_forward_current",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"time period for which the manufacturer provides a warranty for a later buy, starting with the purchase day of the specified item",
+	"description":"time period for which the manufacturer provides a warranty for a later buy, starting with the purchase day of the specified item.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"warranty_of_later_buy",
 	"name":{

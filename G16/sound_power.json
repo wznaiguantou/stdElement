@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"rate per unit time at which airborne sound energy is radiated by a source",
+	"description":"rate per unit time at which airborne sound energy is radiated by a source.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"sound_power",
 	"name":{

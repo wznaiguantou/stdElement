@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax) of the modulus of the transfer admittance of a field effect transistor at specified frequency, drain current, gate-source voltage and drain-source voltage",
+	"description":"value as specified by level (minTypmax) of the modulus of the transfer admittance of a field effect transistor at specified frequency, drain current, gate-source voltage and drain-source voltage.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"transfer_admittance",
 	"name":{

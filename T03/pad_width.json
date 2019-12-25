@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"width of a rectangular or elliptical pad measured in a direction parallel to the y-axis",
+	"description":"width of a rectangular or elliptical pad measured in a direction parallel to the y-axis.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"pad_width",
 	"name":{

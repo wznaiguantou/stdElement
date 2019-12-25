@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"dc input voltage of an IC, as a variable",
+	"description":"dc input voltage of an IC, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"input_voltage",
 	"name":{

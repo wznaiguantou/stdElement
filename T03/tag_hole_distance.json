@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"distance as specified by level (miNomax) between the seating plane and the centre of a hole in the tag of a terminal",
+	"description":"distance as specified by level (miNomax) between the seating plane and the centre of a hole in the tag of a terminal.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"tag_hole_distance",
 	"name":{

@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the frequency application of a filter",
+	"description":"code of the frequency application of a filter.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"frequency_application",
 	"name":{

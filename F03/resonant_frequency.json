@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal frequency  at which a resonator produces its maximum response",
+	"description":"nominal frequency  at which a resonator produces its maximum response.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"resonant_frequency",
 	"name":{

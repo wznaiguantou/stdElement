@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum rms ac current that will trip a PTC thermistor from the low resistance region to the high resistance region, at specified ambient temperature",
+	"description":"minimum rms ac current that will trip a PTC thermistor from the low resistance region to the high resistance region, at specified ambient temperature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"trip_current",
 	"name":{

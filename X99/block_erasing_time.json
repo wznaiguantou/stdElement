@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"time needed to automatically erase a specific block of data from the device under the specified conditions",
+	"description":"time needed to automatically erase a specific block of data from the device under the specified conditions.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"block_erasing_time",
 	"name":{

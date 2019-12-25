@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"direct base current of a bipolar transistor, as a variable",
+	"description":"direct base current of a bipolar transistor, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"base_current_dc",
 	"name":{

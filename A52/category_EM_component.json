@@ -40,7 +40,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the category to which an electromechanical component belongs",
+	"description":"code of the category to which an electromechanical component belongs.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"category_EM_component",
 	"name":{

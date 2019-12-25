@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal speed of rotation of a synchronous rotational ac motor\nThis is a result of the system to which the machine is connected and either the number of poles or the number of projections in the machine, at a given (fixed) frequency.",
+	"description":"nominal speed of rotation of a synchronous rotational ac motor.\nThis is a result of the system to which the machine is connected and either the number of poles or the number of projections in the machine, at a given (fixed) frequency.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"synchronous_speed",
 	"name":{

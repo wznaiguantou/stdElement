@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"abbreviated name of the authority for quality certification of products",
+	"description":"abbreviated name of the authority for quality certification of products.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"quality_approval_authority",
 	"name":{

@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code identifying the type and quality of the package surrounding a component",
+	"description":"code identifying the type and quality of the package surrounding a component.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"packaging_quality",
 	"name":{

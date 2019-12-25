@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (miNomax) of the direct voltage, on grid 2 of a monochrome display tube\nAll voltages relative to grid 1 (cathode drive) to the cathode (grid drive).",
+	"description":"value as specified by level (miNomax) of the direct voltage, on grid 2 of a monochrome display tube.\nAll voltages relative to grid 1 (cathode drive) to the cathode (grid drive).",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"grid_2_voltage",
 	"name":{

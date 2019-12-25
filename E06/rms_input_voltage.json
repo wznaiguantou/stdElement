@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum rms input voltage of a bridge rectifier",
+	"description":"maximum rms input voltage of a bridge rectifier.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"rms_input_voltage",
 	"name":{

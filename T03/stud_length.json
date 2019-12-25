@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"length as specified by level (miNomax) of a threaded stud used for mounting the package",
+	"description":"length as specified by level (miNomax) of a threaded stud used for mounting the package.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"stud_length",
 	"name":{

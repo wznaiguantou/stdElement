@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code to indicate the level of conformity with a relevant part of ES 59008 as defined in ES 59008-1",
+	"description":"code to indicate the level of conformity with a relevant part of ES 59008 as defined in ES 59008-1.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"conformity_level",
 	"name":{

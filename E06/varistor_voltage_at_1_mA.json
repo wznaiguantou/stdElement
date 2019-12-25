@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minmax) of the dc voltage across a varistor when a current of 1 mdc is passed through it",
+	"description":"value as specified by level (minmax) of the dc voltage across a varistor when a current of 1 mdc is passed through it.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"varistor_voltage_at_1_mA",
 	"name":{

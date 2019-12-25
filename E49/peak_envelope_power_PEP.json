@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax) of the peak envelope power of a bipolar transistor in SSB mode of operation, measured according to the two-signal method, at specified collector-emitter voltage, collector current, frequency and temperature of a temperature type",
+	"description":"value as specified by level (minTypmax) of the peak envelope power of a bipolar transistor in SSB mode of operation, measured according to the two-signal method, at specified collector-emitter voltage, collector current, frequency and temperature of a temperature type.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"peak_envelope_power_PEP",
 	"name":{

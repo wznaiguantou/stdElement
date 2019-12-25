@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of TTL gates that can be connected to the oscillator output",
+	"description":"number of TTL gates that can be connected to the oscillator output.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"TTL_load_condition",
 	"name":{

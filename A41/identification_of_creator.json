@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"identy of the person or organisation who was first responsible for creating the record for the dimension set in the current form",
+	"description":"identy of the person or organisation who was first responsible for creating the record for the dimension set in the current form.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"identification_of_creator",
 	"name":{

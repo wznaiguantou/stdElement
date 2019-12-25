@@ -129,7 +129,7 @@
 	"dataType":"struct",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"address of the link to get information related to the replacement of the phased-out product\nNOTE The referenced interchangeability information should provide information indicating the type of interchangeability, taking into account existing standardized interchangeability definitions.| |EXAMPLE Functional interchangeability, dimensional interchangeability (see ISO/IEC Guide 2:2004, 2.3).",
+	"description":"address of the link to get information related to the replacement of the phased-out product.\nNOTE The referenced interchangeability information should provide information indicating the type of interchangeability, taking into account existing standardized interchangeability definitions.| |EXAMPLE Functional interchangeability, dimensional interchangeability (see ISO/IEC Guide 2:2004, 2.3).",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"interchangeability_information_link_address",
 	"name":{

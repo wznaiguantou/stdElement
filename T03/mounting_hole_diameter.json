@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"diameter as specified by level (miNomax) of the hole in the package used for mounting",
+	"description":"diameter as specified by level (miNomax) of the hole in the package used for mounting.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"mounting_hole_diameter",
 	"name":{

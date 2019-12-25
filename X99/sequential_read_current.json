@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum supply current in sequential read mode",
+	"description":"maximum supply current in sequential read mode.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"sequential_read_current",
 	"name":{

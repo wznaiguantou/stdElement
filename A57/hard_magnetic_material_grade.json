@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the grade of hard magnetic material according to the manufacturer\nThe material grade code may be used to refer to the magnetic characteristics of a hard magnetic part.",
+	"description":"code of the grade of hard magnetic material according to the manufacturer.\nThe material grade code may be used to refer to the magnetic characteristics of a hard magnetic part.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"hard_magnetic_material_grade",
 	"name":{

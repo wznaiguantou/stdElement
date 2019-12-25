@@ -49,7 +49,7 @@
 	"dataType":"struct",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"relation to the specified class organization-based effectivity\nallows to assign a validity of a warrenty variant  to an organization",
+	"description":"relation to the specified class organization-based effectivity.\nallows to assign a validity of a warrenty variant  to an organization.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"reference_to_organization-based_effectivity_class",
 	"name":{

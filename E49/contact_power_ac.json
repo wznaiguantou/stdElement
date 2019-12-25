@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum switching apparent power as a product of the actual ac contact voltage and the actual ac contact current applied in combination to a switch or relay at resistive load\nThe apparent power is less then the product of contact current and contact voltage.",
+	"description":"maximum switching apparent power as a product of the actual ac contact voltage and the actual ac contact current applied in combination to a switch or relay at resistive load.\nThe apparent power is less then the product of contact current and contact voltage.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"contact_power_ac",
 	"name":{

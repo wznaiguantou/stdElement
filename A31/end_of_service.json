@@ -4,7 +4,7 @@
 	"dataType":"date",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"date by which all product-related deliveries and standard services provided by the producer end",
+	"description":"date by which all product-related deliveries and standard services provided by the producer end.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"end_of_service",
 	"name":{

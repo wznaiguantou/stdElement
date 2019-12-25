@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"ability of a component to withstand specified severities of shock",
+	"description":"ability of a component to withstand specified severities of shock.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"shock_resistance",
 	"name":{

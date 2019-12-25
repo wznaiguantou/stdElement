@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the mode of configuration of a breakover diode, rectifier diode, signal diode or variable capacitance diode\nn is marked for the values 2 up to and including 9.",
+	"description":"code of the mode of configuration of a breakover diode, rectifier diode, signal diode or variable capacitance diode.\nn is marked for the values 2 up to and including 9.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"diode_configuration",
 	"name":{

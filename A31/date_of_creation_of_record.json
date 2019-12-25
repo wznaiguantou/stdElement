@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"date on which the record containing the dimension set was first created in the current format\nThe date format shall be yyyy/mm/dd",
+	"description":"date on which the record containing the dimension set was first created in the current format.\nThe date format shall be yyyy/mm/dd.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"date_of_creation_of_record",
 	"name":{

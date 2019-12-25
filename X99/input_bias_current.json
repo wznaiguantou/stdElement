@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"current equal to the arithmetic average of the currents into the differential input terminals of the device to attain zero output voltage at reference conditions",
+	"description":"current equal to the arithmetic average of the currents into the differential input terminals of the device to attain zero output voltage at reference conditions.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"input_bias_current",
 	"name":{

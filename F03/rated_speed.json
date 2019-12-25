@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal speed of a rotational ac asynchronous or dc motor at the rated input voltage and rated torque",
+	"description":"nominal speed of a rotational ac asynchronous or dc motor at the rated input voltage and rated torque.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"rated_speed",
 	"name":{

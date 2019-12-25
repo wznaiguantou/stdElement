@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the function type to which a photoemitter belongs",
+	"description":"code of the function type to which a photoemitter belongs.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"photoemitter_function",
 	"name":{

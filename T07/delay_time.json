@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (miNomax) of the delay time of a filter or delay line at specified frequency",
+	"description":"value as specified by level (miNomax) of the delay time of a filter or delay line at specified frequency.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"delay_time",
 	"name":{

@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of spark gap",
+	"description":"code of the type of spark gap.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"spark_gap_type",
 	"name":{

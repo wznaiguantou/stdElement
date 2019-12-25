@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"designation of a geographical political unit, dependency, or other area of particular geopolitical interest\nFor consistent writing it is recommended to apply the English short name of the country as defined in ISO 3166-1.",
+	"description":"designation of a geographical political unit, dependency, or other area of particular geopolitical interest.\nFor consistent writing it is recommended to apply the English short name of the country as defined in ISO 3166-1.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"country_name",
 	"name":{

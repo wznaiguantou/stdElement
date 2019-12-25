@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of any special bonding methods to be used, together with information on suitable bonding materials where these methods and/or materials are required for correct operation of the die device",
+	"description":"description of any special bonding methods to be used, together with information on suitable bonding materials where these methods and/or materials are required for correct operation of the die device.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"bonding_methods_and_materials",
 	"name":{

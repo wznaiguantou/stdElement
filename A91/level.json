@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"Abbreviated name of the value level of a physical quantity, distinguishing it from other possible or allowed values of the same quantity",
+	"description":"Abbreviated name of the value level of a physical quantity, distinguishing it from other possible or allowed values of the same quantity.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"level",
 	"name":{

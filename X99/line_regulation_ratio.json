@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"ratio calculated as the change in the output voltage divided by the change in the input one, whilst the output current is kept constant",
+	"description":"ratio calculated as the change in the output voltage divided by the change in the input one, whilst the output current is kept constant.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"line_regulation_ratio",
 	"name":{

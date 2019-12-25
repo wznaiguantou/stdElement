@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value of the maximum voltage that may be appled across the terminals of a PTC thermistor",
+	"description":"value of the maximum voltage that may be appled across the terminals of a PTC thermistor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"maximum_operating_voltage",
 	"name":{

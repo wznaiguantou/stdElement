@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"temperature of the heatsink of a transistor, diode, trigger device, optoelectronic device or IC, as a variable",
+	"description":"temperature of the heatsink of a transistor, diode, trigger device, optoelectronic device or IC, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"heatsink_temperature",
 	"name":{

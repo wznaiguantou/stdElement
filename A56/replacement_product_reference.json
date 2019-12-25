@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"reference of the product intended to replace the phased-out product as defined by its manufacturer or its distributor\nThis property is to be applied together with ADA045 -interchangeability information link address",
+	"description":"reference of the product intended to replace the phased-out product as defined by its manufacturer or its distributor.\nThis property is to be applied together with ADA045 -interchangeability information link address.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"replacement_product_reference",
 	"name":{

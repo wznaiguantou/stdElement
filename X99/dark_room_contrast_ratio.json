@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"contrast ratio measured in a dark room ambient, typically less than 1 lx",
+	"description":"contrast ratio measured in a dark room ambient, typically less than 1 lx.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"dark_room_contrast_ratio",
 	"name":{

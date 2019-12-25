@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"change of ambient temperature of the surrounding medium within a specified period of time",
+	"description":"change of ambient temperature of the surrounding medium within a specified period of time.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"change_rate_of_ambient_temperature",
 	"name":{

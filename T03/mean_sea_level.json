@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"long-term average level of the sea surface",
+	"description":"long-term average level of the sea surface.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"mean_sea_level",
 	"name":{

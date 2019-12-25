@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (miNomax) of the attenuation provided in a direction opposite to that of the normal signal flow of a microwave component",
+	"description":"value as specified by level (miNomax) of the attenuation provided in a direction opposite to that of the normal signal flow of a microwave component.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"isolation",
 	"name":{

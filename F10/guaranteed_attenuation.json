@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"relative attenuation guaranteed in the specified range within the attenuation band scope",
+	"description":"relative attenuation guaranteed in the specified range within the attenuation band scope.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"guaranteed_attenuation",
 	"name":{

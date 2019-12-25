@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"smallest dimension as specified by level (miNomax) of a non-circular hole in a terminal tag or slug",
+	"description":"smallest dimension as specified by level (miNomax) of a non-circular hole in a terminal tag or slug.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"tag_hole_width",
 	"name":{

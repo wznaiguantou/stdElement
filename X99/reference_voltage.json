@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"stable voltage to be applied to the internal error amplifier that generates compensating current to move the output voltage toward design specification",
+	"description":"stable voltage to be applied to the internal error amplifier that generates compensating current to move the output voltage toward design specification.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"reference_voltage",
 	"name":{

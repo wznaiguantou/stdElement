@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"overall dimension as specified by level (miNomax) of the flange zone, excluding any fillet, measured in a perpendicular direction from the base plane",
+	"description":"overall dimension as specified by level (miNomax) of the flange zone, excluding any fillet, measured in a perpendicular direction from the base plane.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"flange_height",
 	"name":{

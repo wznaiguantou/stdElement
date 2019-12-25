@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the entry of a connector",
+	"description":"code of the entry of a connector.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"female_entry",
 	"name":{

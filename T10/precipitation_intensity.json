@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"accumulated height of rain, snow, hail, or volcanic ashes falling on a horizontal surface without drain per time period",
+	"description":"accumulated height of rain, snow, hail, or volcanic ashes falling on a horizontal surface without drain per time period.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"precipitation_intensity",
 	"name":{

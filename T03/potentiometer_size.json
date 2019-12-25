@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal value of the major dimension of the body of a rotary potentiometer measured in a direction perpendicular to the operating shaft",
+	"description":"nominal value of the major dimension of the body of a rotary potentiometer measured in a direction perpendicular to the operating shaft.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"potentiometer_size",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum guaranteed dc test voltage across the shorted diode leads and the shorted transistor leads that a photocoupler must withstand for a specified duration",
+	"description":"minimum guaranteed dc test voltage across the shorted diode leads and the shorted transistor leads that a photocoupler must withstand for a specified duration.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"isolation_voltage_min",
 	"name":{

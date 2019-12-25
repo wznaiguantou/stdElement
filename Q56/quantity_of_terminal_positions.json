@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"quantity of terminal positions in a row in a direction parallel to the length",
+	"description":"quantity of terminal positions in a row in a direction parallel to the length.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"quantity_of_terminal_positions",
 	"name":{

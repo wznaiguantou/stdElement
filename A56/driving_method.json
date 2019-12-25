@@ -52,7 +52,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of addressing the liquid crystal display, i.e. the number of segments (with dot matrix displays, the picture elements or pixels) that are connected together, and is given in a ratio value\n1. The number of common electrodes or segments per group determines the multiplex ratio. When the number of segments is n and the multiplex ratio is M then the number of connections used is n/M + M against n + 1 for direct drive. |2. Multiplex drive is when several electrodes of the segments and those of the back-planes are connected together.",
+	"description":"code of addressing the liquid crystal display, i.e. the number of segments (with dot matrix displays, the picture elements or pixels) that are connected together, and is given in a ratio value.\n1. The number of common electrodes or segments per group determines the multiplex ratio. When the number of segments is n and the multiplex ratio is M then the number of connections used is n/M + M against n + 1 for direct drive. |2. Multiplex drive is when several electrodes of the segments and those of the back-planes are connected together.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"driving_method",
 	"name":{

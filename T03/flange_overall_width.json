@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"overall width as specified by level (miNomax) of the mounting flange",
+	"description":"overall width as specified by level (miNomax) of the mounting flange.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"flange_overall_width",
 	"name":{

@@ -56,7 +56,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"prefix to the IEC 60191-4 code which identifies the position of the terminals on the package body",
+	"description":"prefix to the IEC 60191-4 code which identifies the position of the terminals on the package body.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"terminal_position_code",
 	"name":{

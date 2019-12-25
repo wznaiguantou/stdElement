@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum value of the current sinked by the programming input of an EPROM during programming at the reference temperature",
+	"description":"maximum value of the current sinked by the programming input of an EPROM during programming at the reference temperature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"programming_current",
 	"name":{

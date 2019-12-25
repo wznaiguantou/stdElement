@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"gate current in a thyristor or triac, as a variable",
+	"description":"gate current in a thyristor or triac, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"gate_current",
 	"name":{

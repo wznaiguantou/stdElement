@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of bits used to indicate the colour of a single pixel",
+	"description":"number of bits used to indicate the colour of a single pixel.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"colour_depth",
 	"name":{

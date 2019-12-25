@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"perpendicular distance as specified by level (miNomax) between the seating plane and the base plane",
+	"description":"perpendicular distance as specified by level (miNomax) between the seating plane and the base plane.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"stand-off_height",
 	"name":{

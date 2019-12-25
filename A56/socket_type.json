@@ -48,7 +48,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of a connector socket",
+	"description":"code of the type of a connector socket.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"socket_type",
 	"name":{

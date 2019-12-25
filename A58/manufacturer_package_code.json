@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code by which the manufacturer identifies the package style or a specific dimension set\nIf necessary, a code may be supplemented by descriptive text to distinguish variants",
+	"description":"code by which the manufacturer identifies the package style or a specific dimension set.\nIf necessary, a code may be supplemented by descriptive text to distinguish variants.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"manufacturer_package_code",
 	"name":{

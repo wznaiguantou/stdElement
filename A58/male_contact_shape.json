@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code indicating the outer shape of a contact of a connector",
+	"description":"code indicating the outer shape of a contact of a connector.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"male_contact_shape",
 	"name":{

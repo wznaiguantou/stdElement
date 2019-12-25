@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"Torque of a rotational motor, as a variable",
+	"description":"Torque of a rotational motor, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"torque",
 	"name":{

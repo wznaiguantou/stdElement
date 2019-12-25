@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the shape of the shell of a connector",
+	"description":"code of the shape of the shell of a connector.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"connector_shape",
 	"name":{

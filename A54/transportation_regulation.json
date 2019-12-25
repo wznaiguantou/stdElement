@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"national or regional applicable standards or guides concerning health and safety applicable during transportation of a specific product type\nDepending on the type of transportation different regulations apply, such as ADR / RID / ADN, IMDG and ICAO / IATA. The relevant regulation to be applied may differ from country to country",
+	"description":"national or regional applicable standards or guides concerning health and safety applicable during transportation of a specific product type.\nDepending on the type of transportation different regulations apply, such as ADR / RID / ADN, IMDG and ICAO / IATA. The relevant regulation to be applied may differ from country to country.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"transportation_regulation",
 	"name":{

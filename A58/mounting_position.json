@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the (intended) mounting position of a potentiometer with printed wiring pins",
+	"description":"code of the (intended) mounting position of a potentiometer with printed wiring pins.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"mounting_position",
 	"name":{

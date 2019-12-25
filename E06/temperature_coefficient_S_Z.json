@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum temperature coefficient of a voltage reference diode or voltage stabiliser diode, at specified working current",
+	"description":"maximum temperature coefficient of a voltage reference diode or voltage stabiliser diode, at specified working current.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"temperature_coefficient_S_Z",
 	"name":{

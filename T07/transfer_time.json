@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"For a change-over break-before-make contact of a relay, the minimum time interval during which both contact circuits are open",
+	"description":"For a change-over break-before-make contact of a relay, the minimum time interval during which both contact circuits are open.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"transfer_time",
 	"name":{

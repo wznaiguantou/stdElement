@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"width of the data bus of a microcontroller or microprocessor",
+	"description":"width of the data bus of a microcontroller or microprocessor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"data_bus_width",
 	"name":{

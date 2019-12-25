@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"IEC code of the type of the contact of a connector",
+	"description":"IEC code of the type of the contact of a connector.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"contact_sex",
 	"name":{

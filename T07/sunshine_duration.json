@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"sum of time intervals during which the irradiance from direct solar radiation on a plane normal to the sun direction is equal to or greater than 200 watts per square metre  at a given period of time",
+	"description":"sum of time intervals during which the irradiance from direct solar radiation on a plane normal to the sun direction is equal to or greater than 200 watts per square metre  at a given period of time.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"sunshine_duration",
 	"name":{

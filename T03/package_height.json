@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"distance as specified by level (miNomax) of the furthest part of the component above the base plane, measured in a direction perpendicular to the plane",
+	"description":"distance as specified by level (miNomax) of the furthest part of the component above the base plane, measured in a direction perpendicular to the plane.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"package_height",
 	"name":{

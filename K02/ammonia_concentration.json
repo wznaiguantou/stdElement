@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"ratio of the mass of ammonia appearing in the surrounding environment to a specified unit volume",
+	"description":"ratio of the mass of ammonia appearing in the surrounding environment to a specified unit volume.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"ammonia_concentration",
 	"name":{

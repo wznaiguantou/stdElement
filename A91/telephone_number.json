@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"identification number of a telephone in a domain at which telephone calls can be received",
+	"description":"identification number of a telephone in a domain at which telephone calls can be received.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"telephone_number",
 	"name":{

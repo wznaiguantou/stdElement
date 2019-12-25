@@ -75,7 +75,7 @@
 	"dataType":"struct",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"geometric position of the reference point of an item to be located in a coordinate system",
+	"description":"geometric position of the reference point of an item to be located in a coordinate system.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"location",
 	"name":{

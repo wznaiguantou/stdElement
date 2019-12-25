@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"reference to the identifier for the document from which a dimension set was taken\nThe document may be a manufacturer's data sheet or data book or it may be a specification such as IECQ, CECC or MIL",
+	"description":"reference to the identifier for the document from which a dimension set was taken.\nThe document may be a manufacturer's data sheet or data book or it may be a specification such as IECQ, CECC or MIL.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"source_document_identification",
 	"name":{

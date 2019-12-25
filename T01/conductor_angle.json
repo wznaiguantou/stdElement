@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value of the angle between mating direction and the axis of a conductor or cable outlet of a connector",
+	"description":"value of the angle between mating direction and the axis of a conductor or cable outlet of a connector.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"conductor_angle",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"contrast ratio with ambient illumination on the screen",
+	"description":"contrast ratio with ambient illumination on the screen.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"bright_room_contrast_ratio",
 	"name":{

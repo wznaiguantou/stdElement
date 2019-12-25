@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"radius as specified by level (miNomax) of a curve forming a part of the package outline",
+	"description":"radius as specified by level (miNomax) of a curve forming a part of the package outline.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"curve_radius",
 	"name":{

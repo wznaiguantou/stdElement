@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the condition of a relay after the energising quantity is removed",
+	"description":"code of the condition of a relay after the energising quantity is removed.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"stability",
 	"name":{

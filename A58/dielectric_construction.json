@@ -32,7 +32,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the construction of the dielectric of an RF cable",
+	"description":"code of the construction of the dielectric of an RF cable.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"dielectric_construction",
 	"name":{

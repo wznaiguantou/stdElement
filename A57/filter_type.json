@@ -40,7 +40,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of filter",
+	"description":"code of the type of filter.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"filter_type",
 	"name":{

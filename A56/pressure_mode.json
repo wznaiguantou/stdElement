@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"Abbreviation of the application mode of a semiconductor pressure sensor",
+	"description":"Abbreviation of the application mode of a semiconductor pressure sensor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"pressure_mode",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (miNomax) of the length of the inner radius of a right circular tube",
+	"description":"value as specified by level (miNomax) of the length of the inner radius of a right circular tube.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"internal_radius",
 	"name":{

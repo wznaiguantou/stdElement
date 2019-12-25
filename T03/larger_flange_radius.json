@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"larger of the two radii as specified by level (miNomax) of a flange having an oval shape",
+	"description":"larger of the two radii as specified by level (miNomax) of a flange having an oval shape.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"larger_flange_radius",
 	"name":{

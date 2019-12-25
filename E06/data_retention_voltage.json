@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum supply voltage, applied to an SRAM, for which data integrity is guaranteed",
+	"description":"minimum supply voltage, applied to an SRAM, for which data integrity is guaranteed.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"data_retention_voltage",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"ratio of the horizontal motion of the direction-independent tidal current driven by astronomical tide to a time unit at a given location and measured at a given period of time",
+	"description":"ratio of the horizontal motion of the direction-independent tidal current driven by astronomical tide to a time unit at a given location and measured at a given period of time.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"omni-directional_tidal_current_speed",
 	"name":{

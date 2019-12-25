@@ -52,7 +52,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code identifying the finish of a housing or shell of a component",
+	"description":"code identifying the finish of a housing or shell of a component.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"housing_finish",
 	"name":{

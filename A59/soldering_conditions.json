@@ -36,7 +36,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code for the soldering conditions of a relay",
+	"description":"code for the soldering conditions of a relay.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"soldering_conditions",
 	"name":{

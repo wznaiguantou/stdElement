@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"distance as specified by level (miNomax) of the centre of a mounting hole from a reference line on the package",
+	"description":"distance as specified by level (miNomax) of the centre of a mounting hole from a reference line on the package.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"mounting_hole_position",
 	"name":{

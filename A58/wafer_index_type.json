@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code for the type of index present on a wafer which is used as a reference feature to determine its orientation",
+	"description":"code for the type of index present on a wafer which is used as a reference feature to determine its orientation.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"wafer_index_type",
 	"name":{

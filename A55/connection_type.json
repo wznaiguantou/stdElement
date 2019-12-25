@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code for the type of connection for a microwave component",
+	"description":"code for the type of connection for a microwave component.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"connection_type",
 	"name":{

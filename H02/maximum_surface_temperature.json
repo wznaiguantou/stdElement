@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum surface temperature of a fixed resistor",
+	"description":"maximum surface temperature of a fixed resistor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"maximum_surface_temperature",
 	"name":{

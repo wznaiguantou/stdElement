@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"ratio of the average mass of a constituent material of a component to the total mass of the component",
+	"description":"ratio of the average mass of a constituent material of a component to the total mass of the component.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"average_mass",
 	"name":{

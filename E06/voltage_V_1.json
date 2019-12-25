@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"lower voltage V_1 of the voltage range applied to an electric-electronic or electromechanical component, as a variable",
+	"description":"lower voltage V_1 of the voltage range applied to an electric-electronic or electromechanical component, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"voltage_V_1",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal value of the voltage standing wave ratio of a radio-frequency connector or microwave component",
+	"description":"nominal value of the voltage standing wave ratio of a radio-frequency connector or microwave component.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"voltage_standing_wave_ratio",
 	"name":{

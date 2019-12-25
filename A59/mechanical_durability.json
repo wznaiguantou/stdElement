@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"guaranteed number of no-load operating cycles (i.e. without current at the main contacts) which can be effected before it becomes necessary to replace the item, or when possible to service or replace any parts of this item\nAfter the test the contact resistance shall be within its tolerance.\nApplicable in classes relay and switch",
+	"description":"guaranteed number of no-load operating cycles (i.e. without current at the main contacts) which can be effected before it becomes necessary to replace the item, or when possible to service or replace any parts of this item.\nAfter the test the contact resistance shall be within its tolerance.\nApplicable in classes relay and switch.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"mechanical_durability",
 	"name":{

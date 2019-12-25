@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum axial force on the spindle of a rotational motor\nAxial means in line with the shaft (pull or push).",
+	"description":"maximum axial force on the spindle of a rotational motor.\nAxial means in line with the shaft (pull or push).",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"maximum_axial_force",
 	"name":{

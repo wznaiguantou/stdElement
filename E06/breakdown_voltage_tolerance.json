@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal value of the tolerance of the dc breakdown voltage of a spark gap\nUsed only in cases of equal positive and negative tolerance values.",
+	"description":"nominal value of the tolerance of the dc breakdown voltage of a spark gap.\nUsed only in cases of equal positive and negative tolerance values.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"breakdown_voltage_tolerance",
 	"name":{

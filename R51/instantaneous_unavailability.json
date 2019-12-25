@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"probability that an item is not in a state to perform as required at a given instant",
+	"description":"probability that an item is not in a state to perform as required at a given instant.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"instantaneous_unavailability",
 	"name":{

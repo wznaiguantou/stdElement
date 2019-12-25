@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the function to which an optoelectronic device belongs",
+	"description":"code of the function to which an optoelectronic device belongs.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"optoelectronic_device_function",
 	"name":{

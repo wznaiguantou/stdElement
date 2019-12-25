@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of a fuse",
+	"description":"code of the type of a fuse.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"fuse_type",
 	"name":{

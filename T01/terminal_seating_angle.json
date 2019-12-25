@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"angle as specified by level (miNomax) between the terminal and the seating plane",
+	"description":"angle as specified by level (miNomax) between the terminal and the seating plane.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"terminal_seating_angle",
 	"name":{

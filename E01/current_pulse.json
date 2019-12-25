@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"peak value of a pulse current passed through an electric, electronic or electromechanical component, as a variable",
+	"description":"peak value of a pulse current passed through an electric, electronic or electromechanical component, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"current_pulse",
 	"name":{

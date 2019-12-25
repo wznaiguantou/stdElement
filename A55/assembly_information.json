@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of any procedures a user may require or precautions that must be observed when assembling a die device",
+	"description":"description of any procedures a user may require or precautions that must be observed when assembling a die device.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"assembly_information",
 	"name":{

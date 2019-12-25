@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of colour television transmission applying to a delay line or IC",
+	"description":"code of the type of colour television transmission applying to a delay line or IC.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"colour_TV_transmission",
 	"name":{

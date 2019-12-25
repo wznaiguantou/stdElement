@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the main functional class to which a component belongs",
+	"description":"code of the main functional class to which a component belongs.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"main_class_of_component",
 	"name":{

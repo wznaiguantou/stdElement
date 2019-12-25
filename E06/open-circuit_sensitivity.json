@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal value of the ratio of 1) the output voltage and 2) the product of the supply voltage and magnetic field of a semiconductor magnetic field sensor at specified ambient temperature\nSensitivity of a magnetic field sensor at specified ambient temperature and expressed in (V/V)/(A/m)",
+	"description":"nominal value of the ratio of 1) the output voltage and 2) the product of the supply voltage and magnetic field of a semiconductor magnetic field sensor at specified ambient temperature.\nSensitivity of a magnetic field sensor at specified ambient temperature and expressed in (V/V)/(A/m).",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"open-circuit_sensitivity",
 	"name":{

@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"describes where the substance is used in the product\nAn example for the use of a substance group can be a material.",
+	"description":"describes where the substance is used in the product.\nAn example for the use of a substance group can be a material.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"description_of_use",
 	"name":{

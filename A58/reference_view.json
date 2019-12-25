@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code indicating the angle of vision on a component serving as standard for describing the component",
+	"description":"code indicating the angle of vision on a component serving as standard for describing the component.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"reference_view",
 	"name":{

@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the function of a stabiliser diode",
+	"description":"code of the function of a stabiliser diode.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"diode_function",
 	"name":{

@@ -76,7 +76,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the mounting features which are designed to fasten a component to its counterpart",
+	"description":"code of the mounting features which are designed to fasten a component to its counterpart.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"mounting_features",
 	"name":{

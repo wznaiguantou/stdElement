@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the cross-section shape of the terminals of a component",
+	"description":"code of the cross-section shape of the terminals of a component.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"terminal_cross-section_shape",
 	"name":{

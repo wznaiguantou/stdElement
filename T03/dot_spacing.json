@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal space between two adjacent dots of a liquid crystal display module",
+	"description":"nominal space between two adjacent dots of a liquid crystal display module.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"dot_spacing",
 	"name":{

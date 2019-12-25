@@ -4,7 +4,7 @@
 	"dataType":"date",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"no product or product version  in stock beyond this date",
+	"description":"no product or product version  in stock beyond this date.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"end_of_stock_date",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"ambient humidity relative to saturation humidity applied to a humidity sensor, as a variable\n1 relative humidity: Actual humidity by volume, divided by humidity by volume at saturation, at the same temperature. |2 humidity by volume: Mass of water vapour divided by the volume of the gaseous mixture.",
+	"description":"ambient humidity relative to saturation humidity applied to a humidity sensor, as a variable.\n1 relative humidity: Actual humidity by volume, divided by humidity by volume at saturation, at the same temperature. |2 humidity by volume: Mass of water vapour divided by the volume of the gaseous mixture.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"relative_humidity",
 	"name":{

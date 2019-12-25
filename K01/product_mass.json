@@ -75,7 +75,7 @@
 	"dataType":"struct",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"mass of a product or product part",
+	"description":"mass of a product or product part.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"product_mass",
 	"name":{

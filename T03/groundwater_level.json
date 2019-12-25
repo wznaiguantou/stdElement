@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"vertical distance between a specified earth surface to an underground surface below which the ground is wholly saturated with water under normal atmospheric pressure\nAs the reference for the earth surface it is recommended to apply the true altitude above mean sea level",
+	"description":"vertical distance between a specified earth surface to an underground surface below which the ground is wholly saturated with water under normal atmospheric pressure.\nAs the reference for the earth surface it is recommended to apply the true altitude above mean sea level.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"groundwater_level",
 	"name":{

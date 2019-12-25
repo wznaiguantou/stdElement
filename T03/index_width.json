@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"width as specified by level (miNomax) of an index feature",
+	"description":"width as specified by level (miNomax) of an index feature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"index_width",
 	"name":{

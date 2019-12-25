@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum ac voltage at which an energised relay releases",
+	"description":"maximum ac voltage at which an energised relay releases.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"release_voltage_ac",
 	"name":{

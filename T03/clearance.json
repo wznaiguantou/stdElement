@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"shortest distance in air between two specified conductive parts of a relay",
+	"description":"shortest distance in air between two specified conductive parts of a relay.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"clearance",
 	"name":{

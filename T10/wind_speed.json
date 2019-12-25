@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"ratio of the horizontal motion of the surrounding air to a specified unit time at a specified height above a horizontal reference plane, either land or sea",
+	"description":"ratio of the horizontal motion of the surrounding air to a specified unit time at a specified height above a horizontal reference plane, either land or sea.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"wind_speed",
 	"name":{

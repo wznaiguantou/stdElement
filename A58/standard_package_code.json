@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of a standard dimension set taken from a standards document\nSee AAG071 for identity of the standards document",
+	"description":"code of a standard dimension set taken from a standards document.\nSee AAG071 for identity of the standards document.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"standard_package_code",
 	"name":{

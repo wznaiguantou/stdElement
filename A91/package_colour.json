@@ -72,7 +72,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"UL code of the colour of a connector body",
+	"description":"UL code of the colour of a connector body.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"package_colour",
 	"name":{

@@ -64,7 +64,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"IEC standard abbreviation of the name of the frequency band for the application of an electric-electronic component",
+	"description":"IEC standard abbreviation of the name of the frequency band for the application of an electric-electronic component.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"frequency_band",
 	"name":{

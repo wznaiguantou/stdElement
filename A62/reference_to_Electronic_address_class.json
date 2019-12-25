@@ -129,7 +129,7 @@
 	"dataType":"struct",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"relation to the specified class Electronic address",
+	"description":"relation to the specified class Electronic address.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"reference_to_Electronic_address_class",
 	"name":{

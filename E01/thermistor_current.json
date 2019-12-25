@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum dc current through a thermistor at specified dc voltage and ambient temperature",
+	"description":"maximum dc current through a thermistor at specified dc voltage and ambient temperature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"thermistor_current",
 	"name":{

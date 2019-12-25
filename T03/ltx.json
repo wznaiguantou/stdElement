@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"length in the positive X direction of the smaller surface of the wedge",
+	"description":"length in the positive X direction of the smaller surface of the wedge.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"ltx",
 	"name":{

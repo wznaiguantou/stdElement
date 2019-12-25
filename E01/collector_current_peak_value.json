@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum peak value of the collector current of a bipolar transistor during a specified duration",
+	"description":"maximum peak value of the collector current of a bipolar transistor during a specified duration.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"collector_current_peak_value",
 	"name":{

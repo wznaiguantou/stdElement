@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"volume of a three-dimensional space defining the effective physical contours of a geometrical object",
+	"description":"volume of a three-dimensional space defining the effective physical contours of a geometrical object.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"net_space",
 	"name":{

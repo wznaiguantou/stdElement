@@ -32,7 +32,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the electrochemical system of a secondary battery\nCode..........anode..........cathode..........electrolyte| NiCd..........nickel...........cadmium........alkaline| AgZn..........silver ...........zinc..................alkaline| Pb...............lead.............acid.................sulphuric acid| NiFe...........nickel...........iron.................alkaline| AgCd..........silver...........cadmium.......alkaline| NiZn...........nickel...........zinc.................alkaline",
+	"description":"code of the electrochemical system of a secondary battery.\nCode..........anode..........cathode..........electrolyte| NiCd..........nickel...........cadmium........alkaline| AgZn..........silver ...........zinc..................alkaline| Pb...............lead.............acid.................sulphuric acid| NiFe...........nickel...........iron.................alkaline| AgCd..........silver...........cadmium.......alkaline| NiZn...........nickel...........zinc.................alkaline.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"secondary_electrochemical_system",
 	"name":{

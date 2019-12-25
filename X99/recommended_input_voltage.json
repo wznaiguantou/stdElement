@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"range of input voltage that can be applied in a series regulator while enabling stable output",
+	"description":"range of input voltage that can be applied in a series regulator while enabling stable output.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"recommended_input_voltage",
 	"name":{

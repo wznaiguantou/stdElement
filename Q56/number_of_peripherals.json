@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"Number of peripherals of a microcontroller of a specified peripheral type",
+	"description":"Number of peripherals of a microcontroller of a specified peripheral type.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"number_of_peripherals",
 	"name":{

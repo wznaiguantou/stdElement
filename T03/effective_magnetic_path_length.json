@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal effective magnetic path length of a soft magnetic part\nThis is the magnetic path length of a hypothetical equivalent toroidal core of the same material properties.",
+	"description":"nominal effective magnetic path length of a soft magnetic part.\nThis is the magnetic path length of a hypothetical equivalent toroidal core of the same material properties.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"effective_magnetic_path_length",
 	"name":{

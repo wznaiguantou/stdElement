@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum total current that may be carried by a connector",
+	"description":"maximum total current that may be carried by a connector.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"connector_rated_current",
 	"name":{

@@ -984,7 +984,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"alphabetic 2-character code for the representation of names of countries in accordance with ISO 3166-1\nThe provided value list for the alphabetic 2-character code is based on ISO 3166-1:2006. It is updated under http://www.iso.org/iso/iso_3166-1_database",
+	"description":"alphabetic 2-character code for the representation of names of countries in accordance with ISO 3166-1.\nThe provided value list for the alphabetic 2-character code is based on ISO 3166-1:2006. It is updated under http://www.iso.org/iso/iso_3166-1_database.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"country_code",
 	"name":{

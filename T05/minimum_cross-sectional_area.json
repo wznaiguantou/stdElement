@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal value of the minimum cross-sectional area of a soft magnetic part",
+	"description":"nominal value of the minimum cross-sectional area of a soft magnetic part.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"minimum_cross-sectional_area",
 	"name":{

@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"flag to indicate whether the package is intended for surface-mount applications",
+	"description":"flag to indicate whether the package is intended for surface-mount applications.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"surface-mount_flag",
 	"name":{

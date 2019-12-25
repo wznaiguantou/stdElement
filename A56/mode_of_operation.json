@@ -48,7 +48,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the mode of operation of a function of an IC",
+	"description":"code of the mode of operation of a function of an IC.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"mode_of_operation",
 	"name":{

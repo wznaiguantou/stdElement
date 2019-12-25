@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the quantity which is amplified, identifying a low-frequency amplifier",
+	"description":"code of the quantity which is amplified, identifying a low-frequency amplifier.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"amplified_quantity",
 	"name":{

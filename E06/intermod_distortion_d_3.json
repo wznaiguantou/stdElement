@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"intermodulation distortion of a bipolar rf power transistor, measured according to the two-tone test method, as a variable\nTwo-tone test method: |f_1 = 28.000 MHz, V_1 = V_o - 6 dB f_2 = 28.001 MHz, V_2 = V_o - 6 dB |measured harmonic component is: (f_2 + 1 kHz) - (f_1 - 1 kHz) = 3 kHz",
+	"description":"intermodulation distortion of a bipolar rf power transistor, measured according to the two-tone test method, as a variable.\nTwo-tone test method: |f_1 = 28.000 MHz, V_1 = V_o - 6 dB f_2 = 28.001 MHz, V_2 = V_o - 6 dB |measured harmonic component is: (f_2 + 1 kHz) - (f_1 - 1 kHz) = 3 kHz.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"intermod_distortion_d_3",
 	"name":{

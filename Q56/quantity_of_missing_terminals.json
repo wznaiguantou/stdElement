@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum quantity of potential terminal positions which can be unoccupied",
+	"description":"maximum quantity of potential terminal positions which can be unoccupied.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"quantity_of_missing_terminals",
 	"name":{

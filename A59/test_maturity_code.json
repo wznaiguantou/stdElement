@@ -44,7 +44,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code to indicate the maturity of the production process for a die device",
+	"description":"code to indicate the maturity of the production process for a die device.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"test_maturity_code",
 	"name":{

@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"AWG code of the size of a conductive part of a conductor\nFor values see Standard nominal diameters and cross sectional areas of solid round wires.",
+	"description":"AWG code of the size of a conductive part of a conductor.\nFor values see Standard nominal diameters and cross sectional areas of solid round wires.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"conductor_size_AWG",
 	"name":{

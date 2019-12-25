@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of successions of operations from one position to another and back to the first position\nExample of item type:  valve, relay,  switch, …",
+	"description":"number of successions of operations from one position to another and back to the first position.\nExample of item type:  valve, relay,  switch, ….",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"number_of_operating_cycles",
 	"name":{

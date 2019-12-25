@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"optional description of the  technical characteristics of the signal connection\nIn IEC 61175 Ed.2, the name \"additional information\" instead of \"signal connection characteristics\" was used",
+	"description":"optional description of the  technical characteristics of the signal connection.\nIn IEC 61175 Ed.2, the name \"additional information\" instead of \"signal connection characteristics\" was used.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"signal_connection_characteristics",
 	"name":{

@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the package of an amplifier",
+	"description":"code of the package of an amplifier.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"amplifier_package",
 	"name":{

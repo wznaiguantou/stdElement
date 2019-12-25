@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (miNomax) of the radius of the generatrix of a torus",
+	"description":"value as specified by level (miNomax) of the radius of the generatrix of a torus.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"minor_radius_of_torus",
 	"name":{

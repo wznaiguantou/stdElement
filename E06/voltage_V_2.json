@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"upper voltage V_2 of a voltage range applied to an electric-electronic or electromechanical component, as a variable",
+	"description":"upper voltage V_2 of a voltage range applied to an electric-electronic or electromechanical component, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"voltage_V_2",
 	"name":{

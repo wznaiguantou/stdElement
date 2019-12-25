@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of electrode material of an electrolytic capacitor",
+	"description":"code of the type of electrode material of an electrolytic capacitor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"electrode_material_type",
 	"name":{

@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"IEC standard code of the dielectric material class of a fixed ceramic capacitor (with regard to permittivity, losses and temperature stability)",
+	"description":"IEC standard code of the dielectric material class of a fixed ceramic capacitor (with regard to permittivity, losses and temperature stability).",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"dielectric_class_ceramic_cap",
 	"name":{

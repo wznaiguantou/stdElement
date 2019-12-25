@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum value of the dark resistance of a light dependent resistor",
+	"description":"minimum value of the dark resistance of a light dependent resistor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"dark_resistance",
 	"name":{

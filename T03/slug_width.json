@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"width as specified by level (miNomax) of a slug",
+	"description":"width as specified by level (miNomax) of a slug.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"slug_width",
 	"name":{

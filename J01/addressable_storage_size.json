@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of words of the storage capacity of the program memory that a microprocessor or microcontroller can access via its corresponding external address bus\nThe addressable storage size equals 2**n, in which n equals the address bus width (in bit).",
+	"description":"number of words of the storage capacity of the program memory that a microprocessor or microcontroller can access via its corresponding external address bus.\nThe addressable storage size equals 2**n, in which n equals the address bus width (in bit).",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"addressable_storage_size",
 	"name":{

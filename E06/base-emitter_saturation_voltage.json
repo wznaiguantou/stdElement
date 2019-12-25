@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax) of the base-emitter voltage of a bipolar transistor at specified collector current, base current and temperature of a temperature type\nThis is the voltage between base and emitter terminals when both the base-emitter and base-collector junctions are forward biased.",
+	"description":"value as specified by level (minTypmax) of the base-emitter voltage of a bipolar transistor at specified collector current, base current and temperature of a temperature type.\nThis is the voltage between base and emitter terminals when both the base-emitter and base-collector junctions are forward biased.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"base-emitter_saturation_voltage",
 	"name":{

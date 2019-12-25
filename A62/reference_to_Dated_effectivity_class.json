@@ -61,7 +61,7 @@
 	"dataType":"struct",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"relation to the specified class Dated effectivity",
+	"description":"relation to the specified class Dated effectivity.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"reference_to_Dated_effectivity_class",
 	"name":{

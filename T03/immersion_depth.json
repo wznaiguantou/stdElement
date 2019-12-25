@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"depth in which an object, e.g., a component, may be immerged or submerged without loosing its specified function",
+	"description":"depth in which an object, e.g., a component, may be immerged or submerged without loosing its specified function.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"immersion_depth",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of layers in a multilayer printed-wiring circuit",
+	"description":"number of layers in a multilayer printed-wiring circuit.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"number_of_layers",
 	"name":{

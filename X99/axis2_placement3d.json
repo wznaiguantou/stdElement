@@ -75,7 +75,7 @@
 	"dataType":"struct",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"system of three orthogonal axes having its origin at a specified three-dimensional Cartesian point",
+	"description":"system of three orthogonal axes having its origin at a specified three-dimensional Cartesian point.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"axis2_placement3d",
 	"name":{

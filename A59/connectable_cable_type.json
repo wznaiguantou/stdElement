@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the connectable cable type of a connector",
+	"description":"code of the connectable cable type of a connector.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"connectable_cable_type",
 	"name":{

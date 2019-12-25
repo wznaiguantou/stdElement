@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal substituted dc resistance of a moving conductor loudspeaker\nUsed when defining the available electric power of the source.",
+	"description":"nominal substituted dc resistance of a moving conductor loudspeaker.\nUsed when defining the available electric power of the source.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"rated_impedance",
 	"name":{

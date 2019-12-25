@@ -40,7 +40,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code for the basic options of test, inspection and burn-in applied to a die or wafer",
+	"description":"code for the basic options of test, inspection and burn-in applied to a die or wafer.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"process_options",
 	"name":{

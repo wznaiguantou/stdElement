@@ -36,7 +36,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the terminal shape of an electric/electronic or electromechanical component",
+	"description":"code of the terminal shape of an electric/electronic or electromechanical component.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"terminal_shape_non-SMD",
 	"name":{

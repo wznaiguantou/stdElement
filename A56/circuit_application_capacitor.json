@@ -48,7 +48,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the circuit application(s) for which a fixed capacitor is designed",
+	"description":"code of the circuit application(s) for which a fixed capacitor is designed.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"circuit_application_capacitor",
 	"name":{

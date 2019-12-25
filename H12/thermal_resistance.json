@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum operating thermal resistance of an electric-electronic or electromechanical component, of a specified thermal resistance type",
+	"description":"maximum operating thermal resistance of an electric-electronic or electromechanical component, of a specified thermal resistance type.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"thermal_resistance",
 	"name":{

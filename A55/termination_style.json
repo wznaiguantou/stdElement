@@ -40,7 +40,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code for the method of connecting a conductor to the contact of a connector",
+	"description":"code for the method of connecting a conductor to the contact of a connector.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"termination_style",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax) of the direct threshold voltage between gate and source terminals of an enhancement field-effect transistor at specified drain current and drain-source voltage",
+	"description":"value as specified by level (minTypmax) of the direct threshold voltage between gate and source terminals of an enhancement field-effect transistor at specified drain current and drain-source voltage.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"gate-source_threshold_voltage",
 	"name":{

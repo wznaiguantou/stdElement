@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code identifying the technology by which the electrodes of a fixed film capacitor are made",
+	"description":"code identifying the technology by which the electrodes of a fixed film capacitor are made.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"electrode_technology",
 	"name":{

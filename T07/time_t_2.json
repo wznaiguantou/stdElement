@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"end time t_2 of a time interval during which a quantity is applied to a product, as a variable\nSee AAF312-005 for the start time t_1.",
+	"description":"end time t_2 of a time interval during which a quantity is applied to a product, as a variable.\nSee AAF312-005 for the start time t_1.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"time_t_2",
 	"name":{

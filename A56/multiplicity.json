@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the multiplicity of a fixed linear resistor",
+	"description":"code of the multiplicity of a fixed linear resistor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"multiplicity",
 	"name":{

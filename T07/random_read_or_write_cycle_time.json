@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum time interval that must elapse between successive random read/write operations for a DRAM",
+	"description":"minimum time interval that must elapse between successive random read/write operations for a DRAM.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"random_read_or_write_cycle_time",
 	"name":{

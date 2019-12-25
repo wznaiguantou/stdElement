@@ -77,7 +77,7 @@
 	"dataType":"struct",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"relation to the specified class seimic",
+	"description":"relation to the specified class seimic.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"reference_to_seismic_class",
 	"name":{

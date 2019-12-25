@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"lower relative humidity RH_1 of the humidity range applied to a humidity sensor, as a variable",
+	"description":"lower relative humidity RH_1 of the humidity range applied to a humidity sensor, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"relative_humidity_RH_1",
 	"name":{

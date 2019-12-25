@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of the specific issues that affect the maximum duration of storage of a die device together with the conditions under which this storage period is valid",
+	"description":"description of the specific issues that affect the maximum duration of storage of a die device together with the conditions under which this storage period is valid.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"storage_conditions",
 	"name":{

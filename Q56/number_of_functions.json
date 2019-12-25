@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"Number of identical functions of a multiple function component\nSuch as identical functions on one IC.",
+	"description":"Number of identical functions of a multiple function component.\nSuch as identical functions on one IC.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"number_of_functions",
 	"name":{

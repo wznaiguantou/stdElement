@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum limiting voltage between emitter and base terminals of a bipolar transistor, at open collector terminal",
+	"description":"maximum limiting voltage between emitter and base terminals of a bipolar transistor, at open collector terminal.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"emitter-base_voltage_V_EBO",
 	"name":{

@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"Name indicating the shape of the screen of a TV picture or monitor tube",
+	"description":"Name indicating the shape of the screen of a TV picture or monitor tube.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"screen_shape",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"pressure exerted on an object being completely embedded by water\nFor the definition of pressure see IEV 113-03-65",
+	"description":"pressure exerted on an object being completely embedded by water.\nFor the definition of pressure see IEV 113-03-65.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"water_pressure",
 	"name":{

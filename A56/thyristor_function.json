@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the function of a thyristor",
+	"description":"code of the function of a thyristor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"thyristor_function",
 	"name":{

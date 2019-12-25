@@ -36,7 +36,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"mnemonic code for the form of packing used for the supply of a die or wafer",
+	"description":"mnemonic code for the form of packing used for the supply of a die or wafer.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"supply_packing_code",
 	"name":{

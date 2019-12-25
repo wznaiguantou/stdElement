@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value of the rate of rise of the off-state voltage that will not trigger the device, at specified conditions",
+	"description":"value of the rate of rise of the off-state voltage that will not trigger the device, at specified conditions.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"rate_of_rise_of_off-state_voltage",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"date",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"end of all active sales activities for a product (discontinuation)",
+	"description":"end of all active sales activities for a product (discontinuation).",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"end_of_product_sales",
 	"name":{

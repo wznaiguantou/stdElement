@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"IEC standard code of the category of contact voltage and contact current of a relay\nA contact may have the characteristics of more than one category.",
+	"description":"IEC standard code of the category of contact voltage and contact current of a relay.\nA contact may have the characteristics of more than one category.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"U_or_I_category",
 	"name":{

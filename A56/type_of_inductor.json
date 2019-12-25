@@ -32,7 +32,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code identifying the function or application for which the inductor has been developed initially",
+	"description":"code identifying the function or application for which the inductor has been developed initially.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"type_of_inductor",
 	"name":{

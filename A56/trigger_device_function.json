@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the function of a trigger device",
+	"description":"code of the function of a trigger device.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"trigger_device_function",
 	"name":{

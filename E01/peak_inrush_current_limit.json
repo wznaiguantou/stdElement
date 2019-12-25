@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum limiting peak inrush current of a bridge rectifier",
+	"description":"maximum limiting peak inrush current of a bridge rectifier.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"peak_inrush_current_limit",
 	"name":{

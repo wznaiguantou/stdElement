@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"Nominal value of the breadth of a rectangular contact of a connector",
+	"description":"Nominal value of the breadth of a rectangular contact of a connector.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"male_contact_breadth",
 	"name":{

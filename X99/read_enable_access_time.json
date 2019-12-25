@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"time interval from the time an enable signal is input to the chip control pin until the time the data is output during a sequential read cycle or status read cycle",
+	"description":"time interval from the time an enable signal is input to the chip control pin until the time the data is output during a sequential read cycle or status read cycle.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"read_enable_access_time",
 	"name":{

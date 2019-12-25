@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"IEC standard code of the safety/voltage class of a fixed capacitor for radio interference suppression",
+	"description":"IEC standard code of the safety/voltage class of a fixed capacitor for radio interference suppression.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"safety_class",
 	"name":{

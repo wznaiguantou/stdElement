@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal value of the magnetic field strength at which the BH product of a hard magnetic material is maximum",
+	"description":"nominal value of the magnetic field strength at which the BH product of a hard magnetic material is maximum.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"field_strength_at_BH_max",
 	"name":{

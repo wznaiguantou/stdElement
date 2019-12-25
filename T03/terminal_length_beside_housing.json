@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal length of that part of a terminal of a right angle or 45 degree connector that is beside the housing",
+	"description":"nominal length of that part of a terminal of a right angle or 45 degree connector that is beside the housing.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"terminal_length_beside_housing",
 	"name":{

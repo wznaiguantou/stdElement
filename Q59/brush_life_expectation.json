@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum expectation of the number of two-way turns of the brush of a variable power transformer",
+	"description":"minimum expectation of the number of two-way turns of the brush of a variable power transformer.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"brush_life_expectation",
 	"name":{

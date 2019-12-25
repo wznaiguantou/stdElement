@@ -56,7 +56,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the input or output characteristic of a digital IC function",
+	"description":"code of the input or output characteristic of a digital IC function.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"input_or_output_characteristic",
 	"name":{

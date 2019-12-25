@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax) of the frequency  of the drive ac voltage of a liquid crystal display at a specified driving method",
+	"description":"value as specified by level (minTypmax) of the frequency  of the drive ac voltage of a liquid crystal display at a specified driving method.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"drive_frequency",
 	"name":{

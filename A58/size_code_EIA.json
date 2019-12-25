@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"EIcode of the size of an electric/electronic component for placement on printed wiring board\nThe complete code consists of four numerical characters.| a)   the first two numerical characters represent the value of the length in inches.| b)   the second two numerical characters represent the value of the width in inches.",
+	"description":"EIcode of the size of an electric/electronic component for placement on printed wiring board.\nThe complete code consists of four numerical characters.| a)   the first two numerical characters represent the value of the length in inches.| b)   the second two numerical characters represent the value of the width in inches.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"size_code_EIA",
 	"name":{

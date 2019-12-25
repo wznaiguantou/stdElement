@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"dc or rms ac voltage across the contacts of a switch or relay, as a variable",
+	"description":"dc or rms ac voltage across the contacts of a switch or relay, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"contact_current",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal capacitance per unit length between a pair of conductors of a cable",
+	"description":"nominal capacitance per unit length between a pair of conductors of a cable.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"capacitance_between_conductors",
 	"name":{

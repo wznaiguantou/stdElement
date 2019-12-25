@@ -56,7 +56,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the ability of a component to withstand specified severities of sinusoidal vibration in each of three mutually perpendicular directions",
+	"description":"code of the ability of a component to withstand specified severities of sinusoidal vibration in each of three mutually perpendicular directions.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"vibration_resistance,",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum to maximum distance by level minmax between the reference planes of the fixed and free connectors, within which the specified contact resistance will be met",
+	"description":"minimum to maximum distance by level minmax between the reference planes of the fixed and free connectors, within which the specified contact resistance will be met.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"contact_range",
 	"name":{

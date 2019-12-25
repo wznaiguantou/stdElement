@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the model of a variable power transformer",
+	"description":"code of the model of a variable power transformer.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"transformer_model",
 	"name":{

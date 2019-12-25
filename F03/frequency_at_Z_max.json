@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal frequency  at which the modulus of impedance of an inductor reaches its maximum value\nApplies to wound six-hole beads.",
+	"description":"nominal frequency  at which the modulus of impedance of an inductor reaches its maximum value.\nApplies to wound six-hole beads.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"frequency_at_Z_max",
 	"name":{

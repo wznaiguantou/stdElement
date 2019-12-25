@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of the metal layers forming the pad on a die device to which external connection is made\nThe description should include the nature of the materials forming each layer of the metallisation and the nominal thickness of each layer",
+	"description":"description of the metal layers forming the pad on a die device to which external connection is made.\nThe description should include the nature of the materials forming each layer of the metallisation and the nominal thickness of each layer.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"metallisation",
 	"name":{

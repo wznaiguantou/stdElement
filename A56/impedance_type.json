@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the impedance type of an antenna",
+	"description":"code of the impedance type of an antenna.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"impedance_type",
 	"name":{

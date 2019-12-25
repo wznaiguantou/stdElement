@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"geographical area comprised of two or more countries that have common characteristics that are different from those of surrounding areas\nAreas that are distinguished within one country are referred to as country subdivisions.",
+	"description":"geographical area comprised of two or more countries that have common characteristics that are different from those of surrounding areas.\nAreas that are distinguished within one country are referred to as country subdivisions.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"region",
 	"name":{

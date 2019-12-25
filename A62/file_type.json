@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"verbal description type of  attached file such as document, spreadsheet, diagram",
+	"description":"verbal description type of  attached file such as document, spreadsheet, diagram.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"file_type",
 	"name":{

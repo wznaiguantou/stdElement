@@ -36,7 +36,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of connection a terminal or connector is being designed for",
+	"description":"code of the type of connection a terminal or connector is being designed for.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"terminal_connection_type",
 	"name":{

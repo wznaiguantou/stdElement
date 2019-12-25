@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"solar radiation energy received on a given surface area in a given time\nIrradiation is the time integral of irradiance.",
+	"description":"solar radiation energy received on a given surface area in a given time.\nIrradiation is the time integral of irradiance.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"solar_irradiation",
 	"name":{

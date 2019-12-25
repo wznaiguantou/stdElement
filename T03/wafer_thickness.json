@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal thickness of a semiconductor wafer containing die devices",
+	"description":"nominal thickness of a semiconductor wafer containing die devices.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"wafer_thickness",
 	"name":{

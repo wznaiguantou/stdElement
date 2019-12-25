@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value of the ratio of the dynamic (ac) collector current to the dynamic (ac) base current of a bipolar transistor in common-emitter configuration, at specified conditions",
+	"description":"value of the ratio of the dynamic (ac) collector current to the dynamic (ac) base current of a bipolar transistor in common-emitter configuration, at specified conditions.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"small-signal_current_gain",
 	"name":{

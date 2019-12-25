@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (miNomax) of the breadth of the flange of a component in the y-direction",
+	"description":"value as specified by level (miNomax) of the breadth of the flange of a component in the y-direction.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"flange_breadth",
 	"name":{

@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"name or unique identifier of the material within the product",
+	"description":"name or unique identifier of the material within the product.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"material_name",
 	"name":{

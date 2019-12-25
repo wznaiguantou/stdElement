@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"solid particles suspended in the air\nIn addition to the mass per volume unit, the distribution of particle sizes is of importance.",
+	"description":"solid particles suspended in the air.\nIn addition to the mass per volume unit, the distribution of particle sizes is of importance.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"airborne_particulates",
 	"name":{

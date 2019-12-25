@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax), of the maximum product of the magnetic flux density and magnetic field strength attained on the demagnetisation curve of a hard magnetic material\nThe BH product is equal to twice the total energy stored in the external field of the magnet per unit volume of the magnet.",
+	"description":"value as specified by level (minTypmax), of the maximum product of the magnetic flux density and magnetic field strength attained on the demagnetisation curve of a hard magnetic material.\nThe BH product is equal to twice the total energy stored in the external field of the magnet per unit volume of the magnet.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"BH_product_max",
 	"name":{

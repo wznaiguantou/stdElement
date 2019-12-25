@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of a connector part",
+	"description":"code of the type of a connector part.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"connector_part_type",
 	"name":{

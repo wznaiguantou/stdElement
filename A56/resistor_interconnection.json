@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of interconnection of fixed a linear resistor network",
+	"description":"code of the type of interconnection of fixed a linear resistor network.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"resistor_interconnection",
 	"name":{

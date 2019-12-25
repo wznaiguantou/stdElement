@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"reference to select the kind of provided conformity assessment activity indicating the party involved",
+	"description":"reference to select the kind of provided conformity assessment activity indicating the party involved.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"reference_to_conformity_assessment_type",
 	"name":{

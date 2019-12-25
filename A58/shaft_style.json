@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"style of the operating shaft of a switch with rotary action",
+	"description":"style of the operating shaft of a switch with rotary action.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"shaft_style",
 	"name":{

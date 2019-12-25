@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal outer diameter of the neck of a display tube",
+	"description":"nominal outer diameter of the neck of a display tube.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"neck_diameter",
 	"name":{

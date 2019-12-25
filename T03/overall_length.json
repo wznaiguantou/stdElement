@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"overall length as specified by level (miNomax) of a package including terminals",
+	"description":"overall length as specified by level (miNomax) of a package including terminals.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"overall_length",
 	"name":{

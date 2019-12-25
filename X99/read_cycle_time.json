@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum cycle of the read enable signal during a sequential data access",
+	"description":"minimum cycle of the read enable signal during a sequential data access.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"read_cycle_time",
 	"name":{

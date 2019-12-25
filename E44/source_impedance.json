@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"modulus of the complex impedance of a source connected to the input of an electric-electronic or electromechanical component, as a variable",
+	"description":"modulus of the complex impedance of a source connected to the input of an electric-electronic or electromechanical component, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"source_impedance",
 	"name":{

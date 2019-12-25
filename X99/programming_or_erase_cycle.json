@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum number of times a memory cell can be rewritten or erased",
+	"description":"minimum number of times a memory cell can be rewritten or erased.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"programming_or_erase_cycle",
 	"name":{

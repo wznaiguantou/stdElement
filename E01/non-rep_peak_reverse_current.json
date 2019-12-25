@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"non-repetitive peak reverse current of a stabiliser diode, as a variable",
+	"description":"non-repetitive peak reverse current of a stabiliser diode, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"non-rep_peak_reverse_current",
 	"name":{

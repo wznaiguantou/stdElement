@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code identifying the standardized pollution degree an EM component can perform",
+	"description":"code identifying the standardized pollution degree an EM component can perform.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"pollution_degree",
 	"name":{

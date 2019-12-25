@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum resistance between the inputs of a differential amplifier at reference conditions\nIn order to be able to consider the input impedance as a pure resistance, the measurement signal frequency must be sufficiently low so that there are no significant phase differences between the voltages at the input terminals of the amplifier to be measured with or without the series resistor.",
+	"description":"minimum resistance between the inputs of a differential amplifier at reference conditions.\nIn order to be able to consider the input impedance as a pure resistance, the measurement signal frequency must be sufficiently low so that there are no significant phase differences between the voltages at the input terminals of the amplifier to be measured with or without the series resistor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"differential_input_resistance",
 	"name":{

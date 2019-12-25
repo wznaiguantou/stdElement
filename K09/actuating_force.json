@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"operating nominal force on the actuator of a mechanical switch to cause it to change position",
+	"description":"operating nominal force on the actuator of a mechanical switch to cause it to change position.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"actuating_force",
 	"name":{

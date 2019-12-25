@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"name given to a grouping of a number of materials that share at least one property in common under a generic name",
+	"description":"name given to a grouping of a number of materials that share at least one property in common under a generic name.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"material_group",
 	"name":{

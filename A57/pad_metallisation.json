@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"material used to form the pads on a die to which connection is made\nThe information given should include the materials used and the thickness of all layers",
+	"description":"material used to form the pads on a die to which connection is made.\nThe information given should include the materials used and the thickness of all layers.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"pad_metallisation",
 	"name":{

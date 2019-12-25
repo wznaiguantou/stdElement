@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of the form of packing used for the supply of a die or wafer",
+	"description":"description of the form of packing used for the supply of a die or wafer.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"supply_packing_description",
 	"name":{

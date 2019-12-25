@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum value of the dc current, equal to the arithmetic average of the currents into the differential input terminals of an operational amplifier in a quiescent state at reference conditions",
+	"description":"maximum value of the dc current, equal to the arithmetic average of the currents into the differential input terminals of an operational amplifier in a quiescent state at reference conditions.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"average_bias_current",
 	"name":{

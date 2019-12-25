@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum limiting repetitive peak off-state voltage across a thyristor or triac including all repetitive voltages but excluding all non-repetitive transient voltages",
+	"description":"maximum limiting repetitive peak off-state voltage across a thyristor or triac including all repetitive voltages but excluding all non-repetitive transient voltages.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"repetitive_peak_off-state_voltage",
 	"name":{

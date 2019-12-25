@@ -72,7 +72,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"ISO code of the material of the insulating layer of an insulated conductor\nOnly the polymers are coded according to ISO.",
+	"description":"ISO code of the material of the insulating layer of an insulated conductor.\nOnly the polymers are coded according to ISO.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"insulating_material",
 	"name":{

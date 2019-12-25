@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the winding configuration of a transformer or inductive antenna",
+	"description":"code of the winding configuration of a transformer or inductive antenna.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"winding_configuration",
 	"name":{

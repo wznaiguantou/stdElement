@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal value of the modulus of the output impedance of a filter at specified frequency",
+	"description":"nominal value of the modulus of the output impedance of a filter at specified frequency.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"output_impedance",
 	"name":{

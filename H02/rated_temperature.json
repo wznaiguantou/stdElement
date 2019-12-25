@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum temperature at which a defined set of rated values apply simultaneously for an electric, electronic or electromechanical component\nGenerally referring to currents, voltages, and/or power.",
+	"description":"maximum temperature at which a defined set of rated values apply simultaneously for an electric, electronic or electromechanical component.\nGenerally referring to currents, voltages, and/or power.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"rated_temperature",
 	"name":{

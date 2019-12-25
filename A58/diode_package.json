@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the envelope of a diode or trigger device",
+	"description":"code of the envelope of a diode or trigger device.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"diode_package",
 	"name":{

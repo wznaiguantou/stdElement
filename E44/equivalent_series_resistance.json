@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum equivalent series resistance of an electrolytic capacitor at specified frequency and at the reference conditions\nThe ESR corresponds to the real part of the impedance.",
+	"description":"maximum equivalent series resistance of an electrolytic capacitor at specified frequency and at the reference conditions.\nThe ESR corresponds to the real part of the impedance.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"equivalent_series_resistance",
 	"name":{

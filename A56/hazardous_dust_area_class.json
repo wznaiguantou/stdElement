@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"classification of an area in which an explosive dust atmosphere is present, or may be expected to be present, in quantities such as to require special precautions for the construction, installation and use of electrical apparatus\nIEC 61241-10 gives a classification of hazardous areas containing explosive dust atmospheres (see IEV 426-03-23, 426-03-24, and 426-03-25).",
+	"description":"classification of an area in which an explosive dust atmosphere is present, or may be expected to be present, in quantities such as to require special precautions for the construction, installation and use of electrical apparatus.\nIEC 61241-10 gives a classification of hazardous areas containing explosive dust atmospheres (see IEV 426-03-23, 426-03-24, and 426-03-25).",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"hazardous_dust_area_class",
 	"name":{

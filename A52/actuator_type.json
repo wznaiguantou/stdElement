@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the moving contact actuator type of a potentiometer",
+	"description":"code of the moving contact actuator type of a potentiometer.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"actuator_type",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"negative value of the absolute tolerance on the nominal value of the capacitance of an electric component where positive and negative tolerance values are unequal",
+	"description":"negative value of the absolute tolerance on the nominal value of the capacitance of an electric component where positive and negative tolerance values are unequal.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"negative_capacitance_tolerance",
 	"name":{

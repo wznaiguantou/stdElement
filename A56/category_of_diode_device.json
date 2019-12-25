@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the category to which a diode device belongs",
+	"description":"code of the category to which a diode device belongs.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"category_of_diode_device",
 	"name":{

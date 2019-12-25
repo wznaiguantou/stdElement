@@ -4,7 +4,7 @@
 	"dataType":"date",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"no training lessons or online trainings will be available beyond this date",
+	"description":"no training lessons or online trainings will be available beyond this date.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"end_of_training",
 	"name":{

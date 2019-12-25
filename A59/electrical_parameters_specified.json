@@ -6,7 +6,7 @@
 	"dataType":"array",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"list of the electrical parameters for which tests were made in assessing the outgoing quality of a component, together with the test limits for each",
+	"description":"list of the electrical parameters for which tests were made in assessing the outgoing quality of a component, together with the test limits for each.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"electrical_parameters_specified",
 	"name":{

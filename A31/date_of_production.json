@@ -4,7 +4,7 @@
 	"dataType":"date",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"date at which the item was produced, being ready for use\nProduce' is a wider term, than 'manufacture'. Agricultural products are not manufactured.",
+	"description":"date at which the item was produced, being ready for use.\nProduce' is a wider term, than 'manufacture'. Agricultural products are not manufactured.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"date_of_production",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"range of temperature variance, over which the quartz crystal device will function maintaining its specified characteristics within the specified tolerances\nFor crystal units, the temperature shall be measured on the enclosure.",
+	"description":"range of temperature variance, over which the quartz crystal device will function maintaining its specified characteristics within the specified tolerances.\nFor crystal units, the temperature shall be measured on the enclosure.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"operating_temperature_range",
 	"name":{

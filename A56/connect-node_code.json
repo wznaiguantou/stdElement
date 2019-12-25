@@ -44,7 +44,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of connect node of a component",
+	"description":"code of the type of connect node of a component.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"connect-node_code",
 	"name":{

@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"form in which a minimally-packaged device is delivered to the user",
+	"description":"form in which a minimally-packaged device is delivered to the user.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"MPD_delivery_form",
 	"name":{

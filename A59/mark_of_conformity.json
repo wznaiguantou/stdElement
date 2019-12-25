@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"legally registered certification mark applied by or issued under the procedures of a third-party certification\r\nsystem for a product or service which is in conformity with specific standards or other technical specifications",
+	"description":"legally registered certification mark applied by or issued under the procedures of a third-party certification\r\nsystem for a product or service which is in conformity with specific standards or other technical specifications.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"mark_of_conformity",
 	"name":{

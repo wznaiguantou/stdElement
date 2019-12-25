@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"impedance presented to a quartz crystal filter by its load or its source",
+	"description":"impedance presented to a quartz crystal filter by its load or its source.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"terminating_impedance",
 	"name":{

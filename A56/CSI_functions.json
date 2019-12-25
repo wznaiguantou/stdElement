@@ -224,7 +224,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of a combinatorial, sequential or interface function of an IC",
+	"description":"code of a combinatorial, sequential or interface function of an IC.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"CSI_functions",
 	"name":{

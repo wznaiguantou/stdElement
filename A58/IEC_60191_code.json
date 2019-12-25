@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code used to identify the physical features of a component package which, when used with an optional suffix can provide a unique reference to a package and associated dimension set\nThe code is made up of seven fields with separators :body shape (optional)- (hyphen separator)body material (optional)terminal position (optional)package style (mandatory)- (hyphen separator)terminal shape (optional)terminal count (optional)/\nThe body material prefix may only be used if the terminal position prefix is also present. Hyphen and solidus separators are only used when the relevant prefixes and suffixes are present",
+	"description":"code used to identify the physical features of a component package which, when used with an optional suffix can provide a unique reference to a package and associated dimension set.\nThe code is made up of seven fields with separators :body shape (optional)- (hyphen separator)body material (optional)terminal position (optional)package style (mandatory)- (hyphen separator)terminal shape (optional)terminal count (optional)/.\nThe body material prefix may only be used if the terminal position prefix is also present. Hyphen and solidus separators are only used when the relevant prefixes and suffixes are present.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"IEC_60191_code",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"variance in a Poisson probability distribution",
+	"description":"variance in a Poisson probability distribution.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"Poisson_variance_value",
 	"name":{

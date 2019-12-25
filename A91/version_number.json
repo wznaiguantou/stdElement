@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"identification number assigned to a version\nThe object number of the related object serves as domain number for the version number.",
+	"description":"identification number assigned to a version.\nThe object number of the related object serves as domain number for the version number.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"version_number",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum time interval between the instant when the contact circuit first closes (opens) and the instant when the circuit is finally closed (opened) of a relay or switch",
+	"description":"maximum time interval between the instant when the contact circuit first closes (opens) and the instant when the circuit is finally closed (opened) of a relay or switch.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"bounce_time",
 	"name":{

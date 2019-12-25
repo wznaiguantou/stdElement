@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum voltage that may exist between any two contacts or between any contact and the shell or casing of a connector",
+	"description":"maximum voltage that may exist between any two contacts or between any contact and the shell or casing of a connector.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"connector_rated_voltage",
 	"name":{

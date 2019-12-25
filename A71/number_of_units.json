@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of part instances required within a declared product\nOnly applicable to product parts.",
+	"description":"number of part instances required within a declared product.\nOnly applicable to product parts.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"number_of_units",
 	"name":{

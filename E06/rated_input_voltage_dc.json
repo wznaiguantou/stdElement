@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal direct voltage at the terminals of a dc motor",
+	"description":"nominal direct voltage at the terminals of a dc motor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"rated_input_voltage_dc",
 	"name":{

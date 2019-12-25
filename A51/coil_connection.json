@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the coil connection of a motor",
+	"description":"code of the coil connection of a motor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"coil_connection",
 	"name":{

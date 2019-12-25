@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"lower tolerance percentage of the rated capacitance of a fixed capacitor",
+	"description":"lower tolerance percentage of the rated capacitance of a fixed capacitor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"capacitance_lower_tolerance_percent",
 	"name":{

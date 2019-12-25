@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value of the repetitive peak reverse current of a rectifier diode when switched from a specified forward current to a specified reverse voltage, at specified conditions",
+	"description":"value of the repetitive peak reverse current of a rectifier diode when switched from a specified forward current to a specified reverse voltage, at specified conditions.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"repetitive_peak_reverse_current",
 	"name":{

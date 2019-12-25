@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal distance between adjacent contacts in a row of a connector with contacts in a rectangular array",
+	"description":"nominal distance between adjacent contacts in a row of a connector with contacts in a rectangular array.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"contact_pitch",
 	"name":{

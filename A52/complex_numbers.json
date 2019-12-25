@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of a feature class containing values expressed as complex numbers",
+	"description":"code of a feature class containing values expressed as complex numbers.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"complex_numbers",
 	"name":{

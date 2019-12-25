@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"distance between the centre of two adjacent pixels",
+	"description":"distance between the centre of two adjacent pixels.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"pixel_pitch",
 	"name":{

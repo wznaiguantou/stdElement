@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"name given to a terminal or pad on a die device to distinguish it from all other terminals on that device",
+	"description":"name given to a terminal or pad on a die device to distinguish it from all other terminals on that device.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"terminal_name",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum simulated programme noise voltage of a loudspeaker, of specified duration and at specified filter and mounting of loudspeaker\nAfter the maximum voltage has been applied, no thermal or mechanical damage fault may result.",
+	"description":"maximum simulated programme noise voltage of a loudspeaker, of specified duration and at specified filter and mounting of loudspeaker.\nAfter the maximum voltage has been applied, no thermal or mechanical damage fault may result.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"maximum_noise_voltage",
 	"name":{

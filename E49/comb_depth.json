@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum comb depth of a comb filter",
+	"description":"minimum comb depth of a comb filter.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"comb_depth",
 	"name":{

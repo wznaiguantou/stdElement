@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"suffix to the IEC 60191 code which may be used to distinguish among different specific\nThe suffix may consist of an IEC standard designation, a national standard designation or any other user-specified coding scheme",
+	"description":"suffix to the IEC 60191 code which may be used to distinguish among different specific.\nThe suffix may consist of an IEC standard designation, a national standard designation or any other user-specified coding scheme.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"package_identifier_code",
 	"name":{

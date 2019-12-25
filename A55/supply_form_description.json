@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of the form in which a die or wafer is supplied",
+	"description":"description of the form in which a die or wafer is supplied.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"supply_form_description",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal overall outer diagonal of the glass envelope of a display tube, used as product identification",
+	"description":"nominal overall outer diagonal of the glass envelope of a display tube, used as product identification.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"tube_size_inch",
 	"name":{

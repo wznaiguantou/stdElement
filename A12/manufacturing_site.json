@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"name or code for the location that the product was manufacured",
+	"description":"name or code for the location that the product was manufacured.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"manufacturing_site",
 	"name":{

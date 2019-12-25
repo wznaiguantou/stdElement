@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"LOW-state output voltage of a digital function of an IC at specified conditions\nOutput current has the most effect on the output saturation voltage among the conditions.",
+	"description":"LOW-state output voltage of a digital function of an IC at specified conditions.\nOutput current has the most effect on the output saturation voltage among the conditions.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"output_saturation_voltage",
 	"name":{

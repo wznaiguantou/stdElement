@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of the storage conditions for die devices that have been stored for an extended period\nThe supplier shall certify that these conditions and traceability of product stored have been maintained throughout the storage period",
+	"description":"description of the storage conditions for die devices that have been stored for an extended period.\nThe supplier shall certify that these conditions and traceability of product stored have been maintained throughout the storage period.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"long-term_storage",
 	"name":{

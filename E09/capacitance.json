@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum value of the capacitance between the electrodes of a spark gap at specified frequency and temperature",
+	"description":"maximum value of the capacitance between the electrodes of a spark gap at specified frequency and temperature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"capacitance",
 	"name":{

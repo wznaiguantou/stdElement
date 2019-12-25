@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"direct voltage applied to an electric, electronic or electromechanical component, as a variable",
+	"description":"direct voltage applied to an electric, electronic or electromechanical component, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"voltage_dc",
 	"name":{

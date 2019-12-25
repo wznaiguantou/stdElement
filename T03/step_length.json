@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal length between adjacent step positions of a linear stepping motor",
+	"description":"nominal length between adjacent step positions of a linear stepping motor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"step_length",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"illuminance of light applied to a light dependent resistor, as a variable",
+	"description":"illuminance of light applied to a light dependent resistor, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"illuminance",
 	"name":{

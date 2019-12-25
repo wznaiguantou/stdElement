@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"standardized code indicating the group of the insulating material an EM component is made from",
+	"description":"standardized code indicating the group of the insulating material an EM component is made from.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"insulating_material_group",
 	"name":{

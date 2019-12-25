@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code identifying the addressing modes of a microcontroller or microprocessor",
+	"description":"code identifying the addressing modes of a microcontroller or microprocessor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"addressing_mode",
 	"name":{

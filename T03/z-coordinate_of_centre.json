@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (miNomax) of the distance on the z-axis of the centre of a sphere",
+	"description":"value as specified by level (miNomax) of the distance on the z-axis of the centre of a sphere.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"z-coordinate_of_centre",
 	"name":{

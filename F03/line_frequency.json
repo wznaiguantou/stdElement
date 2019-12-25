@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum line frequency  which may be applied to a deflection unit for monitor tubes, at specified ambient temperature\nThe line frequency is limited by the maximum operating copper temperature of the deflection coils.",
+	"description":"maximum line frequency  which may be applied to a deflection unit for monitor tubes, at specified ambient temperature.\nThe line frequency is limited by the maximum operating copper temperature of the deflection coils.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"line_frequency",
 	"name":{

@@ -40,7 +40,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the material of the housing or shell of a connector or switch",
+	"description":"code of the material of the housing or shell of a connector or switch.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"housing_material",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"ratio of heat energy transferred per unit time and per unit surface area of the surrounding soil, divided by the temperature difference",
+	"description":"ratio of heat energy transferred per unit time and per unit surface area of the surrounding soil, divided by the temperature difference.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"thermal_conductivity_of_soil",
 	"name":{

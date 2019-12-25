@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"identification number assigned to a distinguished part of an abstract or physical space where something exists\nThe domain number may be recursively nested. A nested structure shall start from the top to the smallest domain, see IEC 62507-1.",
+	"description":"identification number assigned to a distinguished part of an abstract or physical space where something exists.\nThe domain number may be recursively nested. A nested structure shall start from the top to the smallest domain, see IEC 62507-1.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"domain_number",
 	"name":{

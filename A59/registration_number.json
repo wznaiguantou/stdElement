@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code assigned by a certification body to uniquely identify a registered product, a registrant, or declaration of conformity within the domain of the certification body",
+	"description":"code assigned by a certification body to uniquely identify a registered product, a registrant, or declaration of conformity within the domain of the certification body.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"registration_number",
 	"name":{

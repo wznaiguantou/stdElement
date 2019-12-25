@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"reason providing information why a space is considered to be a forbidden space\nIn routing applications, e.g. cabling, piping etc a forbidden space is defined as non-accessible space for other objekts",
+	"description":"reason providing information why a space is considered to be a forbidden space.\nIn routing applications, e.g. cabling, piping etc a forbidden space is defined as non-accessible space for other objekts.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"forbidden_space",
 	"name":{

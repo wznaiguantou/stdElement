@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"identifier of a terminal with respect to the object to which it belongs, related to one defined aspect",
+	"description":"identifier of a terminal with respect to the object to which it belongs, related to one defined aspect.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"terminal_designation",
 	"name":{

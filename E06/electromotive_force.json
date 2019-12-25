@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal rated induced voltage in V/(r/min) in the winding of a motor as a result of the magnetic field and the motion",
+	"description":"nominal rated induced voltage in V/(r/min) in the winding of a motor as a result of the magnetic field and the motion.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"electromotive_force",
 	"name":{

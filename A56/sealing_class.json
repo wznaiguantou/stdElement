@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code for the sealing provided to protect the slider contact area from the environment",
+	"description":"code for the sealing provided to protect the slider contact area from the environment.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"sealing_class",
 	"name":{

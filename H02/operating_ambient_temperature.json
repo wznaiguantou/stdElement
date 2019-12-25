@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"permissible ambient temperature range of a device while it is operating at the application of the specified voltage",
+	"description":"permissible ambient temperature range of a device while it is operating at the application of the specified voltage.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"operating_ambient_temperature",
 	"name":{

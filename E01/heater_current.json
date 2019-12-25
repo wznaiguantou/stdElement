@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal rms ac or dc current flowing through the heater of an electron tube",
+	"description":"nominal rms ac or dc current flowing through the heater of an electron tube.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"heater_current",
 	"name":{

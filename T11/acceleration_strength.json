@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"ability of a component to withstand specified severities of acceleration",
+	"description":"ability of a component to withstand specified severities of acceleration.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"acceleration_strength",
 	"name":{

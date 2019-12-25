@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"actual number of cells in series of a battery",
+	"description":"actual number of cells in series of a battery.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"number_of_cells_in_series",
 	"name":{

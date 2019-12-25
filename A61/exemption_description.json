@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"represents the exeptional case that is allowed by compliance standard as set by a governmental body, standards body, or corporation\nIf there is a disagreement in the data between description and identity, the description  takes precedence.",
+	"description":"represents the exeptional case that is allowed by compliance standard as set by a governmental body, standards body, or corporation.\nIf there is a disagreement in the data between description and identity, the description  takes precedence.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"exemption_description",
 	"name":{

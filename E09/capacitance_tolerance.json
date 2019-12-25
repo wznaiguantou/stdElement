@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal tolerance on capacitance identifying a capacitor\nUsed only in cases of equal positive and negative tolerance values.",
+	"description":"nominal tolerance on capacitance identifying a capacitor.\nUsed only in cases of equal positive and negative tolerance values.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"capacitance_tolerance",
 	"name":{

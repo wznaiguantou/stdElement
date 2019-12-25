@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code for the active element in a thermally-activated fuse",
+	"description":"code for the active element in a thermally-activated fuse.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"active_element",
 	"name":{

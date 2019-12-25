@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"ratio of the distance covered by a body of water surrounding the object in question and moving in a specified direction, to the time taken to cover that distance",
+	"description":"ratio of the distance covered by a body of water surrounding the object in question and moving in a specified direction, to the time taken to cover that distance.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"speed_of_ambient_water",
 	"name":{

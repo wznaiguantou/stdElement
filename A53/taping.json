@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of taping for automatic handling of products",
+	"description":"code of taping for automatic handling of products.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"taping",
 	"name":{

@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"reference to a document or file containing a graphical representation of the outline drawing for a minimally-packaged die device",
+	"description":"reference to a document or file containing a graphical representation of the outline drawing for a minimally-packaged die device.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"outline_drawing",
 	"name":{

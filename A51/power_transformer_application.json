@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code indicating the application of a fixed power transformer",
+	"description":"code indicating the application of a fixed power transformer.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"power_transformer_application",
 	"name":{

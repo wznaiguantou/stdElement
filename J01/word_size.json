@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of bits per word applying to a digital function of an IC",
+	"description":"number of bits per word applying to a digital function of an IC.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"word_size",
 	"name":{

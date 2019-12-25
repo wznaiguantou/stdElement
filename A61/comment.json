@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"additional information about the product",
+	"description":"additional information about the product.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"comment",
 	"name":{

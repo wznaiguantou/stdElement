@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code for the available accessories for relays",
+	"description":"code for the available accessories for relays.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"accessories",
 	"name":{

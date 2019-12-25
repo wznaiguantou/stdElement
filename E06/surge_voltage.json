@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minmax) of the surge voltage range for a capacitor",
+	"description":"value as specified by level (minmax) of the surge voltage range for a capacitor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"surge_voltage",
 	"name":{

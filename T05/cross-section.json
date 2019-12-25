@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal cross-sectional area of a conductive part of a conductor",
+	"description":"nominal cross-sectional area of a conductive part of a conductor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"cross-section",
 	"name":{

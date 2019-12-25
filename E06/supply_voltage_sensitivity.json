@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum absolute value of the ratio of the change in input offset voltage to the corresponding change in value of any one power-supply voltage, with all remaining power-supply voltages held constant, of an operational amplifier at reference conditions",
+	"description":"maximum absolute value of the ratio of the change in input offset voltage to the corresponding change in value of any one power-supply voltage, with all remaining power-supply voltages held constant, of an operational amplifier at reference conditions.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"supply_voltage_sensitivity",
 	"name":{

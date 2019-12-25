@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax) of the temperature of the substrate of an inductive proximity sensor",
+	"description":"value as specified by level (minTypmax) of the temperature of the substrate of an inductive proximity sensor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"substrate_temperature",
 	"name":{

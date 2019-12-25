@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"size code of a capacitor package intended for surface mounting\nThe code is formed from the nominal length followed by the nominal width both expressed in units of 0.1mm",
+	"description":"size code of a capacitor package intended for surface mounting.\nThe code is formed from the nominal length followed by the nominal width both expressed in units of 0.1mm.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"size_code",
 	"name":{

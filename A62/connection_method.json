@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the method of a connection to a liquid crystal display",
+	"description":"code of the method of a connection to a liquid crystal display.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"connection_method",
 	"name":{

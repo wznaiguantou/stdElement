@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of the type of connector shell",
+	"description":"description of the type of connector shell.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"shell_type",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"distance as specified by level (miNomax) between parallel opposite sides of a hexagonal feature",
+	"description":"distance as specified by level (miNomax) between parallel opposite sides of a hexagonal feature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"hexagon_width",
 	"name":{

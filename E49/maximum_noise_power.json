@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum noise power of a moving conductor loudspeaker calculated from the formula: maximum noise voltage squared over the rated impedance",
+	"description":"maximum noise power of a moving conductor loudspeaker calculated from the formula: maximum noise voltage squared over the rated impedance.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"maximum_noise_power",
 	"name":{

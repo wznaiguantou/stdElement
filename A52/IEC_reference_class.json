@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the main class in the IEC reference collection to which an item belongs",
+	"description":"code of the main class in the IEC reference collection to which an item belongs.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"IEC_reference_class",
 	"name":{

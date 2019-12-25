@@ -44,7 +44,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code indicating the exit position of the terminals of an electric/electronic or electromechanical component",
+	"description":"code indicating the exit position of the terminals of an electric/electronic or electromechanical component.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"terminal_exit_position_SMD",
 	"name":{

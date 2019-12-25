@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of any special or abnormal attach methods and materials, including pre-conditioning, that are required for proper assembly of a die device",
+	"description":"description of any special or abnormal attach methods and materials, including pre-conditioning, that are required for proper assembly of a die device.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"attach_methods_and_materials",
 	"name":{

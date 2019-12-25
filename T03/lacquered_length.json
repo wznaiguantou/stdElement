@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum length of the body of an electric/ electronic or electromechanical component with axial leads, including the lacquered part of the leads",
+	"description":"maximum length of the body of an electric/ electronic or electromechanical component with axial leads, including the lacquered part of the leads.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"lacquered_length",
 	"name":{

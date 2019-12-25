@@ -68,7 +68,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"IEC standard code of the temperature coefficient of the capacitance of a fixed class1 ceramic capacitor",
+	"description":"IEC standard code of the temperature coefficient of the capacitance of a fixed class1 ceramic capacitor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"temperature_coefficient_code",
 	"name":{

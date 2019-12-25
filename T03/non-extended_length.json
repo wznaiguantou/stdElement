@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal length of a capacitive antenna when all sections are in the non-extended position",
+	"description":"nominal length of a capacitive antenna when all sections are in the non-extended position.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"non-extended_length",
 	"name":{

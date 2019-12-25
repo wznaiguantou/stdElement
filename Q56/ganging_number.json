@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of variable elements (capacitors, resistors, power transformers) with a common actuating device",
+	"description":"number of variable elements (capacitors, resistors, power transformers) with a common actuating device.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"ganging_number",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"vertex number of a polygonal pad",
+	"description":"vertex number of a polygonal pad.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"vertex_number",
 	"name":{

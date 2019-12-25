@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum radial force on the spindle of a motor",
+	"description":"maximum radial force on the spindle of a motor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"maximum_radial_force",
 	"name":{

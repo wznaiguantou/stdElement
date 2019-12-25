@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code indicating whether a conductor consists of a single bare conductor or contains one or more insulated conductive parts",
+	"description":"code indicating whether a conductor consists of a single bare conductor or contains one or more insulated conductive parts.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"bare_or_insulated",
 	"name":{

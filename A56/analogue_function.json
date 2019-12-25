@@ -80,7 +80,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code identifying an analogue signal function of an IC",
+	"description":"code identifying an analogue signal function of an IC.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"analogue_function",
 	"name":{

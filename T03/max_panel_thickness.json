@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum panel thickness for which an EM component has been designed to be mounted",
+	"description":"maximum panel thickness for which an EM component has been designed to be mounted.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"max_panel_thickness",
 	"name":{

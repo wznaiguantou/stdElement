@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"limit, if it exists, of the instantaneous failure intensity z(t), when time t tends to infinity",
+	"description":"limit, if it exists, of the instantaneous failure intensity z(t), when time t tends to infinity.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"asymptotic_failure_intensity",
 	"name":{

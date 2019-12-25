@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"wavelength of the intensity of a laser photoemitter or responsivity of a photosensor, as a variable",
+	"description":"wavelength of the intensity of a laser photoemitter or responsivity of a photosensor, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"wavelength_at_peak_value",
 	"name":{

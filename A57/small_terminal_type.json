@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of small terminal",
+	"description":"code of the type of small terminal.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"small_terminal_type",
 	"name":{

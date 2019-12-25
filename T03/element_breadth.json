@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal breadth of the sensitive element(s) of an infrared radiation photosensor",
+	"description":"nominal breadth of the sensitive element(s) of an infrared radiation photosensor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"element_breadth",
 	"name":{

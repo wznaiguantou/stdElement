@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"date associated with a group of specimens considered as one object to identify the specimens that will expire together for being used and being produced formerly under assumed identical conditions and in a limited time interval\nNotation following YYYY-MM-DD",
+	"description":"date associated with a group of specimens considered as one object to identify the specimens that will expire together for being used and being produced formerly under assumed identical conditions and in a limited time interval.\nNotation following YYYY-MM-DD.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"expiration_date",
 	"name":{

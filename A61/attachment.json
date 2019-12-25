@@ -65,7 +65,7 @@
 	"dataType":"struct",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"supplementary file added to the declaration",
+	"description":"supplementary file added to the declaration.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"attachment",
 	"name":{

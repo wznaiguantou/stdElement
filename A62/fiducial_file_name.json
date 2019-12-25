@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"name of a file containing an image of the fiducial on the die device",
+	"description":"name of a file containing an image of the fiducial on the die device.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"fiducial_file_name",
 	"name":{

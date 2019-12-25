@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of linearity class to which a fixed resistor belongs",
+	"description":"code of linearity class to which a fixed resistor belongs.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"linearity_of_a_fixed_resistor",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"rounded nominal diameter of the centre pole of a moving conductor loudspeaker",
+	"description":"rounded nominal diameter of the centre pole of a moving conductor loudspeaker.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"centre_pole_diameter",
 	"name":{

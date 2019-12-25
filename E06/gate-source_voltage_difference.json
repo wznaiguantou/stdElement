@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum absolute value of the difference in direct gate-source voltages of a dual field-effect transistor at specified drain current and drain-gate voltage",
+	"description":"maximum absolute value of the difference in direct gate-source voltages of a dual field-effect transistor at specified drain current and drain-gate voltage.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"gate-source_voltage_difference",
 	"name":{

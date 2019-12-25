@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax) of the gate-source cut-off voltage of a depletion field-effect transistor at specified drain current, drain-source voltage and temperature of a temperature type",
+	"description":"value as specified by level (minTypmax) of the gate-source cut-off voltage of a depletion field-effect transistor at specified drain current, drain-source voltage and temperature of a temperature type.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"gate-source_cut-off_voltage",
 	"name":{

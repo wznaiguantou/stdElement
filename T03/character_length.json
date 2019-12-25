@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal length of a character of a liquid crystal display module\nThe length is measured in the horizontal direction.",
+	"description":"nominal length of a character of a liquid crystal display module.\nThe length is measured in the horizontal direction.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"character_length",
 	"name":{

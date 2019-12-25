@@ -44,7 +44,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code for the type of printed wiring circuit or board",
+	"description":"code for the type of printed wiring circuit or board.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"printed_circuit_type",
 	"name":{

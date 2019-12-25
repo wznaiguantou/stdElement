@@ -48,7 +48,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code indicating the type of basic elements which an LF cable contains",
+	"description":"code indicating the type of basic elements which an LF cable contains.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"LF_cable_element",
 	"name":{

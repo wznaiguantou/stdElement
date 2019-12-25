@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"diameter as specified by level (miNomax) of a threaded terminal",
+	"description":"diameter as specified by level (miNomax) of a threaded terminal.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"terminal_thread_diameter",
 	"name":{

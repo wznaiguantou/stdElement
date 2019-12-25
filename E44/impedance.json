@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum value of the modulus of impedance of an inductor at specified frequency\nApplies to beads threaded on a straight copper wire.",
+	"description":"minimum value of the modulus of impedance of an inductor at specified frequency.\nApplies to beads threaded on a straight copper wire.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"impedance",
 	"name":{

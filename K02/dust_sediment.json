@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"accumulation of rock and mineral particles transported by wind",
+	"description":"accumulation of rock and mineral particles transported by wind.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"dust_sediment",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"permissible power which may be dissipated continuously, at specified conditions",
+	"description":"permissible power which may be dissipated continuously, at specified conditions.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"power_dissipation",
 	"name":{

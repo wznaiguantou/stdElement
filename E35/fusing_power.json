@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum power that make will ensure that a fusing resistor blows in the specified period of time",
+	"description":"minimum power that make will ensure that a fusing resistor blows in the specified period of time.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"fusing_power",
 	"name":{

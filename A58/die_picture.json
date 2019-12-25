@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"reference to a file or document containing a picture of the die which shows the positions of all pads",
+	"description":"reference to a file or document containing a picture of the die which shows the positions of all pads.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"die_picture",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum dc current of an electric-electronic or electromechanical component at specified ambient temperature",
+	"description":"maximum dc current of an electric-electronic or electromechanical component at specified ambient temperature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"current_dc",
 	"name":{

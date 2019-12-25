@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum clamping voltage across a varistor when, at reference conditions, a specified pulse current, with specified virtual front time and virtual time to half-value, is passed through the varistor",
+	"description":"maximum clamping voltage across a varistor when, at reference conditions, a specified pulse current, with specified virtual front time and virtual time to half-value, is passed through the varistor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"maximum_clamping_voltage",
 	"name":{

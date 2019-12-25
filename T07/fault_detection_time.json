@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"time interval between failure and detection of the resulting fault\nSee Figures 1 and 2 in the IEV 192-07-11:2015-02",
+	"description":"time interval between failure and detection of the resulting fault.\nSee Figures 1 and 2 in the IEV 192-07-11:2015-02.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"fault_detection_time",
 	"name":{

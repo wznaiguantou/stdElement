@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (miNomax) of the open circuit voltage of a battery",
+	"description":"value as specified by level (miNomax) of the open circuit voltage of a battery.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"open-circuit_voltage",
 	"name":{

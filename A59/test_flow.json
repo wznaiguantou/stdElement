@@ -32,7 +32,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code for the basic test procedures applied to a die or wafer",
+	"description":"code for the basic test procedures applied to a die or wafer.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"test_flow",
 	"name":{

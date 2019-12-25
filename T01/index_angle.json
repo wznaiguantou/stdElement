@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"angle as specified by level (miNomax) of a chamfer used as an index feature",
+	"description":"angle as specified by level (miNomax) of a chamfer used as an index feature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"index_angle",
 	"name":{

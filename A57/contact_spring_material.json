@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the material of the spring of the contacts of a connector, relay or switch",
+	"description":"code of the material of the spring of the contacts of a connector, relay or switch.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"contact_spring_material",
 	"name":{

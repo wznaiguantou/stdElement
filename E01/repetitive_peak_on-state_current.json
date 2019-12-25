@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum limiting peak on-state current, including all repetitive transient currents, in a triac or thyristor",
+	"description":"maximum limiting peak on-state current, including all repetitive transient currents, in a triac or thyristor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"repetitive_peak_on-state_current",
 	"name":{

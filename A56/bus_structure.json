@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code identifying the bus structure of a microprocessor",
+	"description":"code identifying the bus structure of a microprocessor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"bus_structure",
 	"name":{

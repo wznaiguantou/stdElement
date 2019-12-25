@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"dominating  horizontal direction of the movement of the waves with the highest probability of occurrence\nWave and wind direction is expressed as ‘coming from’.\nIn practice the direction is applied in textual form either by abbreviations of the geographic directions or in full text instead of being applied in nautical degree, i.e. degree relative to true north positive clockwise.",
+	"description":"dominating  horizontal direction of the movement of the waves with the highest probability of occurrence.\nWave and wind direction is expressed as ‘coming from’.\nIn practice the direction is applied in textual form either by abbreviations of the geographic directions or in full text instead of being applied in nautical degree, i.e. degree relative to true north positive clockwise.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"mean_wave_direction",
 	"name":{

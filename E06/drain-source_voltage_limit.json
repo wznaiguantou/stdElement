@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum limiting direct voltage between drain and source terminals of a field-effect transistor",
+	"description":"maximum limiting direct voltage between drain and source terminals of a field-effect transistor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"drain-source_voltage_limit",
 	"name":{

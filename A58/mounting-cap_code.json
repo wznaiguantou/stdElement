@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the mounting cap of a lamp",
+	"description":"code of the mounting cap of a lamp.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"mounting-cap_code",
 	"name":{

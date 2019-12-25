@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code indicating the typical use of a connector",
+	"description":"code indicating the typical use of a connector.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"connector_style",
 	"name":{

@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code or designation given by a manufacturer to the schedule of tests applied to assess the performance characteristics and to conduct burn-in for a die",
+	"description":"code or designation given by a manufacturer to the schedule of tests applied to assess the performance characteristics and to conduct burn-in for a die.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"die_test_level_code",
 	"name":{

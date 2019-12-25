@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"designation of a municipality, village, town or city",
+	"description":"designation of a municipality, village, town or city.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"town",
 	"name":{

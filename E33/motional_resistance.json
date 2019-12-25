@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"resistance in the motional series arm of the equivalent circuit",
+	"description":"resistance in the motional series arm of the equivalent circuit.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"motional_resistance",
 	"name":{

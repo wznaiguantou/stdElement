@@ -32,7 +32,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of single linear resistor",
+	"description":"code of the type of single linear resistor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"single_resistor_type",
 	"name":{

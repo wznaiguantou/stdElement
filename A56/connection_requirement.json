@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"requirement for electrical connection to the die substrate",
+	"description":"requirement for electrical connection to the die substrate.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"connection_requirement",
 	"name":{

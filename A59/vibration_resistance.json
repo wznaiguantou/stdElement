@@ -44,7 +44,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code for the resistance of a relay to vibration for a specified pulse duration at specified test criteria\nThe values listed represent the vibration amplitude below and - separated by a slash - the acceleration above the transition frequency (between 57 and 62 Hz).",
+	"description":"code for the resistance of a relay to vibration for a specified pulse duration at specified test criteria.\nThe values listed represent the vibration amplitude below and - separated by a slash - the acceleration above the transition frequency (between 57 and 62 Hz).",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"vibration_resistance",
 	"name":{

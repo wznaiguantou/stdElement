@@ -44,7 +44,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"EIcode of the base type of a display tube",
+	"description":"EIcode of the base type of a display tube.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"base_type",
 	"name":{

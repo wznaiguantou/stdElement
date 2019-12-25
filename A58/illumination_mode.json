@@ -32,7 +32,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the illumination and image mode of a liquid crystal display\nThe mode in which the relevant data are made visible, viz:|  Reflective:   ambient light reflected by a diffuse reflector in the LCD.|Transmissive:   display lit from behind by an artificial light source.|Transflective:   combination of both above.|Positive:   image is black and remaining display area is grey when ON.|Negative:   image is grey and remaining display area is black when ON.",
+	"description":"code of the illumination and image mode of a liquid crystal display.\nThe mode in which the relevant data are made visible, viz:|  Reflective:   ambient light reflected by a diffuse reflector in the LCD.|Transmissive:   display lit from behind by an artificial light source.|Transflective:   combination of both above.|Positive:   image is black and remaining display area is grey when ON.|Negative:   image is grey and remaining display area is black when ON.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"illumination_mode",
 	"name":{

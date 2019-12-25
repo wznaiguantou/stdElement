@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code identifying a RAM function of an IC",
+	"description":"code identifying a RAM function of an IC.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"RAM_type",
 	"name":{

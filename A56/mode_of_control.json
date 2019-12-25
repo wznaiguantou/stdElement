@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the mode of control of a function of an IC",
+	"description":"code of the mode of control of a function of an IC.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"mode_of_control",
 	"name":{

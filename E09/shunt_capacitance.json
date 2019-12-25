@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"capacitance in parallel with the motional arm of the equivalent circuit",
+	"description":"capacitance in parallel with the motional arm of the equivalent circuit.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"shunt_capacitance",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum value of nominal capacitance of a capacitor that is available within a specific E-series",
+	"description":"minimum value of nominal capacitance of a capacitor that is available within a specific E-series.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"min_range_value",
 	"name":{

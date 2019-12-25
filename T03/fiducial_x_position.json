@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal value of the x coordinate of the geometric centre of a fiducial referred to the geometric origin of the die as origin",
+	"description":"nominal value of the x coordinate of the geometric centre of a fiducial referred to the geometric origin of the die as origin.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"fiducial_x_position",
 	"name":{

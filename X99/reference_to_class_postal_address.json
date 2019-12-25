@@ -97,7 +97,7 @@
 	"dataType":"struct",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"relation to the specified class postal address",
+	"description":"relation to the specified class postal address.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"reference_to_class_postal_address",
 	"name":{

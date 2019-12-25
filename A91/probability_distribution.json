@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"function giving the probability that a random variable takes any given value or belongs to a given set of values\nprobability on the whole set of values of the random variable equals 1.",
+	"description":"function giving the probability that a random variable takes any given value or belongs to a given set of values.\nprobability on the whole set of values of the random variable equals 1.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"probability_distribution",
 	"name":{

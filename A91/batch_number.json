@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"identification number assigned to a group of specimens considered as one object to identify the specimens that are manufactured together under assumed identical conditions and in a limited time interval",
+	"description":"identification number assigned to a group of specimens considered as one object to identify the specimens that are manufactured together under assumed identical conditions and in a limited time interval.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"batch_number",
 	"name":{

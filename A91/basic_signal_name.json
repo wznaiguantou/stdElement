@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"short description of the active signal defining the special function of the signal, normally using standardized abbreviations or codes",
+	"description":"short description of the active signal defining the special function of the signal, normally using standardized abbreviations or codes.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"basic_signal_name",
 	"name":{

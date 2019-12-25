@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of an image pickup device",
+	"description":"code of the type of an image pickup device.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"image_pickup_device_type",
 	"name":{

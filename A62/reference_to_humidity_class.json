@@ -61,7 +61,7 @@
 	"dataType":"struct",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"relation to the specified class humidity",
+	"description":"relation to the specified class humidity.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"reference_to_humidity_class",
 	"name":{

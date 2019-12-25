@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"expectation of the operating time to first failure\nNote 1 See also operating time to first failure (192-05-02). \r\n\r\nNote 2 For non-repairable items, the MTTFF is also the MTTF. \r\n\r\nNote 3 Term 'mean' is used as synonym  to the term arithmetic mean",
+	"description":"expectation of the operating time to first failure.\nNote 1 See also operating time to first failure (192-05-02). \r\n\r\nNote 2 For non-repairable items, the MTTFF is also the MTTF. \r\n\r\nNote 3 Term 'mean' is used as synonym  to the term arithmetic mean.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"mean_operating_time_to_first_failure",
 	"name":{

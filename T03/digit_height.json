@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal height of a digit of a liquid crystal display\nThe height is measured in the vertical direction.",
+	"description":"nominal height of a digit of a liquid crystal display.\nThe height is measured in the vertical direction.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"digit_height",
 	"name":{

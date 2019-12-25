@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax) of the direct supply current applied to an amplifier at specified supply voltage and temperature of a temperature type",
+	"description":"value as specified by level (minTypmax) of the direct supply current applied to an amplifier at specified supply voltage and temperature of a temperature type.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"current_consumption",
 	"name":{

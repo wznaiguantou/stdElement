@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"required minimum current derating factor of an electric-electronic or electromechanical component, for a  specified ambient temperature higher than the rated temperature\nThe derating factor (< 1) indicates the required reduction of the maximum ocurring current ( (rated current) above the rated ambient temperature avoiding the overheating of the component. In such case, the thermal power loss corresponds to the value as if operating the component  with rated current at rated ambient temperature.\nreplaces AAE905 dissipation derating factor",
+	"description":"required minimum current derating factor of an electric-electronic or electromechanical component, for a  specified ambient temperature higher than the rated temperature.\nThe derating factor (< 1) indicates the required reduction of the maximum ocurring current ( (rated current) above the rated ambient temperature avoiding the overheating of the component. In such case, the thermal power loss corresponds to the value as if operating the component  with rated current at rated ambient temperature.\nreplaces AAE905 dissipation derating factor.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"current_derating_factor",
 	"name":{

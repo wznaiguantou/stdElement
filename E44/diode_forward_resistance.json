@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax) of the series resistance of a signal diode or variable capacitance diode at specified frequency and forward current",
+	"description":"value as specified by level (minTypmax) of the series resistance of a signal diode or variable capacitance diode at specified frequency and forward current.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"diode_forward_resistance",
 	"name":{

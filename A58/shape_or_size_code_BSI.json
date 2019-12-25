@@ -164,7 +164,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"BSI code of the shape/size of an electric-electronic or electromechanical component for placement on printed circuits\nThe complete code consists of three parts:| a) a two-letter drawing code, followed by| b) a numeric code giving a salient property, which may be either a major dimension or the number of leads, followed by| c) a hyphen and a serial number to distinguish components with the same drawing and numeric codes.| For reference drawings see source document.",
+	"description":"BSI code of the shape/size of an electric-electronic or electromechanical component for placement on printed circuits.\nThe complete code consists of three parts:| a) a two-letter drawing code, followed by| b) a numeric code giving a salient property, which may be either a major dimension or the number of leads, followed by| c) a hyphen and a serial number to distinguish components with the same drawing and numeric codes.| For reference drawings see source document.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"shape_or_size_code_BSI",
 	"name":{

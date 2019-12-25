@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"overall width, as specified by level (miNomax), in the package width direction which includes the package width and any terminals which are bent to be perpendicular to the seating plane",
+	"description":"overall width, as specified by level (miNomax), in the package width direction which includes the package width and any terminals which are bent to be perpendicular to the seating plane.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"mounted_width",
 	"name":{

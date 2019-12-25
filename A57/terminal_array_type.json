@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of terminal array",
+	"description":"code of the type of terminal array.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"terminal_array_type",
 	"name":{

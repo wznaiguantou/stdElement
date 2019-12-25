@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (miNomax) of the inductance of an inductive antenna, inductor, motor or transformer at specified frequency\nFor antennas, f = 10 kHz.",
+	"description":"value as specified by level (miNomax) of the inductance of an inductive antenna, inductor, motor or transformer at specified frequency.\nFor antennas, f = 10 kHz.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"inductance",
 	"name":{

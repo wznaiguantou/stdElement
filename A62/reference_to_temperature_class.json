@@ -89,7 +89,7 @@
 	"dataType":"struct",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"relation to the specified class temperature",
+	"description":"relation to the specified class temperature.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"reference_to_temperature_class",
 	"name":{

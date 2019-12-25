@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"person's forenames other than the first name",
+	"description":"person's forenames other than the first name.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"middle_name",
 	"name":{

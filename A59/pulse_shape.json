@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code for the shape of the pulse for dielectric pulse tests on relays",
+	"description":"code for the shape of the pulse for dielectric pulse tests on relays.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"pulse_shape",
 	"name":{

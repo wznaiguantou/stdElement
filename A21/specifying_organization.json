@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"name or abreviation of the authority or organization being in charge of the referred specification document\nProperty to be used in conjunction with ADA081",
+	"description":"name or abreviation of the authority or organization being in charge of the referred specification document.\nProperty to be used in conjunction with ADA081.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"specifying_organization",
 	"name":{

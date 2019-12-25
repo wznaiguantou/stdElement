@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum rms voltage, applied between the specified conductive parts of a relay, which does not cause breakdown\nOvervoltage categories I, II, III and IV are used.",
+	"description":"minimum rms voltage, applied between the specified conductive parts of a relay, which does not cause breakdown.\nOvervoltage categories I, II, III and IV are used.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"rms_withstand_voltage",
 	"name":{

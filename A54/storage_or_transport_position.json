@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"designed geometrical orientation of the packed object by the manufacturer during transportation or storage\nThe orientation during transport or storage of an object is normally indicated outside at the package by grafical symbols",
+	"description":"designed geometrical orientation of the packed object by the manufacturer during transportation or storage.\nThe orientation during transport or storage of an object is normally indicated outside at the package by grafical symbols.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"storage_or_transport_position",
 	"name":{

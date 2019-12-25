@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (minTypmax) of the direct collector current in a photosensor transistor at open base and zero irradiance and specified values of collector-emitter voltage and temperature of a temperature type\nCalled dark collector current if irradiance is zero.",
+	"description":"value as specified by level (minTypmax) of the direct collector current in a photosensor transistor at open base and zero irradiance and specified values of collector-emitter voltage and temperature of a temperature type.\nCalled dark collector current if irradiance is zero.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"collector_cut-off_current_dark",
 	"name":{

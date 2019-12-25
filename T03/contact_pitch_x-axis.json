@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value of the contact pitch of a connector in the x-direction",
+	"description":"value of the contact pitch of a connector in the x-direction.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"contact_pitch_x-axis",
 	"name":{

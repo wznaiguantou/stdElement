@@ -32,7 +32,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of a signal transformer",
+	"description":"code of the type of a signal transformer.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"signal_transformer_type",
 	"name":{

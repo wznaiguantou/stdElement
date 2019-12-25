@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (miNomax) of the length of the right angular wedge along the placement X-axis",
+	"description":"value as specified by level (miNomax) of the length of the right angular wedge along the placement X-axis.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"wedge_x-size",
 	"name":{

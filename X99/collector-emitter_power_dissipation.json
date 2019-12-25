@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum power of an electric-electronic or electromechanical component which may be dissipated continuously at specified case temperature",
+	"description":"maximum power of an electric-electronic or electromechanical component which may be dissipated continuously at specified case temperature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"collector-emitter_power_dissipation",
 	"name":{

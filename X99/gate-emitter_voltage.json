@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum allowable voltage between the gate and the emitter with the collector emitter short-circuited",
+	"description":"maximum allowable voltage between the gate and the emitter with the collector emitter short-circuited.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"gate-emitter_voltage",
 	"name":{

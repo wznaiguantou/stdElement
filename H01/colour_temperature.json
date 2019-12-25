@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"colour temperature of light applied to a light dependent resistor, as a variable",
+	"description":"colour temperature of light applied to a light dependent resistor, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"colour_temperature",
 	"name":{

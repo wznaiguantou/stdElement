@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code identifying a register function of an IC",
+	"description":"code identifying a register function of an IC.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"register_type",
 	"name":{

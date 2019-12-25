@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (miNomax) of the modulus of the impedance of a capacitor at a specified frequency",
+	"description":"value as specified by level (miNomax) of the modulus of the impedance of a capacitor at a specified frequency.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"impedance_of_a_capacitor",
 	"name":{

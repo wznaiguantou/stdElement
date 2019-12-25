@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value stating substance contained in product is above or below stated threshold\n“Not Applicable” or other explanatory text can be put in the “Comment” attribute field.",
+	"description":"value stating substance contained in product is above or below stated threshold.\n“Not Applicable” or other explanatory text can be put in the “Comment” attribute field.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"substance_above_threshold_level",
 	"name":{

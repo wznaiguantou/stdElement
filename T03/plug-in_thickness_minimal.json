@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum mateable PCB thickness an edge connector is designed for, including all layers, cladding and surfacing",
+	"description":"minimum mateable PCB thickness an edge connector is designed for, including all layers, cladding and surfacing.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"plug-in_thickness_minimal",
 	"name":{

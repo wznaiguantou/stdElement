@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum collector current at which the collector-emitter and base-emitter saturation voltages of a switching bipolar transistor are given at specified dc saturation current gain and ambient temperature\nAt I_Csat the switching properties should also be characterised in a resistive circuit (t_d, t_r, t_s and t_f) using the same value for +I_B and -I_B as the base current used for V_Cesat and V_Besat.",
+	"description":"maximum collector current at which the collector-emitter and base-emitter saturation voltages of a switching bipolar transistor are given at specified dc saturation current gain and ambient temperature.\nAt I_Csat the switching properties should also be characterised in a resistive circuit (t_d, t_r, t_s and t_f) using the same value for +I_B and -I_B as the base current used for V_Cesat and V_Besat.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"collector_saturation_current",
 	"name":{

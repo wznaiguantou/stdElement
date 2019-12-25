@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"ability of a component to withstand specified severities of bump",
+	"description":"ability of a component to withstand specified severities of bump.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"bump_resistance",
 	"name":{

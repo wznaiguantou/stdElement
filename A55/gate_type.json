@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code indicating the type of gate of a field-effect transistor",
+	"description":"code indicating the type of gate of a field-effect transistor.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"gate_type",
 	"name":{

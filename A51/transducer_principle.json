@@ -40,7 +40,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the transducer principle of a loudspeaker",
+	"description":"code of the transducer principle of a loudspeaker.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"transducer_principle",
 	"name":{

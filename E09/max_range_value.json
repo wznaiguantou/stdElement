@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum value of nominal capacitance of a capacitor that is available within a specific E-series",
+	"description":"maximum value of nominal capacitance of a capacitor that is available within a specific E-series.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"max_range_value",
 	"name":{

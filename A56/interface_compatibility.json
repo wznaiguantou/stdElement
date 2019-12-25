@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"interface compatibility of the digital IC inputs and outputs with the peripheral circuits",
+	"description":"interface compatibility of the digital IC inputs and outputs with the peripheral circuits.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"interface_compatibility",
 	"name":{

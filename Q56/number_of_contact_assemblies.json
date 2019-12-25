@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of contact assemblies of a relay or switch",
+	"description":"number of contact assemblies of a relay or switch.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"number_of_contact_assemblies",
 	"name":{

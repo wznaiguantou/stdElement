@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of input configuration, identifying a voltage amplifier",
+	"description":"code of the type of input configuration, identifying a voltage amplifier.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"input_configuration",
 	"name":{

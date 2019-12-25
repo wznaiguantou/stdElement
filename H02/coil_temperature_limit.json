@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum permissible mean temperature of the coil of a relay under steady-state conditions",
+	"description":"maximum permissible mean temperature of the coil of a relay under steady-state conditions.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"coil_temperature_limit",
 	"name":{

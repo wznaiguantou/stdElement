@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal angular distance between adjacent positions of a switch with rotary operation",
+	"description":"nominal angular distance between adjacent positions of a switch with rotary operation.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"angular_travel",
 	"name":{

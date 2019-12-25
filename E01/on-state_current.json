@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"dc on-state current flowing from anode to cathode in a thyristor or triac, as a variable",
+	"description":"dc on-state current flowing from anode to cathode in a thyristor or triac, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"on-state_current",
 	"name":{

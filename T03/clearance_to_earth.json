@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum clearance to earth of a power transformer",
+	"description":"minimum clearance to earth of a power transformer.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"clearance_to_earth",
 	"name":{

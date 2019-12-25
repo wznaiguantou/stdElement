@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value of the cross-sectional area of the maximum connectable conductor (rigid or flexible)",
+	"description":"value of the cross-sectional area of the maximum connectable conductor (rigid or flexible).",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"rated_cross-sectional_area",
 	"name":{

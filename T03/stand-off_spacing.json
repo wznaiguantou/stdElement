@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"linear spacing as specified by level (miMomax) between true positions of centres of stand-offs",
+	"description":"linear spacing as specified by level (miMomax) between true positions of centres of stand-offs.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"stand-off_spacing",
 	"name":{

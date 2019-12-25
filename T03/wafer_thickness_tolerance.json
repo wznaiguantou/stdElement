@@ -4,7 +4,7 @@
 	"dataType":"float",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"nominal tolerance on the thickness of a semiconductor wafer containing die devices",
+	"description":"nominal tolerance on the thickness of a semiconductor wafer containing die devices.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"wafer_thickness_tolerance",
 	"name":{

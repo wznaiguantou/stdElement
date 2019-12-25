@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"overall length, as specified by level (miNomax), in the package length direction which includes the package length and any terminals which are bent to be perpendicular to the seating plane",
+	"description":"overall length, as specified by level (miNomax), in the package length direction which includes the package length and any terminals which are bent to be perpendicular to the seating plane.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"mounted_length",
 	"name":{

@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code for the conductive parts of a relay across which a test voltage is applied or between which insulation resistance, clearances or creepage distances are to be evaluated",
+	"description":"code for the conductive parts of a relay across which a test voltage is applied or between which insulation resistance, clearances or creepage distances are to be evaluated.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"conductive_parts_involved",
 	"name":{

@@ -16,7 +16,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the quality grade (determined by the permissible storage temperature range) of a liquid crystal display",
+	"description":"code of the quality grade (determined by the permissible storage temperature range) of a liquid crystal display.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"quality_grade",
 	"name":{

@@ -76,7 +76,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"abbreviated name of the office which has approved the safety of an electric, electronic or electromechanical component",
+	"description":"abbreviated name of the office which has approved the safety of an electric, electronic or electromechanical component.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"safety_approval",
 	"name":{

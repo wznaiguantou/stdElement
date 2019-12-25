@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"description of the method of sealing of a switch",
+	"description":"description of the method of sealing of a switch.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"sealing",
 	"name":{

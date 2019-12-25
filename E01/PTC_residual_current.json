@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"maximum residual current of a PTC thermistor at specified ac voltage and ambient temperature",
+	"description":"maximum residual current of a PTC thermistor at specified ac voltage and ambient temperature.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"PTC_residual_current",
 	"name":{

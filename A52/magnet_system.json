@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of magnet system of a relay",
+	"description":"code of the type of magnet system of a relay.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"magnet_system",
 	"name":{

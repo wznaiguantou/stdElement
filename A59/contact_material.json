@@ -76,7 +76,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the material forming the contact points of a relay",
+	"description":"code of the material forming the contact points of a relay.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"contact_material",
 	"name":{

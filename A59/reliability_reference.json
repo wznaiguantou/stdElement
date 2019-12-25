@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"reference to a document or other source which contains further information on making, using and extrapolating a reliability estimate",
+	"description":"reference to a document or other source which contains further information on making, using and extrapolating a reliability estimate.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"reliability_reference",
 	"name":{

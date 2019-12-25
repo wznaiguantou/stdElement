@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of separate sites on a pad to which bonds can and should be made",
+	"description":"number of separate sites on a pad to which bonds can and should be made.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"number_of_bond_sites",
 	"name":{

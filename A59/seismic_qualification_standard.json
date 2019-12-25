@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"reference to the international standard used for the earthquake engineering of components\nfor example IEEE 693, IEC 61463, IEC 62271-207",
+	"description":"reference to the international standard used for the earthquake engineering of components.\nfor example IEEE 693, IEC 61463, IEC 62271-207.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"seismic_qualification_standard",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"date",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"no order for documentation or updates thereof will be accepted beyond this date",
+	"description":"no order for documentation or updates thereof will be accepted beyond this date.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"order_stop_of_customer_documentation",
 	"name":{

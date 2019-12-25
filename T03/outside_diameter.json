@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"value as specified by level (miNomax) of the outside diameter of a component with a body of circular cross-section",
+	"description":"value as specified by level (miNomax) of the outside diameter of a component with a body of circular cross-section.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"outside_diameter",
 	"name":{

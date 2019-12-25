@@ -68,7 +68,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"IEC code of the colour of a connector housing",
+	"description":"IEC code of the colour of a connector housing.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"housing_colour",
 	"name":{

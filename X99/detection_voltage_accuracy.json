@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"absolute value of the error in the threshold value of the voltage at the falling edge that generates a reset signal",
+	"description":"absolute value of the error in the threshold value of the voltage at the falling edge that generates a reset signal.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"detection_voltage_accuracy",
 	"name":{

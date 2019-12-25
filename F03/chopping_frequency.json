@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"number of interruptions  of a light beam at regular intervals, applied to an optoelectronic device, as a variable",
+	"description":"number of interruptions  of a light beam at regular intervals, applied to an optoelectronic device, as a variable.",
 	"elementType":["MEASUREPOINT"],
 	"identifier":"chopping_frequency",
 	"name":{

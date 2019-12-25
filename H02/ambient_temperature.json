@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"temperature of the air or other media in the immediate vicinity of the apparatus or component",
+	"description":"temperature of the air or other media in the immediate vicinity of the apparatus or component.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"ambient_temperature",
 	"name":{

@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"absolute maximum value of the current that should flow through a single bond site on a supply pad",
+	"description":"absolute maximum value of the current that should flow through a single bond site on a supply pad.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"pad_supply_current",
 	"name":{

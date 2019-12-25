@@ -28,7 +28,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the type of application of a diode",
+	"description":"code of the type of application of a diode.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"diode_application",
 	"name":{

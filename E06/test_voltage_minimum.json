@@ -4,7 +4,7 @@
 	"dataType":"int",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"minimum value of the dc voltage which the insulation of an insulated conductor can withstand",
+	"description":"minimum value of the dc voltage which the insulation of an insulated conductor can withstand.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"test_voltage_minimum",
 	"name":{

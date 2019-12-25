@@ -4,7 +4,7 @@
 	"dataType":"double",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"length as specified by level (miNomax) of a zone in the direction of the package length which includes the package length, package irregularities and the uncontrolled part of any terminals which are presented for mounting in the length direction",
+	"description":"length as specified by level (miNomax) of a zone in the direction of the package length which includes the package length, package irregularities and the uncontrolled part of any terminals which are presented for mounting in the length direction.",
 	"elementType":["ATTRIBUTE","MEASUREPOINT"],
 	"identifier":"package_length_zone",
 	"name":{

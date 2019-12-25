@@ -24,7 +24,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the performance class of a connector\nPerformance class is the combination of mechanical endurance and climatic category.| performance class...mechanical endurance...climatic category...min/max/days| 1....................................500......................................55/125/56| 1a..................................500......................................65/125/65| 2....................................400......................................55/125/00| 3....................................50.........................................55/125/00",
+	"description":"code of the performance class of a connector.\nPerformance class is the combination of mechanical endurance and climatic category.| performance class...mechanical endurance...climatic category...min/max/days| 1....................................500......................................55/125/56| 1a..................................500......................................65/125/65| 2....................................400......................................55/125/00| 3....................................50.........................................55/125/00.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"performance_class",
 	"name":{

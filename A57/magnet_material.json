@@ -20,7 +20,7 @@
 	"dataType":"enum",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"code of the material type of the magnet of a moving conductor loudspeaker",
+	"description":"code of the material type of the magnet of a moving conductor loudspeaker.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"magnet_material",
 	"name":{

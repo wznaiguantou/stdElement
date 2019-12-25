@@ -6,7 +6,7 @@
 	"dataType":"string",
 	"defaultValue":null,
 	"deprecated":false,
-	"description":"designation of the thread of a terminal",
+	"description":"designation of the thread of a terminal.",
 	"elementType":["ATTRIBUTE"],
 	"identifier":"terminal_thread",
 	"name":{
