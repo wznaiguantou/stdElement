@@ -92,7 +92,6 @@
 0d67e07cb8159dd07a885839e86d4ac0 *./X99/gate-emitter_leakage_current.json
 0d68135cf967e3e5199d4beb35745f1b *./E45/transfer_conductance.json
 0daba67081d7226a5e2fa11b455bcf4c *./E01/making_capacity.json
-0db1bfe6d9a315f7526bb9d0c920b208 *./md5sum.txt
 0dd8d92ca211aa6e246e9f0faad53ffb *./T03/clearance_contact_to_ground.json
 0de5fb6d95726e95d72eef51ce364c27 *./T03/secondary_terminal_length.json
 0dfaa9ec52a07acc04188a12da974bed *./E06/operating_voltage.json
@@ -121,7 +120,6 @@
 11658af98854e044fda280e4e35ae51b *./H02/category_temperature.json
 1165cb7f636206302b5dee85af7a1efa *./E01/repetitive_peak_output_current.json
 1188793d4e76ed39f49eee0391227049 *./F03/chopping_frequency.json
-119887754cf2f0016a53608c7d2d04be *./version
 11cb2e5b49666f4e32b00dea941eef54 *./A62/reference_to_Date_and_time.json
 11e033d8f8522bc618c8c5c39f2a70e8 *./A56/group_name.json
 1269bf5716b3cf6553c5e3b948554506 *./E06/input_standing_wave_ratio.json
@@ -260,7 +258,6 @@
 241c86f9a1ceed952390be5ec2ad2cd3 *./A59/soldering_conditions.json
 242c0539b6e93fddbd52c423ea25340d *./T03/potentiometer_size.json
 2464e223c9d9c033734d451a34af70cd *./T07/maintenance_time.json
-24742e734b568c3f23d56498828ad0f3 *./.idea/stdElement.iml
 247ac2305b3bd7ae4705802098f4b8f7 *./A59/test_maturity_code.json
 249c1628bc548d4afcce2a579ed545d2 *./E01/current_rms.json
 24aa2cd3a6bb3dc1d311f18efadd5d92 *./A61/exemption_description.json
@@ -1174,7 +1171,6 @@
 9b505bde1cc093cbb178f1b727d55f7a *./T07/design_storm_duration.json
 9b5692affc079a7b10a28320b73a183b *./A59/residual_predicted_operation_time_of_an_item.json
 9b680f5644fb2d9c0370591e8ce6cc57 *./E09/capacitance_between_conductors.json
-9be0172d836a6f9740062f8ec447c71a *./.idea/workspace.xml
 9c5f0acaa982dd20fc567421460ede22 *./X99/output_current_range.json
 9c9540bc2c8c3bcb8240ed9d09993f58 *./X99/reading_time_from_cell.json
 9d0af1c0ab6d1213925029183231d2f0 *./Q56/number_of_studs.json
@@ -1259,7 +1255,6 @@ a852b7c917d78fe29219b9ba7a505e78 *./H02/ambient_indoor_temperature.json
 a87acd4d6bf9dd4b89dd68a3ac229ee6 *./T01/beamwidth_between_50percent_values.json
 a8a3a96476ae5d485eb59bf6a0891a1b *./X99/cell_type.json
 a8a401717017885bdb2eae23f284d76d *./F03/effective_frequency_f_e2.json
-a8b625cb090fe904fb7338f6447f50ac *./.idea/vcs.xml
 a8b763baa7e731679bb5c75091f7e785 *./A58/dielectric_construction.json
 a8bd95e3b55dbaf31fb48befde33f099 *./A57/resonator_type.json
 a8bf4aef2a1c79ec944d0d39c56b4e64 *./E01/rms_on-state_current.json
@@ -1427,7 +1422,6 @@ bff3f80765e989e69e70511cae653fc8 *./T01/total_mechanical_rotation.json
 c0357b77ac9c582d3f995d859f161276 *./E01/operating_supply_current.json
 c05cd552bee3ec0d5fa4705e8443253d *./H01/thermal_sensitivity_index_B25_or_75.json
 c06996ac8af399d6a1633df9d11d932f *./E09/collector-base_capacitance.json
-c071603a4474fc30f8120348b56ed8e5 *./.idea/modules.xml
 c115776fc5d30acfedd5d6003d22c217 *./A31/simulator_model_file_date.json
 c11b52269028594664c86109043f1207 *./A58/moisture_sensitivity_level.json
 c16a5b9ac77aeb48736016aa1be7d95c *./X99/applicable_industrial_emission_directives.json
@@ -1565,7 +1559,6 @@ d3936d575c3089e33f613d7aaa7a5534 *./A58/project_view_code.json
 d39b152444033bc47357c2d8dc27c7d1 *./A56/direction_of_rotation.json
 d3abba82b6dba9b2e5a4c4a37f3493fd *./T03/terminal_spacing.json
 d40d2c542f34f481fa89ff1f556a545f *./E33/drain-source_off-state_resistance.json
-d41d8cd98f00b204e9800998ecf8427e *./checksum.txt
 d420d8e7443dd7a6ff0e4784c602b350 *./T03/stud_thread_diameter.json
 d43266fda265e3714aa0082952a30eac *./E09/capacitance_upper_tolerance.json
 d44c58172b15673d0acd3aeb686d1560 *./A14/mean_wave_direction.json
@@ -1586,7 +1579,6 @@ d7155942a4d54497488dd1c63d83b996 *./A56/CSI_functions.json
 d729f47f58787bf833a0ab2d784413e7 *./X99/memory_capacity_for_controller-integrated_memory.json
 d73b55abd58dd4cc2119f70c20f09387 *./F10/relative_attenuation_of_stop_bandwidth.json
 d7b6e1113b3f95ebc9ba69a5ebc0a99f *./X99/number_of_pixels.json
-d7d9746f1c3265148eae6404a55907a3 *./.idea/inspectionProfiles/Project_Default.xml
 d80e018a03ff6387fa930b242594a751 *./T03/fiducial_y_position.json
 d8354f19e69173205786201cf4e4b7d8 *./E06/clamping_voltage.json
 d841f99af5aaacd93d2d6807f4ed3169 *./T03/element_separation.json
@@ -1678,7 +1670,6 @@ e3f8558507fdf66a3ac4c84025384a9e *./Q56/number_of_secondary_coils.json
 e4112c59bc518f6f251e7cfb4bdfcd37 *./X99/main_material.json
 e461abc15e57b3ec1ab86cf71835e97f *./T07/mean_operating_time_to_first_failure.json
 e4ac439e3af79afda3a41e71ada77c59 *./A55/secondary_electrochemical_system.json
-e4b88c11d6c6c6229dbb969696410521 *./.idea/.gitignore
 e4cc799c56ed61efda89c4463c25ccba *./T03/terminal_row_spacing.json
 e4df933cd4a26390dd221cf2d3cc7223 *./E09/symmetric_capacitance_tolerance.json
 e59d38a769aa704b0f959fded61d636e *./E06/emitter-base_voltage_V_EBO.json
@@ -1853,7 +1844,6 @@ fd83a9633c152d497ecbdd98a7080341 *./E25/initial_permeability.json
 fd87d356de09d98b58b50d125265628d *./E09/varistor_capacitance.json
 fdc86aa85c9194dada5b7deda4573063 *./E01/standby_current_disabled.json
 fde33938ea7edec2a7662d69c925b015 *./R51/reliability_measure.json
-fe04a1fa1b2574a989fe20786811310f *./.idea/misc.xml
 fe070c0fd1ea6ce10a9b6c742759a224 *./A59/insulating_material_group.json
 fe0ab4ee6f5a76f551f63553152dfaf4 *./E06/energising_voltage_ac.json
 fe1a185b28cf7a890b06cf29b5f17d4c *./E01/thermistor_current.json
