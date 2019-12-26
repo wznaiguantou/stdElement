@@ -111,6 +111,7 @@
 0fcb7f9b4e506059062e8aa5843c97ad *./A61/environmental_health_and_safety_reference_document.json
 0fd158a35dd61b0657970f542b7b08ba *./A91/version_number.json
 0fdec1c565f3e3e1d41ebcbf24c7b12b *./A56/substrate_connection.json
+0fe84ce4bf4c612def70cb8564c911c4 *./version
 102ac89d5d82dd5e665b831c4bf4dd1e *./A58/illumination_mode.json
 1030ccafc07e3f7e9b871c583db5599a *./A52/die_type.json
 10807287de9220ebcdb70974e5e1a5dd *./A62/requester_name.json
@@ -1498,7 +1499,6 @@ c900fbae866b8d19f91617ee8608d832 *./F10/attenuation.json
 c913f9366d4d3c66852295f5923d9d04 *./A55/diode_technology.json
 c91e0868e4937a4235c8d40b4fbb5269 *./E09/capacitance.json
 c922a88c21bbc4d81ad3ac0c2012797c *./T03/useful_screen_horizontal.json
-c96224fe935ea9a5dacae43c172cac6e *./version
 cabc3a9745021b51a80f0c0fbf2eb763 *./T07/recovery_time.json
 cada7b8f005c9411b2e184d40229dadf *./A52/trajectory_of_motion.json
 cb29e402ed29f1353599fe2f02e40f2f *./A52/classification_system.json
@@ -1560,6 +1560,7 @@ d3936d575c3089e33f613d7aaa7a5534 *./A58/project_view_code.json
 d39b152444033bc47357c2d8dc27c7d1 *./A56/direction_of_rotation.json
 d3abba82b6dba9b2e5a4c4a37f3493fd *./T03/terminal_spacing.json
 d40d2c542f34f481fa89ff1f556a545f *./E33/drain-source_off-state_resistance.json
+d41d8cd98f00b204e9800998ecf8427e *./checksum.txt
 d420d8e7443dd7a6ff0e4784c602b350 *./T03/stud_thread_diameter.json
 d43266fda265e3714aa0082952a30eac *./E09/capacitance_upper_tolerance.json
 d44c58172b15673d0acd3aeb686d1560 *./A14/mean_wave_direction.json
