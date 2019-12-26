@@ -1498,6 +1498,7 @@ c900fbae866b8d19f91617ee8608d832 *./F10/attenuation.json
 c913f9366d4d3c66852295f5923d9d04 *./A55/diode_technology.json
 c91e0868e4937a4235c8d40b4fbb5269 *./E09/capacitance.json
 c922a88c21bbc4d81ad3ac0c2012797c *./T03/useful_screen_horizontal.json
+c96224fe935ea9a5dacae43c172cac6e *./version
 cabc3a9745021b51a80f0c0fbf2eb763 *./T07/recovery_time.json
 cada7b8f005c9411b2e184d40229dadf *./A52/trajectory_of_motion.json
 cb29e402ed29f1353599fe2f02e40f2f *./A52/classification_system.json
