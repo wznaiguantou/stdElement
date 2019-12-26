@@ -122,7 +122,6 @@
 1188793d4e76ed39f49eee0391227049  ./F03/chopping_frequency.json
 11cb2e5b49666f4e32b00dea941eef54  ./A62/reference_to_Date_and_time.json
 11e033d8f8522bc618c8c5c39f2a70e8  ./A56/group_name.json
-12374e335ac947806ff00d1ed886507e  ./version
 1269bf5716b3cf6553c5e3b948554506  ./E06/input_standing_wave_ratio.json
 1274033405bf833950627c50d4a6f13d  ./A56/chargeability_type.json
 129575e9c64cef6088b5fdcecce313ab  ./T07/phase_delay_time.json
@@ -398,6 +397,7 @@
 354a3d6f55246c751a220e4dec999b43  ./T03/digit_height.json
 354cfe2e485800ebf59fba86604271bb  ./E06/collector-emitter_breakdown_voltage.json
 3553c6ecba408b589aa2568b9f2e3c2f  ./A62/version.json
+3562fff609467478a0e6deb09354b849  ./version
 35687d8c5a1f0c5a4b618bfec07e5390  ./A57/soft_magnetic_material_grade.json
 35973293852282a9509e82848a597a51  ./E06/operate_voltage.json
 35a752d1040839eb9400e14adcb3a563  ./A56/PTC_application.json
