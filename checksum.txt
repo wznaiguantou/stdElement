@@ -139,6 +139,7 @@
 13ccfc5d1d0031c75ad526596d834207  ./E33/stability_after_test.json
 13d28d40bad7091fb255be821394fa5e  ./E06/no-load_output_voltage.json
 1437f06cd0daea67835ad0dfcff0040f  ./A58/connector_shape.json
+144045313250856a1288386cbcbda262  ./README.md
 1466fa5cdeb58c0886500ffd07f40cf3  ./E06/gate_trigger_voltage.json
 14b45692d18bb58027abc746ca71319c  ./Q56/number_of_polygon_vertices.json
 1557163ca4698a259dd72f9c48366164  ./X99/power_supply_input.json
