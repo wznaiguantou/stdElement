@@ -252,6 +252,7 @@
 235f16b77b29f1b977813ab231abf678  ./T03/contact_pitch.json
 2389f4f1c053857f627ada3c2a488dda  ./A56/complementary_type.json
 238cdd7e538f3ccff9e6abf319a2cc28  ./E06/release_voltage_dc.json
+23a6c8376c18fa0b4db1bcb011551b48  ./accessory/units
 23c6d555373a2507a323c2ca6fadb923  ./E09/input_capacitance_at_gate.json
 23cbf4d62cd3139f3ba63b10f21a618e  ./A91/single-level_reference_designation.json
 23f6fef30387b49a64a47b92ffb33e85  ./A56/screening.json
@@ -1196,7 +1197,6 @@ a0232bbf01bdbb53d4f836d94b864902  ./K09/engaging_force.json
 a07a0d61fef19aa61400b1765af09a7b  ./E01/non-rep_peak_on-state_current.json
 a07e3d10069ed420251d7fae4fd544c6  ./E06/anode_voltage_limiting.json
 a0b7c2c258b64ad94c5c75bdc28db44c  ./A58/terminal_variant_code.json
-a0bac045a17408ab7363d83a91e1181e  ./version
 a0bf3611d2c8d9f7316b0617bc9caa8c  ./A57/dust_suspension.json
 a0cba8de476df769398476fa7319c6ee  ./A58/net_space.json
 a0cc9e74e7c972d3551be51ccf9323c5  ./A59/stability_test.json
@@ -1329,6 +1329,7 @@ b233c08f86cff345da1179f9e0ff35bd  ./E01/forward_current_limit.json
 b2390409b0950eaec89f5c01936ff5d8  ./E06/intermodulation_distortion_d_im.json
 b23bfe02150eea820baaefab1422f038  ./K09/slide_force.json
 b23e001c1fa0dae2919d7397a08699b2  ./A56/socket_type.json
+b24db5c8391ec5c5d93cd0ac083acbdf  ./version
 b271336e4f9dd7838d4ca1936a16111b  ./E01/surge_current.json
 b27549ea1536076fccd9852542aaac32  ./H02/temperature_T_1.json
 b2857d94cc05cfd6b208800a3254e2fc  ./X99/bright_room_contrast_ratio.json
